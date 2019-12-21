@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV UK" tvg-logo="http://uksmartiptv.cf:8880/whitepicons/1_0_1_1B59_7DA_2_11A0000_0_0_0.png" group-title="Music",MTV UK
-http://viptv.network:25461/live/k/k/214.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" ,ZALTV CODE GENERATOR
+https://raw.githubusercontent.com:443/adisyukri/test/master/zaltv.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="MTV Base UK" tvg-logo="http://uksmartiptv.cf:8880/whitepicons/1_0_1_1B5F_7DA_2_11A0000_0_0_0.png" group-title="Music",MTV Base UK
 http://viptv.network:25461/live/k/k/215.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Hits UK" tvg-logo="http://uksmartiptv.cf:8880/whitepicons/1_0_1_1B5E_7DA_2_11A0000_0_0_0.png" group-title="Music",MTV Hits UK
@@ -28,33 +29,6 @@ http://viptv.network:25461/live/k/k/225.m3u8
 http://viptv.network:25461/live/k/k/226.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Deep House" tvg-logo="" group-title="Music",24/7 Deep House
 http://viptv.network:25461/live/k/k/227.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1HD" tvg-logo="" group-title="International Sports",Bein Sports 1HD
-http://viptv.network:25461/live/k/k/797.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2HD" tvg-logo="" group-title="International Sports",Bein Sports 2HD
-http://viptv.network:25461/live/k/k/798.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3HD" tvg-logo="" group-title="International Sports",Bein Sports 3HD
-http://viptv.network:25461/live/k/k/799.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4HD" tvg-logo="" group-title="International Sports",Bein Sports 4HD
-http://viptv.network:25461/live/k/k/800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5HD" tvg-logo="" group-title="International Sports",Bein Sports 5HD
-http://viptv.network:25461/live/k/k/801.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6HD" tvg-logo="" group-title="International Sports",Bein Sports 6HD
-http://viptv.network:25461/live/k/k/802.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7HD" tvg-logo="" group-title="International Sports",Bein Sports 7HD
-http://viptv.network:25461/live/k/k/803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 8HD" tvg-logo="" group-title="International Sports",Bein Sports 8HD
-http://viptv.network:25461/live/k/k/804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 9HD" tvg-logo="" group-title="International Sports",Bein Sports 9HD
-http://viptv.network:25461/live/k/k/805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 10HD" tvg-logo="" group-title="International Sports",Bein Sports 10HD
-http://viptv.network:25461/live/k/k/806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 11HD" tvg-logo="" group-title="International Sports",Bein Sports 11HD
-http://viptv.network:25461/live/k/k/807.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 12HD" tvg-logo="" group-title="International Sports",Bein Sports 12HD
-http://viptv.network:25461/live/k/k/808.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport NBA" tvg-logo="" group-title="International Sports",Bein Sport NBA
-http://viptv.network:25461/live/k/k/809.m3u8
 
 #EXTINF:-1 tvg-id="CBBC HD" tvg-name="CBBC HD UK" tvg-logo="http://surfnturf.cf:8880/picon/cbbc.png" group-title="Kids",CBBC HD UK
 http://viptv.network:25461/live/k/k/2083.m3u8
@@ -116,6 +90,10 @@ http://viptv.network:25461/live/k/k/2110.m3u8
 http://viptv.network:25461/live/k/k/2111.m3u8
 #EXTINF:-1 tvg-id="Travel Channel" tvg-name="Travel Channel UK" tvg-logo="" group-title="Documentaries",Travel Channel UK
 http://viptv.network:25461/live/k/k/2112.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1HD" tvg-logo="" group-title="International Sports",Bein Sports 1HD
+http://viptv.network:25461/live/k/k/797.m3u8
+
 #EXTINF:-1 tvg-id="BT Sport 1" tvg-name="BT Sport 1 HD" tvg-logo="http://surfnturf.cf:8880/whitepicons/1_0_1_D7AF_900_2_11A0000_0_0_0.png" group-title="Sports",BT Sport 1 HD
 http://viptv.network:25461/live/k/k/2113.m3u8
 #EXTINF:-1 tvg-id="BT Sport 1" tvg-name="BT Sport 1 BU" tvg-logo="http://surfnturf.cf:8880/whitepicons/1_0_1_D7AF_900_2_11A0000_0_0_0.png" group-title="Sports",BT Sport 1 BU
