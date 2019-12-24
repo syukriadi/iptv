@@ -324,9 +324,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Armenia TV (AM)
 http://ott-cdn.ucom.am/s4/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Canal+ Sport (PL)
-https://goool7.ws/lba/123/g5/plcanalplus.m3u8
-
 #EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="SPORTS", BT SPORT 1 HD
 https://sportbox.ws/lba/123/g2/btuk1.m3u8
 
