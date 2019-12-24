@@ -258,51 +258,6 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817AD
 #EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="KIDS & MOVIES",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
 
-#EXTINF:-1 group-title="FEED",Doball 1
-http://stream.doball.com:8080/hls/ch1.m3u8?feed
-
-#EXTINF:-1 group-title="FEED",Doball 2
-http://stream.doball.com:8080/hls/ch2.m3u8?feed
-
-#EXTINF:-1 group-title="FEED",Doball 3
-http://stream.doball.com:8080/hls/ch3.m3u8?feed
-
-#EXTINF:-1 group-title="FEED",Doball 4
-http://stream.doball.com:8080/hls/ch4.m3u8?feed
-
-#EXTINF:-1 group-title="FEED",Doball 5
-http://stream.doball.com:8080/hls/ch5.m3u8?feed
-
-#EXTINF:-1 group-title="FEED",Doball 6
-http://stream.doball.com:8080/hls/ch6.m3u8?feed
-
-#EXTINF:-1 group-title="FEED",Doball 7
-http://stream.doball.com:8080/hls/ch7.m3u8?feed
-
-#EXTINF:-1 group-title="FEED",Doball 8
-http://stream.doball.com:8080/hls/ch8.m3u8?feed
-
-#EXTINF:-1 group-title="FEED",Doball 9
-http://stream.doball.com:8080/hls/ch9.m3u8?feed
-
-#EXTINF:-1 group-title="FEED",Doball 10
-http://stream.doball.com:8080/hls/ch10.m3u8?feed
-
-#EXTINF:-1 group-title="FEED",Doball 11
-http://stream.doball.com:8080/hls/ch11.m3u8?feed
-
-#EXTINF:-1 group-title="FEED",Doball 12
-http://stream.doball.com:8080/hls/ch12.m3u8?feed
-
-#EXTINF:-1 group-title="FEED",Doball 13
-http://stream.doball.com:8080/hls/ch13.m3u8?feed
-
-#EXTINF:-1 group-title="FEED",Doball 14
-http://stream.doball.com:8080/hls/ch14.m3u8?feed
-
-#EXTINF:-1 group-title="FEED",Doball 15
-http://stream.doball.com:8080/hls/ch15.m3u8?feed
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Al Kass Sports 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 
@@ -401,6 +356,52 @@ http://92.43.140.200/s82/04.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 group-title="FEED",Doball 1
+http://stream.doball.com:8080/hls/ch1.m3u8?feed
+
+#EXTINF:-1 group-title="FEED",Doball 2
+http://stream.doball.com:8080/hls/ch2.m3u8?feed
+
+#EXTINF:-1 group-title="FEED",Doball 3
+http://stream.doball.com:8080/hls/ch3.m3u8?feed
+
+#EXTINF:-1 group-title="FEED",Doball 4
+http://stream.doball.com:8080/hls/ch4.m3u8?feed
+
+#EXTINF:-1 group-title="FEED",Doball 5
+http://stream.doball.com:8080/hls/ch5.m3u8?feed
+
+#EXTINF:-1 group-title="FEED",Doball 6
+http://stream.doball.com:8080/hls/ch6.m3u8?feed
+
+#EXTINF:-1 group-title="FEED",Doball 7
+http://stream.doball.com:8080/hls/ch7.m3u8?feed
+
+#EXTINF:-1 group-title="FEED",Doball 8
+http://stream.doball.com:8080/hls/ch8.m3u8?feed
+
+#EXTINF:-1 group-title="FEED",Doball 9
+http://stream.doball.com:8080/hls/ch9.m3u8?feed
+
+#EXTINF:-1 group-title="FEED",Doball 10
+http://stream.doball.com:8080/hls/ch10.m3u8?feed
+
+#EXTINF:-1 group-title="FEED",Doball 11
+http://stream.doball.com:8080/hls/ch11.m3u8?feed
+
+#EXTINF:-1 group-title="FEED",Doball 12
+http://stream.doball.com:8080/hls/ch12.m3u8?feed
+
+#EXTINF:-1 group-title="FEED",Doball 13
+http://stream.doball.com:8080/hls/ch13.m3u8?feed
+
+#EXTINF:-1 group-title="FEED",Doball 14
+http://stream.doball.com:8080/hls/ch14.m3u8?feed
+
+#EXTINF:-1 group-title="FEED",Doball 15
+http://stream.doball.com:8080/hls/ch15.m3u8?feed
+
 
 #EXTINF:-1 tvg-id="d20bc40a0e1fe119745a2a7638d38086" group-title="CZECH PREMIUM",AMC
 http://185.150.27.124:9981/stream/channelid/180620242?profile=pass
