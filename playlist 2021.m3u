@@ -408,187 +408,187 @@ http://92.43.140.200/s82/04.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
-#EXTINF:-1 tvg-id="d20bc40a0e1fe119745a2a7638d38086" group-title="CZECH",AMC
+#EXTINF:-1 tvg-id="d20bc40a0e1fe119745a2a7638d38086" group-title="CZECH PREMIUM",AMC
 http://185.150.27.124:9981/stream/channelid/180620242?profile=pass
 
-#EXTINF:-1 tvg-id="28a21acdc40d77098495fe5ae1d7cfe0" group-title="CZECH",AXN CZ
+#EXTINF:-1 tvg-id="28a21acdc40d77098495fe5ae1d7cfe0" group-title="CZECH PREMIUM",AXN CZ
 http://185.150.27.124:9981/stream/channelid/1293591080?profile=pass
 
-#EXTINF:-1 tvg-id="6316442aeff7a344f866121b396af01f" group-title="CZECH",Cinemax
+#EXTINF:-1 tvg-id="6316442aeff7a344f866121b396af01f" group-title="CZECH PREMIUM",Cinemax
 http://185.150.27.124:9981/stream/channelid/709105251?profile=pass
 
-#EXTINF:-1 tvg-id="b3ed59f1f8ad7fa5e7b54e86d2c6b405" group-title="CZECH",CS Film
+#EXTINF:-1 tvg-id="b3ed59f1f8ad7fa5e7b54e86d2c6b405" group-title="CZECH PREMIUM",CS Film
 http://185.150.27.124:9981/stream/channelid/1901718963?profile=pass
 
-#EXTINF:-1 tvg-id="ed6cb75d6b5cdc219410ba93182d23dc" group-title="CZECH",CT 1 HD
+#EXTINF:-1 tvg-id="ed6cb75d6b5cdc219410ba93182d23dc" group-title="CZECH PREMIUM",CT 1 HD
 http://185.150.27.124:9981/stream/channelid/1572302061?profile=pass
 
-#EXTINF:-1 tvg-id="fb1984cb97afd3ebcf364fd7300d7d59" group-title="CZECH",CT 1 JM HD
+#EXTINF:-1 tvg-id="fb1984cb97afd3ebcf364fd7300d7d59" group-title="CZECH PREMIUM",CT 1 JM HD
 http://185.150.27.124:9981/stream/channelid/1266948603?profile=pass
 
-#EXTINF:-1 tvg-id="9df0b2ed74adad0b5160dc93b38b597b" group-title="CZECH",CT 1 SM HD
+#EXTINF:-1 tvg-id="9df0b2ed74adad0b5160dc93b38b597b" group-title="CZECH PREMIUM",CT 1 SM HD
 http://185.150.27.124:9981/stream/channelid/1840443549?profile=pass
 
-#EXTINF:-1 tvg-id="694625d4c7cd38f3428dee9bde5f3e14" group-title="CZECH",CT 2 HD
+#EXTINF:-1 tvg-id="694625d4c7cd38f3428dee9bde5f3e14" group-title="CZECH PREMIUM",CT 2 HD
 http://185.150.27.124:9981/stream/channelid/1411729001?profile=pass
 
-#EXTINF:-1 tvg-id="2bc333d3187ed7f4d80c2cf11431e31a" group-title="CZECH",CT 24 HD
+#EXTINF:-1 tvg-id="2bc333d3187ed7f4d80c2cf11431e31a" group-title="CZECH PREMIUM",CT 24 HD
 http://185.150.27.124:9981/stream/channelid/1395901227?profile=pass
 
-#EXTINF:-1 tvg-id="63fc951814cf29b0b5e409e165c52b04" group-title="CZECH",CT :D/art HD
+#EXTINF:-1 tvg-id="63fc951814cf29b0b5e409e165c52b04" group-title="CZECH PREMIUM",CT :D/art HD
 http://185.150.27.124:9981/stream/channelid/412482659?profile=pass
 
-#EXTINF:-1 tvg-id="941e4fc50bcb1065bcc9d1affe5c1ec6" group-title="CZECH",CT sport HD
+#EXTINF:-1 tvg-id="941e4fc50bcb1065bcc9d1affe5c1ec6" group-title="CZECH PREMIUM",CT sport HD
 http://185.150.27.124:9981/stream/channelid/1162813076?profile=pass
 
-#EXTINF:-1 tvg-id="30ec39f5078c06497afd557024da0f6a" group-title="CZECH",DAJTO HD
+#EXTINF:-1 tvg-id="30ec39f5078c06497afd557024da0f6a" group-title="CZECH PREMIUM",DAJTO HD
 http://185.150.27.124:9981/stream/channelid/1966730288?profile=pass
 
-#EXTINF:-1 tvg-id="0df11426cce34d61db05ade461df8ad3" group-title="CZECH",Discovery CZ
+#EXTINF:-1 tvg-id="0df11426cce34d61db05ade461df8ad3" group-title="CZECH PREMIUM",Discovery CZ
 http://185.150.27.124:9981/stream/channelid/638906637?profile=pass
 
-#EXTINF:-1 tvg-id="d2e91b17e1678cc47ba67c7d6e57f53b" group-title="CZECH",Disney CZ
+#EXTINF:-1 tvg-id="d2e91b17e1678cc47ba67c7d6e57f53b" group-title="CZECH PREMIUM",Disney CZ
 http://185.150.27.124:9981/stream/channelid/387705298?profile=pass
 
-#EXTINF:-1 tvg-id="17e4eb210654b30917bcdc5a65e05c4b" group-title="CZECH",DOMA HD
+#EXTINF:-1 tvg-id="17e4eb210654b30917bcdc5a65e05c4b" group-title="CZECH PREMIUM",DOMA HD
 http://185.150.27.124:9981/stream/channelid/569107479?profile=pass
 
-#EXTINF:-1 tvg-id="d4eed6448613e587e7ca6e4d2b7e57a1" group-title="CZECH",Film+
+#EXTINF:-1 tvg-id="d4eed6448613e587e7ca6e4d2b7e57a1" group-title="CZECH PREMIUM",Film+
 http://185.150.27.124:9981/stream/channelid/1154936532?profile=pass
 
-#EXTINF:-1 tvg-id="333de143d386ca2bb4b1dfa9d2620cf8" group-title="CZECH",Filmbox
+#EXTINF:-1 tvg-id="333de143d386ca2bb4b1dfa9d2620cf8" group-title="CZECH PREMIUM",Filmbox
 http://185.150.27.124:9981/stream/channelid/1138834739?profile=pass
 
-#EXTINF:-1 tvg-id="4fd85e5d50e851d5be1c416ea67ac05d" group-title="CZECH",Filmbox Extra HD
+#EXTINF:-1 tvg-id="4fd85e5d50e851d5be1c416ea67ac05d" group-title="CZECH PREMIUM",Filmbox Extra HD
 http://185.150.27.124:9981/stream/channelid/1566496847?profile=pass
 
-#EXTINF:-1 tvg-id="71749a7c25374c430b7f6af6e5e54b63" group-title="CZECH",Filmbox Plus
+#EXTINF:-1 tvg-id="71749a7c25374c430b7f6af6e5e54b63" group-title="CZECH PREMIUM",Filmbox Plus
 http://185.150.27.124:9981/stream/channelid/2090497137?profile=pass
 
-#EXTINF:-1 tvg-id="26a6b464b13dc9446be88d5783329f2d" group-title="CZECH",Filmbox Premium
+#EXTINF:-1 tvg-id="26a6b464b13dc9446be88d5783329f2d" group-title="CZECH PREMIUM",Filmbox Premium
 http://185.150.27.124:9981/stream/channelid/1689560614?profile=pass
 
-#EXTINF:-1 tvg-id="9882757ebd48954188d131836ae2ed96" group-title="CZECH",Fishing and Hunting
+#EXTINF:-1 tvg-id="9882757ebd48954188d131836ae2ed96" group-title="CZECH PREMIUM",Fishing and Hunting
 http://185.150.27.124:9981/stream/channelid/2121630360?profile=pass
 
-#EXTINF:-1 tvg-id="9c8609e285130680aec72adcfb4caee8" group-title="CZECH",JOJ Cinema +1 HD
+#EXTINF:-1 tvg-id="9c8609e285130680aec72adcfb4caee8" group-title="CZECH PREMIUM",JOJ Cinema +1 HD
 http://185.150.27.124:9981/stream/channelid/1644791452?profile=pass
 
-#EXTINF:-1 tvg-id="9a1f387421bc5818b5a361bd614ac9df" group-title="CZECH",JOJ Cinema HD
+#EXTINF:-1 tvg-id="9a1f387421bc5818b5a361bd614ac9df" group-title="CZECH PREMIUM",JOJ Cinema HD
 http://185.150.27.124:9981/stream/channelid/1949835162?profile=pass
 
-#EXTINF:-1 tvg-id="f1cc33e0ba8491f84316b3a474fada9f" group-title="CZECH",JOJ Family HD
+#EXTINF:-1 tvg-id="f1cc33e0ba8491f84316b3a474fada9f" group-title="CZECH PREMIUM",JOJ Family HD
 http://185.150.27.124:9981/stream/channelid/1614007537?profile=pass
 
-#EXTINF:-1 tvg-id="1266281427e5a13609f3c395e8fbd07c" group-title="CZECH",JOJ PLUS HD
+#EXTINF:-1 tvg-id="1266281427e5a13609f3c395e8fbd07c" group-title="CZECH PREMIUM",JOJ PLUS HD
 http://185.150.27.124:9981/stream/channelid/338191890?profile=pass
 
-#EXTINF:-1 tvg-id="67936a6f3043eef498003dda6849d59b" group-title="CZECH",Markiza +1 HD
+#EXTINF:-1 tvg-id="67936a6f3043eef498003dda6849d59b" group-title="CZECH PREMIUM",Markiza +1 HD
 http://185.150.27.124:9981/stream/channelid/1869255527?profile=pass
 
-#EXTINF:-1 tvg-id="cfc50223e1346d09cc804367e2b453cb" group-title="CZECH",Markiza HD
+#EXTINF:-1 tvg-id="cfc50223e1346d09cc804367e2b453cb" group-title="CZECH PREMIUM",Markiza HD
 http://185.150.27.124:9981/stream/channelid/587384271?profile=pass
 
-#EXTINF:-1 tvg-id="beff06e726316029caeb20ccf4abd3f0" group-title="CZECH",Markiza International
+#EXTINF:-1 tvg-id="beff06e726316029caeb20ccf4abd3f0" group-title="CZECH PREMIUM",Markiza International
 http://185.150.27.124:9981/stream/channelid/1728511934?profile=pass
 
-#EXTINF:-1 tvg-id="587fc1da5ce0780e3642ec97567afc95" group-title="CZECH",Minimax
+#EXTINF:-1 tvg-id="587fc1da5ce0780e3642ec97567afc95" group-title="CZECH PREMIUM",Minimax
 http://185.150.27.124:9981/stream/channelid/1522630488?profile=pass
 
-#EXTINF:-1 tvg-id="b2921a76ebe4f68aeeb7b4b12e256638" group-title="CZECH",Mnam TV
+#EXTINF:-1 tvg-id="b2921a76ebe4f68aeeb7b4b12e256638" group-title="CZECH PREMIUM",Mnam TV
 http://185.150.27.124:9981/stream/channelid/1981452978?profile=pass
 
-#EXTINF:-1 tvg-id="2050d292ce6ef92325f3d8391ba7e6e4" group-title="CZECH",MTV Europe CZ
+#EXTINF:-1 tvg-id="2050d292ce6ef92325f3d8391ba7e6e4" group-title="CZECH PREMIUM",MTV Europe CZ
 http://185.150.27.124:9981/stream/channelid/315772960?profile=pass
 
-#EXTINF:-1 tvg-id="e9df80e60c117586cd478b470bfeebce" group-title="CZECH",Nat Geo HD CZ
+#EXTINF:-1 tvg-id="e9df80e60c117586cd478b470bfeebce" group-title="CZECH PREMIUM",Nat Geo HD CZ
 http://185.150.27.124:9981/stream/channelid/1719721961?profile=pass
 
-#EXTINF:-1 tvg-id="c021598740c3bd127feef7981270cd8e" group-title="CZECH",National Geographic Wild HD CZ
+#EXTINF:-1 tvg-id="c021598740c3bd127feef7981270cd8e" group-title="CZECH PREMIUM",National Geographic Wild HD CZ
 http://185.150.27.124:9981/stream/channelid/123281856?profile=pass
 
-#EXTINF:-1 tvg-id="058c1dc1941f4c53199720b68bdc1523" group-title="CZECH",Nick Jr Czech
+#EXTINF:-1 tvg-id="058c1dc1941f4c53199720b68bdc1523" group-title="CZECH PREMIUM",Nick Jr Czech
 http://185.150.27.124:9981/stream/channelid/1092455429?profile=pass
 
-#EXTINF:-1 tvg-id="7c3bb98c8563092f3700179a6129aa4a" group-title="CZECH",Nickelodeon CZ
+#EXTINF:-1 tvg-id="7c3bb98c8563092f3700179a6129aa4a" group-title="CZECH PREMIUM",Nickelodeon CZ
 http://185.150.27.124:9981/stream/channelid/213465980?profile=pass
 
-#EXTINF:-1 tvg-id="1d817e578de37fb149ad2075037e104b" group-title="CZECH",Nova +1 HD
+#EXTINF:-1 tvg-id="1d817e578de37fb149ad2075037e104b" group-title="CZECH PREMIUM",Nova +1 HD
 http://185.150.27.124:9981/stream/channelid/1467908381?profile=pass
 
-#EXTINF:-1 tvg-id="c69a75f42599f59379b04a0d2b079906" group-title="CZECH",Nova 2
+#EXTINF:-1 tvg-id="c69a75f42599f59379b04a0d2b079906" group-title="CZECH PREMIUM",Nova 2
 http://185.150.27.124:9981/stream/channelid/1953864390?profile=pass
 
-#EXTINF:-1 tvg-id="0fd326dfb14bb531efeaca079f494efb" group-title="CZECH",Nova Action HD
+#EXTINF:-1 tvg-id="0fd326dfb14bb531efeaca079f494efb" group-title="CZECH PREMIUM",Nova Action HD
 http://185.150.27.124:9981/stream/channelid/1596379919?profile=pass
 
-#EXTINF:-1 tvg-id="428f2cba4fc43db62aef523d8ac88660" group-title="CZECH",Nova Cinema HD
+#EXTINF:-1 tvg-id="428f2cba4fc43db62aef523d8ac88660" group-title="CZECH PREMIUM",Nova Cinema HD
 http://185.150.27.124:9981/stream/channelid/975998786?profile=pass
 
-#EXTINF:-1 tvg-id="32406d000c59f4e724c0e026d93f19ed" group-title="CZECH",Nova Gold
+#EXTINF:-1 tvg-id="32406d000c59f4e724c0e026d93f19ed" group-title="CZECH PREMIUM",Nova Gold
 http://185.150.27.124:9981/stream/channelid/7159858?profile=pass
 
-#EXTINF:-1 tvg-id="3ce5a93dd8588b9e77656b27c5cfcbba" group-title="CZECH",Nova HD
+#EXTINF:-1 tvg-id="3ce5a93dd8588b9e77656b27c5cfcbba" group-title="CZECH PREMIUM",Nova HD
 http://185.150.27.124:9981/stream/channelid/1034544444?profile=pass
 
-#EXTINF:-1 tvg-id="b3322cd08f895f1ddba7d1857004f47a" group-title="CZECH",Nova International
+#EXTINF:-1 tvg-id="b3322cd08f895f1ddba7d1857004f47a" group-title="CZECH PREMIUM",Nova International
 http://185.150.27.124:9981/stream/channelid/1345073843?profile=pass
 
-#EXTINF:-1 tvg-id="550a3679d12a949c7ac35476ee0caa42" group-title="CZECH",Prima +1 HD
+#EXTINF:-1 tvg-id="550a3679d12a949c7ac35476ee0caa42" group-title="CZECH PREMIUM",Prima +1 HD
 http://185.150.27.124:9981/stream/channelid/2033584725?profile=pass
 
-#EXTINF:-1 tvg-id="51ff2b02786842ebcb684b063577a4c8" group-title="CZECH",Prima COOL HD
+#EXTINF:-1 tvg-id="51ff2b02786842ebcb684b063577a4c8" group-title="CZECH PREMIUM",Prima COOL HD
 http://185.150.27.124:9981/stream/channelid/36437841?profile=pass
 
-#EXTINF:-1 tvg-id="3685cba0a3e62812a2724570b136711d" group-title="CZECH",Prima HD
+#EXTINF:-1 tvg-id="3685cba0a3e62812a2724570b136711d" group-title="CZECH PREMIUM",Prima HD
 http://185.150.27.124:9981/stream/channelid/550208822?profile=pass
 
-#EXTINF:-1 tvg-id="9cc9e938c7665b4d51f36fc55c8f7063" group-title="CZECH",Prima Love
+#EXTINF:-1 tvg-id="9cc9e938c7665b4d51f36fc55c8f7063" group-title="CZECH PREMIUM",Prima Love
 http://185.150.27.124:9981/stream/channelid/954845596?profile=pass
 
-#EXTINF:-1 tvg-id="478ade98d6200baa303b9ea1043bcd16" group-title="CZECH",Prima MAX HD
+#EXTINF:-1 tvg-id="478ade98d6200baa303b9ea1043bcd16" group-title="CZECH PREMIUM",Prima MAX HD
 http://185.150.27.124:9981/stream/channelid/417237575?profile=pass
 
-#EXTINF:-1 tvg-id="45f9a5db51958f7b28f8b61b877be5bf" group-title="CZECH",Prima PLUS HD
+#EXTINF:-1 tvg-id="45f9a5db51958f7b28f8b61b877be5bf" group-title="CZECH PREMIUM",Prima PLUS HD
 http://185.150.27.124:9981/stream/channelid/1537603909?profile=pass
 
-#EXTINF:-1 tvg-id="72b48c75b8def8e89dbe0cbaa282b5cb" group-title="CZECH",Prima ZOOM HD
+#EXTINF:-1 tvg-id="72b48c75b8def8e89dbe0cbaa282b5cb" group-title="CZECH PREMIUM",Prima ZOOM HD
 http://185.150.27.124:9981/stream/channelid/1972155506?profile=pass
 
-#EXTINF:-1 tvg-id="42ae9f596995d3b75964800fdb160371" group-title="CZECH",REBEL 2
+#EXTINF:-1 tvg-id="42ae9f596995d3b75964800fdb160371" group-title="CZECH PREMIUM",REBEL 2
 http://185.150.27.124:9981/stream/channelid/1503637058?profile=pass
 
-#EXTINF:-1 tvg-id="b7e41f54d6afa33e830c9ea4aec94b63" group-title="CZECH",regionalnitelevize.cz
+#EXTINF:-1 tvg-id="b7e41f54d6afa33e830c9ea4aec94b63" group-title="CZECH PREMIUM",regionalnitelevize.cz
 http://185.150.27.124:9981/stream/channelid/1411376311?profile=pass
 
-#EXTINF:-1 tvg-id="b98934d611570ab8515eb628fd31df49" group-title="CZECH",Skylink 7
+#EXTINF:-1 tvg-id="b98934d611570ab8515eb628fd31df49" group-title="CZECH PREMIUM",Skylink 7
 http://185.150.27.124:9981/stream/channelid/1446283705?profile=pass
 
-#EXTINF:-1 tvg-id="0c190bb22f2306b3e2fa2ee0d586ca03" group-title="CZECH",Spektrum HD
+#EXTINF:-1 tvg-id="0c190bb22f2306b3e2fa2ee0d586ca03" group-title="CZECH PREMIUM",Spektrum HD
 http://185.150.27.124:9981/stream/channelid/839588108?profile=pass
 
-#EXTINF:-1 tvg-id="317e929ab77ce530bef684ee02e7c5fb" group-title="CZECH",TLC
+#EXTINF:-1 tvg-id="317e929ab77ce530bef684ee02e7c5fb" group-title="CZECH PREMIUM",TLC
 http://185.150.27.124:9981/stream/channelid/445808177?profile=pass
 
-#EXTINF:-1 tvg-id="ad7eb97b6554826c2cf5ff8ece22e11f" group-title="CZECH",TV JOJ +1 HD
+#EXTINF:-1 tvg-id="ad7eb97b6554826c2cf5ff8ece22e11f" group-title="CZECH PREMIUM",TV JOJ +1 HD
 http://185.150.27.124:9981/stream/channelid/2075754157?profile=pass
 
-#EXTINF:-1 tvg-id="97f7f63d482229c4bd9993dfeb31f833" group-title="CZECH",TV JOJ HD
+#EXTINF:-1 tvg-id="97f7f63d482229c4bd9993dfeb31f833" group-title="CZECH PREMIUM",TV JOJ HD
 http://185.150.27.124:9981/stream/channelid/1039595415?profile=pass
 
-#EXTINF:-1 tvg-id="eab076915c30d103b07b42f5f13237d7" group-title="CZECH",TV Paprika
+#EXTINF:-1 tvg-id="eab076915c30d103b07b42f5f13237d7" group-title="CZECH PREMIUM",TV Paprika
 http://185.150.27.124:9981/stream/channelid/292991210?profile=pass
 
-#EXTINF:-1 tvg-id="2cad97eeb3dc82025ee57b7ae6869ed1" group-title="CZECH",UP NETWORK CZ
+#EXTINF:-1 tvg-id="2cad97eeb3dc82025ee57b7ae6869ed1" group-title="CZECH PREMIUM",UP NETWORK CZ
 http://185.150.27.124:9981/stream/channelid/1855434028?profile=pass
 
-#EXTINF:-1 tvg-id="886ebc4016f5e2aad2a5d9281a5c0d29" group-title="CZECH",Viasat Explore
+#EXTINF:-1 tvg-id="886ebc4016f5e2aad2a5d9281a5c0d29" group-title="CZECH PREMIUM",Viasat Explore
 http://185.150.27.124:9981/stream/channelid/1086090888?profile=pass
 
-#EXTINF:-1 tvg-id="b6481012653ea65c3cc23932b0192d5e" group-title="CZECH",Viasat History
+#EXTINF:-1 tvg-id="b6481012653ea65c3cc23932b0192d5e" group-title="CZECH PREMIUM",Viasat History
 http://185.150.27.124:9981/stream/channelid/303057078?profile=pass
 
-#EXTINF:-1 tvg-id="d03a3937fa23ab74aa31b1bfbcd965b8" group-title="CZECH",Viasat Nature
+#EXTINF:-1 tvg-id="d03a3937fa23ab74aa31b1bfbcd965b8" group-title="CZECH PREMIUM",Viasat Nature
 http://185.150.27.124:9981/stream/channelid/926497488?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8f4fv5U.png" group-title="USA",24-7 Retro TV
