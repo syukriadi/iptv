@@ -306,106 +306,106 @@ http://stream.doball.com:8080/hls/ch14.m3u8?feed
 #EXTINF:-1 group-title="FEED",Doball 15
 http://stream.doball.com:8080/hls/ch15.m3u8?feed
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Al Kass Sports 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Al Kass Sports 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Al Kass Sports 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Al Kass Sports 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Al Kass Sports 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Al Kass Sports 3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Al Kass Sports 4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Al Kass Sports 4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Al Kass Sports 5
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Armenia TV (AM)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Armenia TV (AM)
 http://ott-cdn.ucom.am/s4/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Canal+ Sport (PL)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Canal+ Sport (PL)
 https://goool7.ws/lba/123/g5/plcanalplus.m3u8
 
-#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sports", BT SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="SPORTS", BT SPORT 1 HD
 https://sportbox.ws/lba/123/g2/btuk1.m3u8
 
-#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sports",BT SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="SPORTS",BT SPORT 2 HD
 https://sportbox.ws/lba/123/g3/ukbt2sport.m3u8
 
-#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sports",BT SPORT 3 HD
+#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="SPORTS",BT SPORT 3 HD
 https://sportbox.ws/lba/123/g6/3btsporteu.m3u8
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="Sports",SK 1
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SPORTS",SK 1
 https://sport7.ws/lba/OTI2ZmQ0YjljNjZmYTE4ZjdlNmM4OTVhMmMwOTQ4OTY=/g5/sportklub1rs.m3u8
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="Sports",SK 2
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SPORTS",SK 2
 https://sportbox.ws/lba/YTdlMTczOThmNDFhZTU5ODg1ZTY5NGVmMDZhYzJlYTQ=/g1/sk2serbia.m3u8
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="Sports",SK 3
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SPORTS",SK 3
 https://sportbox.ws/lba/YTdlMTczOThmNDFhZTU5ODg1ZTY5NGVmMDZhYzJlYTQ=/g8/rs3sk.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Sky Sports Cricket
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Sky Sports Cricket
 http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Sky sport 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Sky sport 1
 http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Sky sport 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Sky sport 2
 http://95.170.215.120/hls/m3u8/Sky-Sports-2HD.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Sky sport 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Sky sport 3
 http://95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Sky sport 4 GOLF
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Sky sport 4 GOLF
 http://95.170.215.120/hls/m3u8/Sky-Sports-4HD.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Sky sport hd 5 premiere league
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Sky sport hd 5 premiere league
 http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",C-more SPORTS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",C-more SPORTS
 http://95.170.215.120/hls/m3u8/CMore-Sport.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",CT SPORT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",CT SPORT
 http://95.170.215.118/hls/m3u8/CT-Sport.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",CCTV-5+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",CCTV-5+
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",CCTV-5+ (opz.2)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",CCTV-5+ (opz.2)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225906/3.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",DD sportS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",DD sportS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
-#EXTINF:-1 tvg-id="1baa6ca877e6e775128931191366fc9f" group-title="Sports",Nova Sport 1 HD
+#EXTINF:-1 tvg-id="1baa6ca877e6e775128931191366fc9f" group-title="SPORTS",Nova Sport 1 HD
 http://185.150.27.124:9981/stream/channelid/678210075?profile=pass
 
-#EXTINF:-1 tvg-id="e4f352ff5f9414cb950c5c871c7ada57" group-title="Sports",Nova Sport 2 HD
+#EXTINF:-1 tvg-id="e4f352ff5f9414cb950c5c871c7ada57" group-title="SPORTS",Nova Sport 2 HD
 http://185.150.27.124:9981/stream/channelid/2136142820?profile=pass
 
-#EXTINF:-1 tvg-id="ce476039296da23e7abe5776c755823e" group-title="Sports",Sport 1 HD
+#EXTINF:-1 tvg-id="ce476039296da23e7abe5776c755823e" group-title="SPORTS",Sport 1 HD
 http://185.150.27.124:9981/stream/channelid/962611150?profile=pass
 
-#EXTINF:-1 tvg-id="f6bad46837f7fa111867f108652a090d" group-title="Sports",Sport 2 HD
+#EXTINF:-1 tvg-id="f6bad46837f7fa111867f108652a090d" group-title="SPORTS",Sport 2 HD
 http://185.150.27.124:9981/stream/channelid/1758771958?profile=pass
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",RTSH Sport
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",SPORTSMAX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",SPORTSMAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Setanta Sports 1 (Opt-1)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Setanta Sports 1 (Opt-1)
 http://ott-cdn.ucom.am/s81/03.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Setanta Sports 1 (Opt-2)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Setanta Sports 1 (Opt-2)
 http://92.43.140.204:80/s81/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Setanta Sports 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Setanta Sports 2
 http://92.43.140.200/s82/04.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports",Turkmenistan Sport
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1 tvg-id="d20bc40a0e1fe119745a2a7638d38086" group-title="CZECH",AMC
