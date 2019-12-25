@@ -1,0 +1,1151 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" ,ZALTV CODE GENERATOR
+https://raw.githubusercontent.com:443/syukriadi/iptv/master/Proyek_12-25(2)_SD%20360p.mp4
+#EXTINF:-0,XXX1
+http://158.69.66.169/stream/xx1/chunks.m3u8
+#EXTINF:-0,XXX2
+http://158.69.66.169/stream/xx2/chunks.m3u8
+#EXTM3U
+#EXTINF:-1,XXX Video 530
+http://s1.hdporus.com/content/vod/s2237/480/index.m3u8
+#EXTINF:-1,XXX Video 529
+http://s1.hdporus.com/content/vod/s2236/480/index.m3u8
+#EXTINF:-1,XXX Video 528
+http://s1.hdporus.com/content/vod/s2235/480/index.m3u8
+#EXTINF:-1,XXX Video 527
+http://s1.hdporus.com/content/vod/s2234/480/index.m3u8
+#EXTINF:-1,XXX Video 526
+http://s1.hdporus.com/content/vod/s2233/480/index.m3u8
+#EXTINF:-1,XXX Video 525
+http://s1.hdporus.com/content/vod/s2232/480/index.m3u8
+#EXTINF:-1,XXX Video 524
+http://s1.hdporus.com/content/vod/s2231/480/index.m3u8
+#EXTINF:-1,XXX Video 523
+http://s1.hdporus.com/content/vod/s2230/480/index.m3u8
+#EXTINF:-1,XXX Video 522
+http://s1.hdporus.com/content/vod/s2229/480/index.m3u8
+#EXTINF:-1,XXX Video 521
+http://s1.hdporus.com/content/vod/s2228/480/index.m3u8
+#EXTINF:-1,XXX Video 520
+http://s1.hdporus.com/content/vod/s2227/480/index.m3u8
+#EXTINF:-1,XXX Video 519
+http://s1.hdporus.com/content/vod/s2226/480/index.m3u8
+#EXTINF:-1,XXX Video 518
+http://s1.hdporus.com/content/vod/s2225/480/index.m3u8
+#EXTINF:-1,XXX Video 517
+http://s1.hdporus.com/content/vod/s2224/480/index.m3u8
+#EXTINF:-1,XXX Video 516
+http://s1.hdporus.com/content/vod/s2223/480/index.m3u8
+#EXTINF:-1,XXX Video 515
+http://s1.hdporus.com/content/vod/s2222/480/index.m3u8
+#EXTINF:-1,XXX Video 514
+http://s1.hdporus.com/content/vod/s2221/480/index.m3u8
+#EXTINF:-1,XXX Video 513
+http://s1.hdporus.com/content/vod/s2220/480/index.m3u8
+#EXTINF:-1,XXX Video 512 
+http://s1.hdporus.com/content/vod/s2219/480/index.m3u8
+#EXTINF:-1,XXX Video 511
+http://s1.hdporus.com/content/vod/s2218/480/index.m3u8
+#EXTINF:-1,XXX Video 510
+http://s1.hdporus.com/content/vod/s2217/480/index.m3u8
+#EXTINF:-1,XXX Video 509
+http://s1.hdporus.com/content/vod/s2216/480/index.m3u8
+#EXTINF:-1,XXX Video 508
+http://s1.hdporus.com/content/vod/s2215/480/index.m3u8
+#EXTINF:-1,XXX Video 507
+http://s1.hdporus.com/content/vod/s2214/480/index.m3u8
+#EXTINF:-1,XXX Video 506
+http://s1.hdporus.com/content/vod/s2213/480/index.m3u8
+#EXTINF:-1,XXX Video 505
+http://s1.hdporus.com/content/vod/s2212/480/index.m3u8
+#EXTINF:-1,XXX Video 504
+http://s1.hdporus.com/content/vod/s2211/480/index.m3u8
+#EXTINF:-1,XXX Video 503
+http://s1.hdporus.com/content/vod/s2210/480/index.m3u8
+#EXTINF:-1,XXX Video 502
+http://s1.hdporus.com/content/vod/s2209/480/index.m3u8
+#EXTINF:-1,XXX Video 501
+http://s1.hdporus.com/content/vod/s2208/480/index.m3u8
+#EXTINF:-1,XXX Video 500
+http://s1.hdporus.com/content/vod/s2207/480/index.m3u8
+#EXTINF:-1,XXX Video 499
+http://s1.hdporus.com/content/vod/s2206/480/index.m3u8
+#EXTINF:-1,XXX Video 498
+http://s1.hdporus.com/content/vod/s2205/480/index.m3u8
+#EXTINF:-1,XXX Video 497
+http://s1.hdporus.com/content/vod/s2204/480/index.m3u8
+#EXTINF:-1,XXX Video 496
+http://s1.hdporus.com/content/vod/s2203/480/index.m3u8
+#EXTINF:-1,XXX Video 495
+http://s1.hdporus.com/content/vod/s2202/480/index.m3u8
+#EXTINF:-1,XXX Video 494
+http://s1.hdporus.com/content/vod/s2201/480/index.m3u8
+#EXTINF:-1,XXX Video 493
+http://s1.hdporus.com/content/vod/s2200/480/index.m3u8
+#EXTINF:-1,XXX Video 492
+http://s1.hdporus.com/content/vod/s2199/480/index.m3u8
+#EXTINF:-1,XXX Video 491
+http://s1.hdporus.com/content/vod/s2198/480/index.m3u8
+#EXTINF:-1,XXX Video 490
+http://s1.hdporus.com/content/vod/s2197/480/index.m3u8
+#EXTINF:-1,XXX Video 489
+http://s1.hdporus.com/content/vod/s2196/480/index.m3u8
+#EXTINF:-1,XXX Video 488
+http://s1.hdporus.com/content/vod/s2195/480/index.m3u8
+#EXTINF:-1,XXX Video 487
+http://s1.hdporus.com/content/vod/s2194/480/index.m3u8
+#EXTINF:-1,XXX Video 486
+http://s1.hdporus.com/content/vod/s2193/480/index.m3u8
+#EXTINF:-1,XXX Video 485
+http://s1.hdporus.com/content/vod/s2192/480/index.m3u8
+#EXTINF:-1,XXX Video 484
+http://s1.hdporus.com/content/vod/s2191/480/index.m3u8
+#EXTINF:-1,XXX Video 483
+http://s1.hdporus.com/content/vod/s2190/480/index.m3u8
+#EXTINF:-1,XXX Video 482
+http://s1.hdporus.com/content/vod/s2189/480/index.m3u8
+#EXTINF:-1,XXX Video 481
+http://s1.hdporus.com/content/vod/s2188/480/index.m3u8
+#EXTINF:-1,XXX Video 480
+http://s1.hdporus.com/content/vod/s2187/480/index.m3u8
+#EXTINF:-1,XXX Video 479
+http://s1.hdporus.com/content/vod/s2186/480/index.m3u8
+#EXTINF:-1,XXX Video 478
+http://s1.hdporus.com/content/vod/s2185/480/index.m3u8
+#EXTINF:-1,XXX Video 477
+http://s1.hdporus.com/content/vod/s2184/480/index.m3u8
+#EXTINF:-1,XXX Video 476 
+http://s1.hdporus.com/content/vod/s2183/480/index.m3u8
+#EXTINF:-1,XXX Video 475
+http://s1.hdporus.com/content/vod/s2182/480/index.m3u8
+#EXTINF:-1,XXX Video 474
+http://s1.hdporus.com/content/vod/s2181/480/index.m3u8
+#EXTINF:-1,XXX Video 473
+http://s1.hdporus.com/content/vod/s2180/480/index.m3u8
+#EXTINF:-1,XXX Video 472
+http://s1.hdporus.com/content/vod/s2179/480/index.m3u8
+#EXTINF:-1,XXX Video 471
+http://s1.hdporus.com/content/vod/s2178/480/index.m3u8
+#EXTINF:-1,XXX Video 470
+http://s1.hdporus.com/content/vod/s2177/480/index.m3u8
+#EXTINF:-1,XXX Video 469
+http://s1.hdporus.com/content/vod/s2176/480/index.m3u8
+#EXTINF:-1,XXX Video 468
+http://s1.hdporus.com/content/vod/s2175/480/index.m3u8
+#EXTINF:-1,XXX Video 467
+http://s1.hdporus.com/content/vod/s2174/480/index.m3u8
+#EXTINF:-1,XXX Video 466
+http://s1.hdporus.com/content/vod/s2173/480/index.m3u8
+#EXTINF:-1,XXX Video 465
+http://s1.hdporus.com/content/vod/s2172/480/index.m3u8
+#EXTINF:-1,XXX Video 464
+http://s1.hdporus.com/content/vod/s2171/480/index.m3u8
+#EXTINF:-1,XXX Video 463
+http://s1.hdporus.com/content/vod/s2170/480/index.m3u8
+#EXTINF:-1,XXX Video 462
+http://s1.hdporus.com/content/vod/s2169/480/index.m3u8
+#EXTINF:-1,XXX Video 461
+http://s1.hdporus.com/content/vod/s2168/480/index.m3u8
+#EXTINF:-1,XXX Video 460
+http://s1.hdporus.com/content/vod/s2167/480/index.m3u8
+#EXTINF:-1,XXX Video 459
+http://s1.hdporus.com/content/vod/s2166/480/index.m3u8
+#EXTINF:-1,XXX Video 458
+http://s1.hdporus.com/content/vod/s2165/480/index.m3u8
+#EXTINF:-1,XXX Video 457
+http://s1.hdporus.com/content/vod/s2164/480/index.m3u8
+#EXTINF:-1,XXX Video 456
+http://s1.hdporus.com/content/vod/s2163/480/index.m3u8
+#EXTINF:-1,XXX Video 455
+http://s1.hdporus.com/content/vod/s2162/480/index.m3u8
+#EXTINF:-1,XXX Video 454
+http://s1.hdporus.com/content/vod/s2161/480/index.m3u8
+#EXTINF:-1,XXX Video 453
+http://s1.hdporus.com/content/vod/s2160/480/index.m3u8
+#EXTINF:-1,XXX Video 452
+http://s1.hdporus.com/content/vod/s2159/480/index.m3u8
+#EXTINF:-1,XXX Video 451
+http://s1.hdporus.com/content/vod/s2158/480/index.m3u8
+#EXTINF:-1,XXX Video 450
+http://s1.hdporus.com/content/vod/s2157/480/index.m3u8
+#EXTINF:-1,XXX Video 449
+http://s1.hdporus.com/content/vod/s2156/480/index.m3u8
+#EXTINF:-1,XXX Video 448
+http://s1.hdporus.com/content/vod/s2155/480/index.m3u8
+#EXTINF:-1,XXX Video 447
+http://s1.hdporus.com/content/vod/s2154/480/index.m3u8
+#EXTINF:-1,XXX Video 446
+http://s1.hdporus.com/content/vod/s2153/480/index.m3u8
+#EXTINF:-1,XXX Video 445
+http://s1.hdporus.com/content/vod/s2152/480/index.m3u8
+#EXTINF:-1,XXX Video 444
+http://s1.hdporus.com/content/vod/s2151/480/index.m3u8
+#EXTINF:-1,XXX Video 443
+http://s1.hdporus.com/content/vod/s2150/480/index.m3u8
+#EXTINF:-1,XXX Video 442
+http://s1.hdporus.com/content/vod/s2149/480/index.m3u8
+#EXTINF:-1,XXX Video 441
+http://s1.hdporus.com/content/vod/s2148/480/index.m3u8
+#EXTINF:-1,XXX Video 440
+http://s1.hdporus.com/content/vod/s2147/480/index.m3u8
+#EXTINF:-1,XXX Video 439
+http://s1.hdporus.com/content/vod/s2146/480/index.m3u8
+#EXTINF:-1,XXX Video 438
+http://s1.hdporus.com/content/vod/s2145/480/index.m3u8
+#EXTINF:-1,XXX Video 437
+http://s1.hdporus.com/content/vod/s2144/480/index.m3u8
+#EXTINF:-1,XXX Video 436
+http://s1.hdporus.com/content/vod/s2143/480/index.m3u8
+#EXTINF:-1,XXX Video 435
+http://s1.hdporus.com/content/vod/s2142/480/index.m3u8
+#EXTINF:-1,XXX Video 434
+http://s1.hdporus.com/content/vod/s2141/480/index.m3u8
+#EXTINF:-1,XXX Video 433
+http://s1.hdporus.com/content/vod/s2140/480/index.m3u8
+#EXTINF:-1,XXX Video 432
+http://s1.hdporus.com/content/vod/s2139/480/index.m3u8
+#EXTINF:-1,XXX Video 431
+http://s1.hdporus.com/content/vod/s2138/480/index.m3u8
+#EXTINF:-1,XXX Video 430
+http://s1.hdporus.com/content/vod/s2137/480/index.m3u8
+#EXTINF:-1,XXX Video 429
+http://s1.hdporus.com/content/vod/s2136/480/index.m3u8
+#EXTINF:-1,XXX Video 428
+http://s1.hdporus.com/content/vod/s2135/480/index.m3u8
+#EXTINF:-1,XXX Video 427
+http://s1.hdporus.com/content/vod/s2134/480/index.m3u8
+#EXTINF:-1,XXX Video 426
+http://s1.hdporus.com/content/vod/s2133/480/index.m3u8
+#EXTINF:-1,XXX Video 425
+http://s1.hdporus.com/content/vod/s2132/480/index.m3u8
+#EXTINF:-1,XXX Video 424
+http://s1.hdporus.com/content/vod/s2131/480/index.m3u8
+#EXTINF:-1,XXX Video 423
+http://s1.hdporus.com/content/vod/s2130/480/index.m3u8
+#EXTINF:-1,XXX Video 422
+http://s1.hdporus.com/content/vod/s2129/480/index.m3u8
+#EXTINF:-1,XXX Video 421
+http://s1.hdporus.com/content/vod/s2128/480/index.m3u8
+#EXTINF:-1,XXX Video 420
+http://s1.hdporus.com/content/vod/s2127/480/index.m3u8
+#EXTINF:-1,XXX Video 419
+http://s1.hdporus.com/content/vod/s2126/480/index.m3u8
+#EXTINF:-1,XXX Video 418
+http://s1.hdporus.com/content/vod/s2125/480/index.m3u8
+#EXTINF:-1,XXX Video 417
+http://s1.hdporus.com/content/vod/s2124/480/index.m3u8
+#EXTINF:-1,XXX Video 416
+http://s1.hdporus.com/content/vod/s2123/480/index.m3u8
+#EXTINF:-1,XXX Video 415
+http://s1.hdporus.com/content/vod/s2122/480/index.m3u8
+#EXTINF:-1,XXX Video 414
+http://s1.hdporus.com/content/vod/s2121/480/index.m3u8
+#EXTINF:-1,XXX Video 413
+http://s1.hdporus.com/content/vod/s2120/480/index.m3u8
+#EXTINF:-1,XXX Video 412
+http://s1.hdporus.com/content/vod/s2119/480/index.m3u8
+#EXTINF:-1,XXX Video 411
+http://s1.hdporus.com/content/vod/s2118/480/index.m3u8
+#EXTINF:-1,XXX Video 410
+http://s1.hdporus.com/content/vod/s2117/480/index.m3u8
+#EXTINF:-1,XXX Video 409
+http://s1.hdporus.com/content/vod/s2116/480/index.m3u8
+#EXTINF:-1,XXX Video 408
+http://s1.hdporus.com/content/vod/s2115/480/index.m3u8
+#EXTINF:-1,XXX Video 407
+http://s1.hdporus.com/content/vod/s2114/480/index.m3u8
+#EXTINF:-1,XXX Video 406
+http://s1.hdporus.com/content/vod/s2113/480/index.m3u8
+#EXTINF:-1,XXX Video 405
+http://s1.hdporus.com/content/vod/s2112/480/index.m3u8
+#EXTINF:-1,XXX Video 404
+http://s1.hdporus.com/content/vod/s2111/480/index.m3u8
+#EXTINF:-1,XXX Video 403
+http://s1.hdporus.com/content/vod/s2110/480/index.m3u8
+#EXTINF:-1,XXX Video 402
+http://s1.hdporus.com/content/vod/s2109/480/index.m3u8
+#EXTINF:-1,XXX Video 401
+http://s1.hdporus.com/content/vod/s2108/480/index.m3u8
+#EXTINF:-1,XXX Video 400
+http://s1.hdporus.com/content/vod/s2107/480/index.m3u8
+#EXTINF:-1,XXX Video 399
+http://s1.hdporus.com/content/vod/s2104/480/index.m3u8
+#EXTINF:-1,XXX Video 398
+http://s1.hdporus.com/content/vod/s2103/480/index.m3u8
+#EXTINF:-1,XXX Video 397
+http://s1.hdporus.com/content/vod/s2102/480/index.m3u8
+#EXTINF:-1,XXX Video 396
+http://s1.hdporus.com/content/vod/s2101/480/index.m3u8
+#EXTINF:-1,XXX Video 395
+http://s1.hdporus.com/content/vod/s2100/480/index.m3u8
+#EXTINF:-1,XXX Video 394
+http://s1.hdporus.com/content/vod/s2099/480/index.m3u8
+#EXTINF:-1,XXX Video 393
+http://s1.hdporus.com/content/vod/s2098/480/index.m3u8
+#EXTINF:-1,XXX Video 392
+http://s1.hdporus.com/content/vod/s2097/480/index.m3u8
+#EXTINF:-1,XXX Video 391
+http://s1.hdporus.com/content/vod/s2096/480/index.m3u8
+#EXTINF:-1,XXX Video 390
+http://s1.hdporus.com/content/vod/s2095/480/index.m3u8
+#EXTINF:-1,XXX Video 389
+http://s1.hdporus.com/content/vod/s2094/480/index.m3u8
+#EXTINF:-1,XXX Video 388
+http://s1.hdporus.com/content/vod/s2093/480/index.m3u8
+#EXTINF:-1,XXX Video 387
+http://s1.hdporus.com/content/vod/s2092/480/index.m3u8
+#EXTINF:-1,XXX Video 386
+http://s1.hdporus.com/content/vod/s2091/480/index.m3u8
+#EXTINF:-1,XXX Video 385
+http://s1.hdporus.com/content/vod/s2090/480/index.m3u8
+#EXTINF:-1,XXX Video 384
+http://s1.hdporus.com/content/vod/s2089/480/index.m3u8
+#EXTINF:-1,XXX Video 383
+http://s1.hdporus.com/content/vod/s2088/480/index.m3u8
+#EXTINF:-1,XXX Video 382
+http://s1.hdporus.com/content/vod/s2087/480/index.m3u8
+#EXTINF:-1,XXX Video 381
+http://s1.hdporus.com/content/vod/s2086/480/index.m3u8
+#EXTINF:-1,XXX Video 380
+http://s1.hdporus.com/content/vod/s2085/480/index.m3u8
+#EXTINF:-1,XXX Video 379
+http://s1.hdporus.com/content/vod/s2084/480/index.m3u8
+#EXTINF:-1,XXX Video 378
+http://s1.hdporus.com/content/vod/s2083/480/index.m3u8
+#EXTINF:-1,XXX Video 377
+http://s1.hdporus.com/content/vod/s2082/480/index.m3u8
+#EXTINF:-1,XXX Video 376
+http://s1.hdporus.com/content/vod/s2081/480/index.m3u8
+#EXTINF:-1,XXX Video 375
+http://s1.hdporus.com/content/vod/s2079/480/index.m3u8
+#EXTINF:-1,XXX Video 374
+http://s1.hdporus.com/content/vod/s2078/480/index.m3u8
+#EXTINF:-1,XXX Video 373
+http://s1.hdporus.com/content/vod/s2077/480/index.m3u8
+#EXTINF:-1,XXX Video 372
+http://s1.hdporus.com/content/vod/s2076/480/index.m3u8
+#EXTINF:-1,XXX Video 371
+http://s1.hdporus.com/content/vod/s2075/480/index.m3u8
+#EXTINF:-1,XXX Video 370
+http://s1.hdporus.com/content/vod/s2074/480/index.m3u8
+#EXTINF:-1,XXX Video 369
+http://s1.hdporus.com/content/vod/s2073/480/index.m3u8
+#EXTINF:-1,XXX Video 368
+http://s1.hdporus.com/content/vod/s2072/480/index.m3u8
+#EXTINF:-1,XXX Video 367
+http://s1.hdporus.com/content/vod/s2071/480/index.m3u8
+#EXTINF:-1,XXX Video 366
+http://s1.hdporus.com/content/vod/s2070/480/index.m3u8
+#EXTINF:-1,XXX Video 365
+http://s1.hdporus.com/content/vod/s2069/480/index.m3u8
+#EXTINF:-1,XXX Video 364
+http://s1.hdporus.com/content/vod/s2068/480/index.m3u8
+#EXTINF:-1,XXX Video 363
+http://s1.hdporus.com/content/vod/s2067/480/index.m3u8
+#EXTINF:-1,XXX Video 362
+http://s1.hdporus.com/content/vod/s2066/480/index.m3u8
+#EXTINF:-1,XXX Video 361
+http://s1.hdporus.com/content/vod/s2065/480/index.m3u8
+#EXTINF:-1,XXX Video 360
+http://s1.hdporus.com/content/vod/s2064/480/index.m3u8
+#EXTINF:-1,XXX Video 359
+http://s1.hdporus.com/content/vod/s2063/480/index.m3u8
+#EXTINF:-1,XXX Video 358
+http://s1.hdporus.com/content/vod/s2062/480/index.m3u8
+#EXTINF:-1,XXX Video 357
+http://s1.hdporus.com/content/vod/s2061/480/index.m3u8
+#EXTINF:-1,XXX Video 356
+http://s1.hdporus.com/content/vod/s2060/480/index.m3u8
+#EXTINF:-1,XXX Video 355
+http://s1.hdporus.com/content/vod/s2059/480/index.m3u8
+#EXTINF:-1,XXX Video 354
+http://s1.hdporus.com/content/vod/s2058/480/index.m3u8
+#EXTINF:-1,XXX Video 353
+http://s1.hdporus.com/content/vod/s2057/480/index.m3u8
+#EXTINF:-1,XXX Video 352
+http://s1.hdporus.com/content/vod/s2056/480/index.m3u8
+#EXTINF:-1,XXX Video 351
+http://s1.hdporus.com/content/vod/s2055/480/index.m3u8
+#EXTINF:-1,XXX Video 350
+http://s1.hdporus.com/content/vod/s2054/480/index.m3u8
+#EXTINF:-1,XXX Video 349
+http://s1.hdporus.com/content/vod/s2053/480/index.m3u8
+#EXTINF:-1,XXX Video 348
+http://s1.hdporus.com/content/vod/s2052/480/index.m3u8
+#EXTINF:-1,XXX Video 347
+http://s1.hdporus.com/content/vod/s2051/480/index.m3u8
+#EXTINF:-1,XXX Video 346
+http://s1.hdporus.com/content/vod/s2050/480/index.m3u8
+#EXTINF:-1,XXX Video 345
+http://s1.hdporus.com/content/vod/s2049/480/index.m3u8
+#EXTINF:-1,XXX Video 344
+http://s1.hdporus.com/content/vod/s2048/480/index.m3u8
+#EXTINF:-1,XXX Video 343
+http://s1.hdporus.com/content/vod/s2047/480/index.m3u8
+#EXTINF:-1,XXX Video 342
+http://s1.hdporus.com/content/vod/s2046/480/index.m3u8
+#EXTINF:-1,XXX Video 341
+http://s1.hdporus.com/content/vod/s2045/480/index.m3u8
+#EXTINF:-1,XXX Video 340
+http://s1.hdporus.com/content/vod/s2044/480/index.m3u8
+#EXTINF:-1,XXX Video 339
+http://s1.hdporus.com/content/vod/s2043/480/index.m3u8
+#EXTINF:-1,XXX Video 338
+http://s1.hdporus.com/content/vod/s2042/480/index.m3u8
+#EXTINF:-1,XXX Video 337
+http://s1.hdporus.com/content/vod/s2041/480/index.m3u8
+#EXTINF:-1,XXX Video 336
+http://s1.hdporus.com/content/vod/s2040/480/index.m3u8
+#EXTINF:-1,XXX Video 335
+http://s1.hdporus.com/content/vod/s2039/480/index.m3u8
+#EXTINF:-1,XXX Video 334
+http://s1.hdporus.com/content/vod/s2038/480/index.m3u8
+#EXTINF:-1,XXX Video 333
+http://s1.hdporus.com/content/vod/s2037/480/index.m3u8
+#EXTINF:-1,XXX Video 332
+http://s1.hdporus.com/content/vod/s2036/480/index.m3u8
+#EXTINF:-1,XXX Video 331
+http://s1.hdporus.com/content/vod/s2035/480/index.m3u8
+#EXTINF:-1,XXX Video 330
+http://s1.hdporus.com/content/vod/s2034/480/index.m3u8
+#EXTINF:-1,XXX Video 329
+http://s1.hdporus.com/content/vod/s2033/480/index.m3u8
+#EXTINF:-1,XXX Video 328
+http://s1.hdporus.com/content/vod/s2032/480/index.m3u8
+#EXTINF:-1,XXX Video 327
+http://s1.hdporus.com/content/vod/s2031/480/index.m3u8
+#EXTINF:-1,XXX Video 326
+http://s1.hdporus.com/content/vod/s2030/480/index.m3u8
+#EXTINF:-1,XXX Video 325
+http://s1.hdporus.com/content/vod/s2029/480/index.m3u8
+#EXTINF:-1,XXX Video 324
+http://s1.hdporus.com/content/vod/s2028/480/index.m3u8
+#EXTINF:-1,XXX Video 323
+http://s1.hdporus.com/content/vod/s2027/480/index.m3u8
+#EXTINF:-1,XXX Video 322
+http://s1.hdporus.com/content/vod/s2026/480/index.m3u8
+#EXTINF:-1,XXX Video 321
+http://s1.hdporus.com/content/vod/s2025/480/index.m3u8
+#EXTINF:-1,XXX Video 320
+http://s1.hdporus.com/content/vod/s2024/480/index.m3u8
+#EXTINF:-1,XXX Video 319
+http://s1.hdporus.com/content/vod/s2023/480/index.m3u8
+#EXTINF:-1,XXX Video 318
+http://s1.hdporus.com/content/vod/s2022/480/index.m3u8
+#EXTINF:-1,XXX Video 317
+http://s1.hdporus.com/content/vod/s2021/480/index.m3u8
+#EXTINF:-1,XXX Video 316
+http://s1.hdporus.com/content/vod/s2020/480/index.m3u8
+#EXTINF:-1,XXX Video 315
+http://s1.hdporus.com/content/vod/s2019/480/index.m3u8
+#EXTINF:-1,XXX Video 314
+http://s1.hdporus.com/content/vod/s2018/480/index.m3u8
+#EXTINF:-1,XXX Video 313
+http://s1.hdporus.com/content/vod/s2017/480/index.m3u8
+#EXTINF:-1,XXX Video 312
+http://s1.hdporus.com/content/vod/s2016/480/index.m3u8
+#EXTINF:-1,XXX Video 311
+http://s1.hdporus.com/content/vod/s2015/480/index.m3u8
+#EXTINF:-1,XXX Video 310
+http://s1.hdporus.com/content/vod/s2014/480/index.m3u8
+#EXTINF:-1,XXX Video 309
+http://s1.hdporus.com/content/vod/s2013/480/index.m3u8
+#EXTINF:-1,XXX Video 308
+http://s1.hdporus.com/content/vod/s2012/480/index.m3u8
+#EXTINF:-1,XXX Video 307
+http://s1.hdporus.com/content/vod/s2011/480/index.m3u8
+#EXTINF:-1,XXX Video 306
+http://s1.hdporus.com/content/vod/s2010/480/index.m3u8
+#EXTINF:-1,XXX Video 305
+http://s1.hdporus.com/content/vod/s2009/480/index.m3u8
+#EXTINF:-1,XXX Video 304
+http://s1.hdporus.com/content/vod/s2008/480/index.m3u8
+#EXTINF:-1,XXX Video 303
+http://s1.hdporus.com/content/vod/s2007/480/index.m3u8
+#EXTINF:-1,XXX Video 302
+http://s1.hdporus.com/content/vod/s2006/480/index.m3u8
+#EXTINF:-1,XXX Video 301
+http://s1.hdporus.com/content/vod/s2005/480/index.m3u8
+#EXTINF:-1,XXX Video 300
+http://s1.hdporus.com/content/vod/s2004/480/index.m3u8
+#EXTINF:-1,XXX Video 299
+http://s1.hdporus.com/content/vod/s2003/480/index.m3u8
+#EXTINF:-1,XXX Video 298
+http://s1.hdporus.com/content/vod/s2002/480/index.m3u8
+#EXTINF:-1,XXX Video 297
+http://s1.hdporus.com/content/vod/s2001/480/index.m3u8
+#EXTINF:-1,XXX Video 296
+http://s1.hdporus.com/content/vod/s2000/480/index.m3u8
+#EXTINF:-1,XXX Video 295
+http://s1.hdporus.com/content/vod/s1999/480/index.m3u8
+#EXTINF:-1,XXX Video 294
+http://s1.hdporus.com/content/vod/s1998/480/index.m3u8
+#EXTINF:-1,XXX Video 293
+http://s1.hdporus.com/content/vod/s1997/480/index.m3u8
+#EXTINF:-1,XXX Video 292
+http://s1.hdporus.com/content/vod/s1996/480/index.m3u8
+#EXTINF:-1,XXX Video 291
+http://s1.hdporus.com/content/vod/s1995/480/index.m3u8
+#EXTINF:-1,XXX Video 290
+http://s1.hdporus.com/content/vod/s1994/480/index.m3u8
+#EXTINF:-1,XXX Video 289
+http://s1.hdporus.com/content/vod/s1993/480/index.m3u8
+#EXTINF:-1,XXX Video 288
+http://s1.hdporus.com/content/vod/s1992/480/index.m3u8
+#EXTINF:-1,XXX Video 287
+http://s1.hdporus.com/content/vod/s1991/480/index.m3u8
+#EXTINF:-1,XXX Video 286
+http://s1.hdporus.com/content/vod/s1990/480/index.m3u8
+#EXTINF:-1,XXX Video 285
+http://s1.hdporus.com/content/vod/s1989/480/index.m3u8
+#EXTINF:-1,XXX Video 284
+http://s1.hdporus.com/content/vod/s1988/480/index.m3u8
+#EXTINF:-1,XXX Video 283
+http://s1.hdporus.com/content/vod/s1987/480/index.m3u8
+#EXTINF:-1,XXX Video 282
+http://s1.hdporus.com/content/vod/s1986/480/index.m3u8
+#EXTINF:-1,XXX Video 281
+http://s1.hdporus.com/content/vod/s1985/480/index.m3u8
+#EXTINF:-1,XXX Video 281
+http://s1.hdporus.com/content/vod/s1984/480/index.m3u8
+#EXTINF:-1,XXX Video 280
+http://s1.hdporus.com/content/vod/s1983/480/index.m3u8
+#EXTINF:-1,XXX Video 279
+http://s1.hdporus.com/content/vod/s1982/480/index.m3u8
+#EXTINF:-1,XXX Video 278
+http://s1.hdporus.com/content/vod/s1981/480/index.m3u8
+#EXTINF:-1,XXX Video 277
+http://s1.hdporus.com/content/vod/s1980/480/index.m3u8
+#EXTINF:-1,XXX Video 276
+http://s1.hdporus.com/content/vod/s1979/480/index.m3u8
+#EXTINF:-1,XXX Video 275
+http://s1.hdporus.com/content/vod/s1978/480/index.m3u8
+#EXTINF:-1,XXX Video 274
+http://s1.hdporus.com/content/vod/s1977/480/index.m3u8
+#EXTINF:-1,XXX Video 273
+http://s1.hdporus.com/content/vod/s1976/480/index.m3u8
+#EXTINF:-1,XXX Video 272
+http://s1.hdporus.com/content/vod/s1975/480/index.m3u8
+#EXTINF:-1,XXX Video 271
+http://s1.hdporus.com/content/vod/s1974/480/index.m3u8
+#EXTINF:-1,XXX Video 270
+http://s1.hdporus.com/content/vod/s1973/480/index.m3u8
+#EXTINF:-1,XXX Video 269
+http://s1.hdporus.com/content/vod/s1972/480/index.m3u8
+#EXTINF:-1,XXX Video 268
+http://s1.hdporus.com/content/vod/s1971/480/index.m3u8
+#EXTINF:-1,XXX Video 267
+http://s1.hdporus.com/content/vod/s1970/480/index.m3u8
+#EXTINF:-1,XXX Video 266
+http://s1.hdporus.com/content/vod/s1969/480/index.m3u8
+#EXTINF:-1,XXX Video 265
+http://s1.hdporus.com/content/vod/s1968/480/index.m3u8
+#EXTINF:-1,XXX Video 264
+http://s1.hdporus.com/content/vod/s1967/480/index.m3u8
+#EXTINF:-1,XXX Video 263
+http://s1.hdporus.com/content/vod/s1966/480/index.m3u8
+#EXTINF:-1,XXX Video 262
+http://s1.hdporus.com/content/vod/s1965/480/index.m3u8
+#EXTINF:-1,XXX Video 261
+http://s1.hdporus.com/content/vod/s1964/480/index.m3u8
+#EXTINF:-1,XXX Video 260
+http://s1.hdporus.com/content/vod/s1963/480/index.m3u8
+#EXTINF:-1,XXX Video 259
+http://s1.hdporus.com/content/vod/s1962/480/index.m3u8
+#EXTINF:-1,XXX Video 258
+http://s1.hdporus.com/content/vod/s1961/480/index.m3u8
+#EXTINF:-1,XXX Video 257
+http://s1.hdporus.com/content/vod/s1960/480/index.m3u8
+#EXTINF:-1,XXX Video 256
+http://s1.hdporus.com/content/vod/s1959/480/index.m3u8
+#EXTINF:-1,XXX Video 255
+http://s1.hdporus.com/content/vod/s1958/480/index.m3u8
+#EXTINF:-1,XXX Video 254
+http://s1.hdporus.com/content/vod/s1957/480/index.m3u8
+#EXTINF:-1,XXX Video 253
+http://s1.hdporus.com/content/vod/s1956/480/index.m3u8
+#EXTINF:-1,XXX Video 252
+http://s1.hdporus.com/content/vod/s1955/480/index.m3u8
+#EXTINF:-1,XXX Video 251
+http://s1.hdporus.com/content/vod/s1954/480/index.m3u8
+#EXTINF:-1,XXX Video 250
+http://s1.hdporus.com/content/vod/s1953/480/index.m3u8
+#EXTINF:-1,XXX Video 249
+http://s1.hdporus.com/content/vod/s1952/480/index.m3u8
+#EXTINF:-1,XXX Video 248
+http://s1.hdporus.com/content/vod/s1951/480/index.m3u8
+#EXTINF:-1,XXX Video 247
+http://s1.hdporus.com/content/vod/s1950/480/index.m3u8
+#EXTINF:-1,XXX Video 246
+http://s1.hdporus.com/content/vod/s1949/480/index.m3u8
+#EXTINF:-1,XXX Video 245
+http://s1.hdporus.com/content/vod/s1948/480/index.m3u8
+#EXTINF:-1,XXX Video 244
+http://s1.hdporus.com/content/vod/s1947/480/index.m3u8
+#EXTINF:-1,XXX Video 243
+http://s1.hdporus.com/content/vod/s1946/480/index.m3u8
+#EXTINF:-1,XXX Video 242
+http://s1.hdporus.com/content/vod/s1945/480/index.m3u8
+#EXTINF:-1,XXX Video 241
+http://s1.hdporus.com/content/vod/s1944/480/index.m3u8
+#EXTINF:-1,XXX Video 240
+http://s1.hdporus.com/content/vod/s1943/480/index.m3u8
+#EXTINF:-1,XXX Video 239
+http://s1.hdporus.com/content/vod/s1942/480/index.m3u8
+#EXTINF:-1,XXX Video 237
+http://s1.hdporus.com/content/vod/s1940/480/index.m3u8
+#EXTINF:-1,XXX Video 236
+http://s1.hdporus.com/content/vod/s1939/480/index.m3u8
+#EXTINF:-1,XXX Video 235
+http://s1.hdporus.com/content/vod/s1938/480/index.m3u8
+#EXTINF:-1,XXX Video 234
+http://s1.hdporus.com/content/vod/s1937/480/index.m3u8
+#EXTINF:-1,XXX Video 233
+http://s1.hdporus.com/content/vod/s1936/480/index.m3u8
+#EXTINF:-1,XXX Video 232
+http://s1.hdporus.com/content/vod/s1935/480/index.m3u8
+#EXTINF:-1,XXX Video 231
+http://s1.hdporus.com/content/vod/s1934/480/index.m3u8
+#EXTINF:-1,XXX Video 230
+http://s1.hdporus.com/content/vod/s1933/480/index.m3u8
+#EXTINF:-1,XXX Video 229
+http://s1.hdporus.com/content/vod/s1932/480/index.m3u8
+#EXTINF:-1,XXX Video 227
+http://s1.hdporus.com/content/vod/s1930/480/index.m3u8
+#EXTINF:-1,XXX Video 226
+http://s1.hdporus.com/content/vod/s1929/480/index.m3u8
+#EXTINF:-1,XXX Video 225
+http://s1.hdporus.com/content/vod/s1928/480/index.m3u8
+#EXTINF:-1,XXX Video 224
+http://s1.hdporus.com/content/vod/s1927/480/index.m3u8
+#EXTINF:-1,XXX Video 223
+http://s1.hdporus.com/content/vod/s1926/480/index.m3u8
+#EXTINF:-1,XXX Video 222
+http://s1.hdporus.com/content/vod/s1925/480/index.m3u8
+#EXTINF:-1,XXX Video 221
+http://s1.hdporus.com/content/vod/s1924/480/index.m3u8
+#EXTINF:-1,XXX Video 220
+http://s1.hdporus.com/content/vod/s1923/480/index.m3u8
+#EXTINF:-1,XXX Video 219
+http://s1.hdporus.com/content/vod/s1922/480/index.m3u8
+#EXTINF:-1,XXX Video 218
+http://s1.hdporus.com/content/vod/s1921/480/index.m3u8
+#EXTINF:-1,XXX Video 217
+http://s1.hdporus.com/content/vod/s1920/480/index.m3u8
+#EXTINF:-1,XXX Video 216
+http://s1.hdporus.com/content/vod/s1919/480/index.m3u8
+#EXTINF:-1,XXX Video 215
+http://s1.hdporus.com/content/vod/s1918/480/index.m3u8
+#EXTINF:-1,XXX Video 214
+http://s1.hdporus.com/content/vod/s1917/480/index.m3u8
+#EXTINF:-1,XXX Video 213
+http://s1.hdporus.com/content/vod/s1916/480/index.m3u8
+#EXTINF:-1,XXX Video 212
+http://s1.hdporus.com/content/vod/s1915/480/index.m3u8
+#EXTINF:-1,XXX Video 211
+http://s1.hdporus.com/content/vod/s1914/480/index.m3u8
+#EXTINF:-1,XXX Video 210
+http://s1.hdporus.com/content/vod/s1913/480/index.m3u8
+#EXTINF:-1,XXX Video 209
+http://s1.hdporus.com/content/vod/s1912/480/index.m3u8
+#EXTINF:-1,XXX Video 208
+http://s1.hdporus.com/content/vod/s1911/480/index.m3u8
+#EXTINF:-1,XXX Video 207
+http://s1.hdporus.com/content/vod/s1910/480/index.m3u8
+#EXTINF:-1,XXX Video 206
+http://s1.hdporus.com/content/vod/s1909/480/index.m3u8
+#EXTINF:-1,XXX Video 205
+http://s1.hdporus.com/content/vod/s1908/480/index.m3u8
+#EXTINF:-1,XXX Video 204
+http://s1.hdporus.com/content/vod/s1907/480/index.m3u8
+#EXTINF:-1,XXX Video 203
+http://s1.hdporus.com/content/vod/s1906/480/index.m3u8
+#EXTINF:-1,XXX Video 202
+http://s1.hdporus.com/content/vod/s1905/480/index.m3u8
+#EXTINF:-1,XXX Video 201
+http://s1.hdporus.com/content/vod/s1904/480/index.m3u8
+#EXTINF:-1,XXX Video 200
+http://s1.hdporus.com/content/vod/s1903/480/index.m3u8
+#EXTINF:-1,XXX Video 198
+http://s1.hdporus.com/content/vod/s1901/480/index.m3u8
+#EXTINF:-1,XXX Video 197
+http://s1.hdporus.com/content/vod/s1900/480/index.m3u8
+#EXTINF:-1,XXX Video 196
+http://s1.hdporus.com/content/vod/s1899/480/index.m3u8
+#EXTINF:-1,XXX Video 195
+http://s1.hdporus.com/content/vod/s1898/480/index.m3u8
+#EXTINF:-1,XXX Video 194
+http://s1.hdporus.com/content/vod/s1897/480/index.m3u8
+#EXTINF:-1,XXX Video 193
+http://s1.hdporus.com/content/vod/s1896/480/index.m3u8
+#EXTINF:-1,XXX Video 192
+http://s1.hdporus.com/content/vod/s1895/480/index.m3u8
+#EXTINF:-1,XXX Video 191
+http://s1.hdporus.com/content/vod/s1894/480/index.m3u8
+#EXTINF:-1,XXX Video 190
+http://s1.hdporus.com/content/vod/s1893/480/index.m3u8
+#EXTINF:-1,XXX Video 189
+http://s1.hdporus.com/content/vod/s1892/480/index.m3u8
+#EXTINF:-1,XXX Video 188
+http://s1.hdporus.com/content/vod/s1891/480/index.m3u8
+#EXTINF:-1,XXX Video 187
+http://s1.hdporus.com/content/vod/s1890/480/index.m3u8
+#EXTINF:-1,XXX Video 186
+http://s1.hdporus.com/content/vod/s1889/480/index.m3u8
+#EXTINF:-1,XXX Video 185
+http://s1.hdporus.com/content/vod/s1888/480/index.m3u8
+#EXTINF:-1,XXX Video 184
+http://s1.hdporus.com/content/vod/s1887/480/index.m3u8
+#EXTINF:-1,XXX Video 183
+http://s1.hdporus.com/content/vod/s1886/480/index.m3u8
+#EXTINF:-1,XXX Video 182
+http://s1.hdporus.com/content/vod/s1885/480/index.m3u8
+#EXTINF:-1,XXX Video 181
+http://s1.hdporus.com/content/vod/s1884/480/index.m3u8
+#EXTINF:-1,XXX Video 180
+http://s1.hdporus.com/content/vod/s1883/480/index.m3u8
+#EXTINF:-1,XXX Video 179
+http://s1.hdporus.com/content/vod/s1882/480/index.m3u8
+#EXTINF:-1,XXX Video 178
+http://s1.hdporus.com/content/vod/s1881/480/index.m3u8
+#EXTINF:-1,XXX Video 177
+http://s1.hdporus.com/content/vod/s1880/480/index.m3u8
+#EXTINF:-1,XXX Video 176
+http://s1.hdporus.com/content/vod/s1879/480/index.m3u8
+#EXTINF:-1,XXX Video 175
+http://s1.hdporus.com/content/vod/s1878/480/index.m3u8
+#EXTINF:-1,XXX Video 174
+http://s1.hdporus.com/content/vod/s1877/480/index.m3u8
+#EXTINF:-1,XXX Video 173
+http://s1.hdporus.com/content/vod/s1876/480/index.m3u8
+#EXTINF:-1,XXX Video 172
+http://s1.hdporus.com/content/vod/s1875/480/index.m3u8
+#EXTINF:-1,XXX Video 171
+http://s1.hdporus.com/content/vod/s1874/480/index.m3u8
+#EXTINF:-1,XXX Video 170
+http://s1.hdporus.com/content/vod/s1873/480/index.m3u8
+#EXTINF:-1,XXX Video 169
+http://s1.hdporus.com/content/vod/s1872/480/index.m3u8
+#EXTINF:-1,XXX Video 168
+http://s1.hdporus.com/content/vod/s1871/480/index.m3u8
+#EXTINF:-1,XXX Video 168
+http://s1.hdporus.com/content/vod/s1870/480/index.m3u8
+#EXTINF:-1,XXX Video 167
+http://s1.hdporus.com/content/vod/s1869/480/index.m3u8
+#EXTINF:-1,XXX Video 166
+http://s1.hdporus.com/content/vod/s1868/480/index.m3u8
+#EXTINF:-1,XXX Video 165
+http://s1.hdporus.com/content/vod/s1867/480/index.m3u8
+#EXTINF:-1,XXX Video 164
+http://s1.hdporus.com/content/vod/s1866/480/index.m3u8
+#EXTINF:-1,XXX Video 163
+http://s1.hdporus.com/content/vod/s1865/480/index.m3u8
+#EXTINF:-1,XXX Video 162
+http://s1.hdporus.com/content/vod/s1864/480/index.m3u8
+#EXTINF:-1,XXX Video 161
+http://s1.hdporus.com/content/vod/s1863/480/index.m3u8
+#EXTINF:-1,XXX Video 160
+http://s1.hdporus.com/content/vod/s1862/480/index.m3u8
+#EXTINF:-1,XXX Video 159
+http://s1.hdporus.com/content/vod/s1861/480/index.m3u8
+#EXTINF:-1,XXX Video 158
+http://s1.hdporus.com/content/vod/s1860/480/index.m3u8
+#EXTINF:-1,XXX Video 157
+http://s1.hdporus.com/content/vod/s1859/480/index.m3u8
+#EXTINF:-1,XXX Video 156
+http://s1.hdporus.com/content/vod/s1858/480/index.m3u8
+#EXTINF:-1,XXX Video 155
+http://s1.hdporus.com/content/vod/s1857/480/index.m3u8
+#EXTINF:-1,XXX Video 153
+http://s1.hdporus.com/content/vod/s1855/480/index.m3u8
+#EXTINF:-1,XXX Video 152
+http://s1.hdporus.com/content/vod/s1854/480/index.m3u8
+#EXTINF:-1,XXX Video 151
+http://s1.hdporus.com/content/vod/s1853/480/index.m3u8
+#EXTINF:-1,XXX Video 150
+http://s1.hdporus.com/content/vod/s1852/480/index.m3u8
+#EXTINF:-1,XXX Video 149
+http://s1.hdporus.com/content/vod/s1851/480/index.m3u8
+#EXTINF:-1,XXX Video 148
+http://s1.hdporus.com/content/vod/s1850/480/index.m3u8
+#EXTINF:-1,XXX Video 147
+http://s1.hdporus.com/content/vod/s1849/480/index.m3u8
+#EXTINF:-1,XXX Video 146
+http://s1.hdporus.com/content/vod/s1848/480/index.m3u8
+#EXTINF:-1,XXX Video 145
+http://s1.hdporus.com/content/vod/s1847/480/index.m3u8
+#EXTINF:-1,XXX Video 144
+http://s1.hdporus.com/content/vod/s1846/480/index.m3u8
+#EXTINF:-1,XXX Video 143
+http://s1.hdporus.com/content/vod/s1845/480/index.m3u8
+#EXTINF:-1,XXX Video 142
+http://s1.hdporus.com/content/vod/s1844/480/index.m3u8
+#EXTINF:-1,XXX Video 141
+http://s1.hdporus.com/content/vod/s1843/480/index.m3u8
+#EXTINF:-1,XXX Video 140
+http://s1.hdporus.com/content/vod/s1842/480/index.m3u8
+#EXTINF:-1,XXX Video 139
+http://s1.hdporus.com/content/vod/s1841/480/index.m3u8
+#EXTINF:-1,XXX Video 138
+http://s1.hdporus.com/content/vod/s1840/480/index.m3u8
+#EXTINF:-1,XXX Video 137
+http://s1.hdporus.com/content/vod/s1839/480/index.m3u8
+#EXTINF:-1,XXX Video 136
+http://s1.hdporus.com/content/vod/s1838/480/index.m3u8
+#EXTINF:-1,XXX Video 135
+http://s1.hdporus.com/content/vod/s1837/480/index.m3u8
+#EXTINF:-1,XXX Video 134
+http://s1.hdporus.com/content/vod/s1836/480/index.m3u8
+#EXTINF:-1,XXX Video 133
+http://s1.hdporus.com/content/vod/s1835/480/index.m3u8
+#EXTINF:-1,XXX Video 132
+http://s1.hdporus.com/content/vod/s1834/480/index.m3u8
+#EXTINF:-1,XXX Video 131
+http://s1.hdporus.com/content/vod/s1833/480/index.m3u8
+#EXTINF:-1,XXX Video 130
+http://s1.hdporus.com/content/vod/s1832/480/index.m3u8
+#EXTINF:-1,XXX Video 129
+http://s1.hdporus.com/content/vod/s1831/480/index.m3u8
+#EXTINF:-1,XXX Video 128
+http://s1.hdporus.com/content/vod/s1830/480/index.m3u8
+#EXTINF:-1,XXX Video 127
+http://s1.hdporus.com/content/vod/s1829/480/index.m3u8
+#EXTINF:-1,XXX Video 126
+http://s1.hdporus.com/content/vod/s1828/480/index.m3u8
+#EXTINF:-1,XXX Video 125
+http://s1.hdporus.com/content/vod/s1827/480/index.m3u8
+#EXTINF:-1,XXX Video 124
+http://s1.hdporus.com/content/vod/s1826/480/index.m3u8
+#EXTINF:-1,XXX Video 123
+http://s1.hdporus.com/content/vod/s1825/480/index.m3u8
+#EXTINF:-1,XXX Video 122
+http://s1.hdporus.com/content/vod/s1824/480/index.m3u8
+#EXTINF:-1,XXX Video 121
+http://s1.hdporus.com/content/vod/s1823/480/index.m3u8
+#EXTINF:-1,XXX Video 120
+http://s1.hdporus.com/content/vod/s1822/480/index.m3u8
+#EXTINF:-1,XXX Video 119
+http://s1.hdporus.com/content/vod/s1821/480/index.m3u8
+#EXTINF:-1,XXX Video 118
+http://s1.hdporus.com/content/vod/s1820/480/index.m3u8
+#EXTINF:-1,XXX Video 117
+http://s1.hdporus.com/content/vod/s1819/480/index.m3u8
+#EXTINF:-1,XXX Video 116
+http://s1.hdporus.com/content/vod/s1818/480/index.m3u8
+#EXTINF:-1,XXX Video 115
+http://s1.hdporus.com/content/vod/s1817/480/index.m3u8
+#EXTINF:-1,XXX Video 114
+http://s1.hdporus.com/content/vod/s1816/480/index.m3u8
+#EXTINF:-1,XXX Video 113
+http://s1.hdporus.com/content/vod/s1815/480/index.m3u8
+#EXTINF:-1,XXX Video 112
+http://s1.hdporus.com/content/vod/s1814/480/index.m3u8
+#EXTINF:-1,XXX Video 111
+http://s1.hdporus.com/content/vod/s1813/480/index.m3u8
+#EXTINF:-1,XXX Video 110
+http://s1.hdporus.com/content/vod/s1812/480/index.m3u8
+#EXTINF:-1,XXX Video 109
+http://s1.hdporus.com/content/vod/s1811/480/index.m3u8
+#EXTINF:-1,XXX Video 108
+http://s1.hdporus.com/content/vod/s1810/480/index.m3u8
+#EXTINF:-1,XXX Video 107
+http://s1.hdporus.com/content/vod/s1809/480/index.m3u8
+#EXTINF:-1,XXX Video 106
+http://s1.hdporus.com/content/vod/s1808/480/index.m3u8
+#EXTINF:-1,XXX Video 105
+http://s1.hdporus.com/content/vod/s1807/480/index.m3u8
+#EXTINF:-1,XXX Video 104
+http://s1.hdporus.com/content/vod/s1806/480/index.m3u8
+#EXTINF:-1,XXX Video 103
+http://s1.hdporus.com/content/vod/s1805/480/index.m3u8
+#EXTINF:-1,XXX Video 102
+http://s1.hdporus.com/content/vod/s1804/480/index.m3u8
+#EXTINF:-1,XXX Video 101
+http://s1.hdporus.com/content/vod/s1803/480/index.m3u8
+#EXTINF:-1,XXX Video 100
+http://s1.hdporus.com/content/vod/s1802/480/index.m3u8
+#EXTINF:-1,XXX Video 99
+http://s1.hdporus.com/content/vod/s1801/480/index.m3u8
+#EXTINF:-1,XXX Video 98
+http://s1.hdporus.com/content/vod/s1800/480/index.m3u8
+#EXTINF:-1,XXX Video 97
+http://s1.hdporus.com/content/vod/s1799/480/index.m3u8
+#EXTINF:-1,XXX Video 96
+http://s1.hdporus.com/content/vod/s1798/480/index.m3u8
+#EXTINF:-1,XXX Video 95
+http://s1.hdporus.com/content/vod/s1797/480/index.m3u8
+#EXTINF:-1,XXX Video 94
+http://s1.hdporus.com/content/vod/s1796/480/index.m3u8
+#EXTINF:-1,XXX Video 93
+http://s1.hdporus.com/content/vod/s1795/480/index.m3u8
+#EXTINF:-1,XXX Video 92
+http://s1.hdporus.com/content/vod/s1794/480/index.m3u8
+#EXTINF:-1,XXX Video 91
+http://s1.hdporus.com/content/vod/s1793/480/index.m3u8
+#EXTINF:-1,XXX Video 89
+http://s1.hdporus.com/content/vod/s1792/480/index.m3u8
+#EXTINF:-1,XXX Video 88
+http://s1.hdporus.com/content/vod/s1791/480/index.m3u8
+#EXTINF:-1,XXX Video 87
+http://s1.hdporus.com/content/vod/s1790/480/index.m3u8
+#EXTINF:-1,XXX Video 86
+http://s1.hdporus.com/content/vod/s1789/480/index.m3u8
+#EXTINF:-1,XXX Video 85
+http://s1.hdporus.com/content/vod/s1788/480/index.m3u8
+#EXTINF:-1,XXX Video 84
+http://s1.hdporus.com/content/vod/s1787/480/index.m3u8
+#EXTINF:-1,XXX Video 83
+http://s1.hdporus.com/content/vod/s1786/480/index.m3u8
+#EXTINF:-1,XXX Video 82
+http://s1.hdporus.com/content/vod/s1785/480/index.m3u8
+#EXTINF:-1,XXX Video 81
+http://s1.hdporus.com/content/vod/s1784/480/index.m3u8
+#EXTINF:-1,XXX Video 80
+http://s1.hdporus.com/content/vod/s1783/480/index.m3u8
+#EXTINF:-1,XXX Video 79
+http://s1.hdporus.com/content/vod/s1782/480/index.m3u8
+#EXTINF:-1,XXX Video 78
+http://s1.hdporus.com/content/vod/s1781/480/index.m3u8
+#EXTINF:-1,XXX Video 77
+http://s1.hdporus.com/content/vod/s1780/480/index.m3u8
+#EXTINF:-1,XXX Video 76
+http://s1.hdporus.com/content/vod/s1779/480/index.m3u8
+#EXTINF:-1,XXX Video 75
+http://s1.hdporus.com/content/vod/s1778/480/index.m3u8
+#EXTINF:-1,XXX Video 74
+http://s1.hdporus.com/content/vod/s1774/480/index.m3u8
+#EXTINF:-1,XXX Video 73
+http://s1.hdporus.com/content/vod/s1773/480/index.m3u8
+#EXTINF:-1,XXX Video 72
+http://s1.hdporus.com/content/vod/s1772/480/index.m3u8
+#EXTINF:-1,XXX Video 71
+http://s1.hdporus.com/content/vod/s1771/480/index.m3u8
+#EXTINF:-1,XXX Video 70
+http://s1.hdporus.com/content/vod/s1770/480/index.m3u8
+#EXTINF:-1,XXX Video 69
+http://s1.hdporus.com/content/vod/s1769/480/index.m3u8
+#EXTINF:-1,XXX Video 68
+http://s1.hdporus.com/content/vod/s1768/480/index.m3u8
+#EXTINF:-1,XXX Video 67
+http://s1.hdporus.com/content/vod/s1767/480/index.m3u8
+#EXTINF:-1,XXX Video 66
+http://s1.hdporus.com/content/vod/s1766/480/index.m3u8
+#EXTINF:-1,XXX Video 65
+http://s1.hdporus.com/content/vod/s1765/480/index.m3u8
+#EXTINF:-1,XXX Video 64
+http://s1.hdporus.com/content/vod/s1764/480/index.m3u8
+#EXTINF:-1,XXX Video 63
+http://s1.hdporus.com/content/vod/s1763/480/index.m3u8
+#EXTINF:-1,XXX Video 62
+http://s1.hdporus.com/content/vod/s1762/480/index.m3u8
+#EXTINF:-1,XXX Video 61
+http://s1.hdporus.com/content/vod/s1761/480/index.m3u8
+#EXTINF:-1,XXX Video 60
+http://s1.hdporus.com/content/vod/s1760/480/index.m3u8
+#EXTINF:-1,XXX Video 59
+http://s1.hdporus.com/content/vod/s1759/480/index.m3u8
+#EXTINF:-1,XXX Video 58
+http://s1.hdporus.com/content/vod/s1758/480/index.m3u8
+#EXTINF:-1,XXX Video 57
+http://s1.hdporus.com/content/vod/s1757/480/index.m3u8
+#EXTINF:-1,XXX Video 56
+http://s1.hdporus.com/content/vod/s1756/480/index.m3u8
+#EXTINF:-1,XXX Video 55
+http://s1.hdporus.com/content/vod/s1755/480/index.m3u8
+#EXTINF:-1,XXX Video 54
+http://s1.hdporus.com/content/vod/s1754/480/index.m3u8
+#EXTINF:-1,XXX Video 52
+http://s1.hdporus.com/content/vod/s1752/480/index.m3u8
+#EXTINF:-1,XXX Video 51
+http://s1.hdporus.com/content/vod/s1751/480/index.m3u8
+#EXTINF:-1,XXX Video 50
+http://s1.hdporus.com/content/vod/s1750/480/index.m3u8
+#EXTINF:-1,XXX Video 49
+http://s1.hdporus.com/content/vod/s1749/480/index.m3u8
+#EXTINF:-1,XXX Video 48
+http://s1.hdporus.com/content/vod/s1748/480/index.m3u8
+#EXTINF:-1,XXX Video 47
+http://s1.hdporus.com/content/vod/s1747/480/index.m3u8
+#EXTINF:-1,XXX Video 46
+http://s1.hdporus.com/content/vod/s1746/480/index.m3u8
+#EXTINF:-1,XXX Video 45
+http://s1.hdporus.com/content/vod/s1745/480/index.m3u8
+#EXTINF:-1,XXX Video 44
+http://s1.hdporus.com/content/vod/s1744/480/index.m3u8
+#EXTINF:-1,XXX Video 43
+http://s1.hdporus.com/content/vod/s1743/480/index.m3u8
+#EXTINF:-1,XXX Video 42
+http://s1.hdporus.com/content/vod/s1742/480/index.m3u8
+#EXTINF:-1,XXX Video 41
+http://s1.hdporus.com/content/vod/s1741/480/index.m3u8
+#EXTINF:-1,XXX Video 39
+http://s1.hdporus.com/content/vod/s1739/480/index.m3u8
+#EXTINF:-1,XXX Video 38
+http://s1.hdporus.com/content/vod/s1738/480/index.m3u8
+#EXTINF:-1,XXX Video 37
+http://s1.hdporus.com/content/vod/s1737/480/index.m3u8
+#EXTINF:-1,XXX Video 36
+http://s1.hdporus.com/content/vod/s1736/480/index.m3u8
+#EXTINF:-1,XXX Video 35
+http://s1.hdporus.com/content/vod/s1735/480/index.m3u8
+#EXTINF:-1,XXX Video 34
+http://s1.hdporus.com/content/vod/s1734/480/index.m3u8
+#EXTINF:-1,XXX Video 33
+http://s1.hdporus.com/content/vod/s1733/480/index.m3u8
+#EXTINF:-1,XXX Video 32
+http://s1.hdporus.com/content/vod/s1732/480/index.m3u8
+#EXTINF:-1,XXX Video 31
+http://s1.hdporus.com/content/vod/s1731/480/index.m3u8
+#EXTINF:-1,XXX Video 30
+http://s1.hdporus.com/content/vod/s1730/480/index.m3u8
+#EXTINF:-1,XXX Video 29
+http://s1.hdporus.com/content/vod/s1729/480/index.m3u8
+#EXTINF:-1,XXX Video 28
+http://s1.hdporus.com/content/vod/s1728/480/index.m3u8
+#EXTINF:-1,XXX Video 27
+http://s1.hdporus.com/content/vod/s1727/480/index.m3u8
+#EXTINF:-1,XXX Video 26
+http://s1.hdporus.com/content/vod/s1726/480/index.m3u8
+#EXTINF:-1,XXX Video 25
+http://s1.hdporus.com/content/vod/s1725/480/index.m3u8
+#EXTINF:-1,XXX Video 24
+http://s1.hdporus.com/content/vod/s1724/480/index.m3u8
+#EXTINF:-1,XXX Video 23
+http://s1.hdporus.com/content/vod/s1723/480/index.m3u8
+#EXTINF:-1,XXX Video 22
+http://s1.hdporus.com/content/vod/s1722/480/index.m3u8
+#EXTINF:-1,XXX Video 21
+http://s1.hdporus.com/content/vod/s1721/480/index.m3u8
+#EXTINF:-1,XXX Video 20
+http://s1.hdporus.com/content/vod/s1720/480/index.m3u8
+#EXTINF:-1,XXX Video 19
+http://s1.hdporus.com/content/vod/s1719/480/index.m3u8
+#EXTINF:-1,XXX Video 18
+http://s1.hdporus.com/content/vod/s1718/480/index.m3u8
+#EXTINF:-1,XXX Video 17
+http://s1.hdporus.com/content/vod/s1717/480/index.m3u8
+#EXTINF:-1,XXX Video 16
+http://s1.hdporus.com/content/vod/s1716/480/index.m3u8
+#EXTINF:-1,XXX Video 15
+http://s1.hdporus.com/content/vod/s1715/480/index.m3u8
+#EXTINF:-1,XXX Video 14
+http://s1.hdporus.com/content/vod/s1714/480/index.m3u8
+#EXTINF:-1,XXX Video 13
+http://s1.hdporus.com/content/vod/s1713/480/index.m3u8
+#EXTINF:-1,XXX Video 12
+http://s1.hdporus.com/content/vod/s1712/480/index.m3u8
+#EXTINF:-1,XXX Video 11
+http://s1.hdporus.com/content/vod/s1711/480/index.m3u8
+#EXTINF:-1,XXX Video 10
+http://s1.hdporus.com/content/vod/s1710/480/index.m3u8
+#EXTINF:-1,XXX Video 9
+http://s1.hdporus.com/content/vod/s1709/480/index.m3u8
+#EXTINF:-1,XXX Video 8
+http://s1.hdporus.com/content/vod/s1708/480/index.m3u8
+#EXTINF:-1,XXX Video 7
+http://s1.hdporus.com/content/vod/s1707/480/index.m3u8
+#EXTINF:-1,XXX Video 6
+http://s1.hdporus.com/content/vod/s1706/480/index.m3u8
+#EXTINF:-1,XXX Video 5
+http://s1.hdporus.com/content/vod/s1705/480/index.m3u8
+#EXTINF:-1,XXX Video 4
+http://s1.hdporus.com/content/vod/s1704/480/index.m3u8
+#EXTINF:-1,XXX Video 3
+http://s1.hdporus.com/content/vod/s1703/480/index.m3u8
+#EXTINF:-1,XXX Video 2
+http://s1.hdporus.com/content/vod/s1702/480/index.m3u8
+#EXTINF:-1,XXX Video 1
+http://s1.hdporus.com/content/vod/s1701/480/index.m3u8
+#EXTINF:-1,XXX Video
+http://s1.hdporus.com/content/vod/s220/480/index.m3u8
+#EXTINF:-1,XXX 1
+http://s1.hdporus.com/content/vod/s221/480/index.m3u8
+#EXTINF:-1,XXX 2
+http://s1.hdporus.com/content/vod/s222/480/index.m3u8
+#EXTINF:-1,XXX 3
+http://s1.hdporus.com/content/vod/s223/480/index.m3u8
+#EXTINF:-1,XXX 4
+http://s1.hdporus.com/content/vod/s224/480/index.m3u8
+#EXTINF:-1,XXX 5
+http://s1.hdporus.com/content/vod/s225/480/index.m3u8
+#EXTINF:-1,XXX 6
+http://s1.hdporus.com/content/vod/s226/480/index.m3u8
+#EXTINF:-1,XXX 7
+http://s1.hdporus.com/content/vod/s227/480/index.m3u8
+#EXTINF:-1,XXX 8
+http://s1.hdporus.com/content/vod/s228/480/index.m3u8
+#EXTINF:-1,XXX 9
+http://s1.hdporus.com/content/vod/s229/480/index.m3u8
+#EXTINF:-1,XXX Video s68
+http://s1.hdporus.com/content/vod/s68/480/index.m3u8
+#EXTINF:-1,XXX
+http://s1.hdporus.com/content/vod/s2247/480/index.m3u8
+#EXTINF:-1,XXX
+http://s1.hdporus.com/content/vod/s2254/480/index.m3u8
+#EXTINF:-1,Brazzers TV 240
+http://s1.hdporus.com/content/vod/s2247/240/index.m3u8
+#EXTINF:-1,Brazzers TV 360
+http://s1.hdporus.com/content/vod/s2247/360/index.m3u8
+#EXTINF:-1,Brazzers TV 720
+http://s1.hdporus.com/content/vod/s2247/720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLLwwdCuMg1KDk4tMoWdCQiYWO2JfJBcalfe7dAfjwUoq1oa2C" group-title="ADULT 18+",BIKINI NETWORK
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",JASMIN.TV (+18)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Miami TV (18+)
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Babestation 24 (18+)
+http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Big Ass (18+)
+http://live.redtraffic.xyz/bigass.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Big Dick (18+)
+http://live.redtraffic.xyz/bigdick.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Big Tits (18+)
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Blowjob (18+)
+http://live.redtraffic.xyz/blowjob.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Hard Core (18+)
+http://live.redtraffic.xyz/hardcore.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Three Some (18+)
+http://live.redtraffic.xyz/threesome.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Lesbian (18+)
+http://live.redtraffic.xyz/lesbian.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Cuckold HD 720 (18+)
+http://live.redtraffic.xyz/cuckold.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Fetish HD 720 (18+)
+http://live.redtraffic.xyz/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Interracial HD 720 (18+)
+http://live.redtraffic.xyz/interracial.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Latina HD 720 (18+)
+http://live.redtraffic.xyz/latina.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Milf HD 720 (18+)
+http://live.redtraffic.xyz/milf.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Pornstar HD 720 (18+)
+http://live.redtraffic.xyz/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",POV HD 720 (18+)
+http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Russian HD 720 (18+)
+http://live.redtraffic.xyz/russian.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Teen HD 720 (18+)
+http://live.redtraffic.xyz/teen.m3u8
+
