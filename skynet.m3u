@@ -48,49 +48,49 @@ http://95.170.215.118/hls/m3u8/HBO-2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES", HBO 3
 http://95.170.215.118/hls/m3u8/HBO-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XrHDW55/Animal-Planet.png" group-title="Knowledge",Animal Planet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Knowledge",Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKkVTFs6/History.png" group-title="Knowledge",History
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Knowledge",History
 https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XYt8nCc/natgeo.png" group-title="Knowledge",Nat Geographic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Knowledge",Nat Geographic
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel-avc1_2499968=10-mp4a_98800_eng=4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vThr4c34/Nat-geo-wild.png" group-title="Knowledge",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Knowledge",Nat Geo Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHq0Zybk/nat-Geo-pople.png" group-title="Knowledge",Nat Geo People
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpgg" group-title="Knowledge",Nat Geo People
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png" group-title="Fashion",Fashion TV Teens
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Fashion",Fashion TV Teens
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png" group-title="Fashion",Fashion TV Films
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Fashion",Fashion TV Films
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png" group-title="Fashion",Fashion TV Midnight
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Fashion",Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tnQvfdw.jpg" group-title="SPORTSS", Fox Sports Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tnQvfdw.jpg" group-title="SPORTS", Fox Sports Brasil
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1431167_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTSS", SKYNET 1 SPORT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS", SKYNET 1 SPORT
 http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTSS", SKYNET 2 SPORT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS", SKYNET 2 SPORT
 http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTSS", SKYNET 3 SPORT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS", SKYNET 3 SPORT
 http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTSS", SKYNET 4 SPORT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS", SKYNET 4 SPORT
 http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTSS", SKYNET 5 SPORT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS", SKYNET 5 SPORT
 http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTSS", SKYNET 6 SPORT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS", SKYNET 6 SPORT
 http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvportal.rs/tvportal/platforma/arena%20mala1-m.jpg" group-title="SPORTS", ARENA SPORT 1
@@ -105,19 +105,19 @@ http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://www.tvportal.rs/tvportal/platforma/arena%20mala1-m.jpg" group-title="SPORTS", ARENA SPORT 4
 http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTSS",Sony Six
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTSS",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony Ten 1
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTSS",Sony Ten 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony Ten 2
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTSS",Sony Ten 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony Ten 3
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTSS",Sony ESPN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="22/7 EPL",BEIN SPORT 1
