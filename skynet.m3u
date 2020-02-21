@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES", HBO
+http://95.170.215.118/hls/m3u8/HBO.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES", HBO 2
+http://95.170.215.118/hls/m3u8/HBO-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES", HBO 3
+http://95.170.215.118/hls/m3u8/HBO-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES", National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES", Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES", NAT GEO WILD HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES", Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tnQvfdw.jpg" group-title="SPORTS", Fox Sports Brasil
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1431167_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS", SKYNET 1 SPORT
+http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS", SKYNET 2 SPORT
+http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS", SKYNET 3 SPORT
+http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS", SKYNET 4 SPORT
+http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS", SKYNET 5 SPORT
+http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS", SKYNET 6 SPORT
+http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvportal.rs/tvportal/platforma/arena%20mala1-m.jpg" group-title="SPORT", ARENA SPORT 1
+http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://www.tvportal.rs/tvportal/platforma/arena%20mala1-m.jpg" group-title="SPORT", ARENA SPORT 2
+http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://www.tvportal.rs/tvportal/platforma/arena%20mala1-m.jpg" group-title="SPORT", ARENA SPORT 3
+http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://www.tvportal.rs/tvportal/platforma/arena%20mala1-m.jpg" group-title="SPORT", ARENA SPORT 4
+http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
