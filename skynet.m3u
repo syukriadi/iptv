@@ -389,17 +389,32 @@ http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="CHAMPION LEAGUE", Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="CHAMPION LEAGUE", Sony Six (Opt. 2)
+http://51.15.8.16:8081/lolind2/sonysixhd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="CHAMPION LEAGUE", Sony Ten 1
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="CHAMPION LEAGUE", Sony Ten 1 (Opt. 2)
+http://51.15.8.16:8081/lolind2/sonyten1hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="CHAMPION LEAGUE", Sony Ten 2
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="CHAMPION LEAGUE", Sony Ten 2 (Opt. 2)
+http://51.15.8.16:8081/lolind2/sonyten2hd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="CHAMPION LEAGUE", Sony Ten 3
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="CHAMPION LEAGUE", Sony Ten 3 (Opt. 2)
+http://51.15.8.16:8081/lolind2/sonyten3hd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="CHAMPION LEAGUE", Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="CHAMPION LEAGUE", Sony ESPN (Opt. 2)
+http://51.15.8.16:8081/lolind2/sonyespnhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS", STADIUM
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
@@ -410,44 +425,11 @@ http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS", Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="BACKUP",BEIN SPORT 1
-http://160.119.77.50/iptv/hd-bein1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="EPL",BEIN SPORT 2
+http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="BACKUP",BEIN SPORT 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="EPL",BEIN SPORT 2 (Opt. 2)
 http://160.119.77.50/iptv/hd-bein2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="BACKUP",BEIN SPORT 3
-http://160.119.77.50/iptv/hd-bein3.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="BACKUP",BEIN SPORT 4
-http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="BACKUP",BEIN SPORT 5
-http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="BACKUP",BEIN SPORT 6
-http://160.119.77.50/iptv/hd-bein6.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="BACKUP",BEIN SPORT 7
-http://160.119.77.50/iptv/hd-bein7.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="BACKUP",BEIN SPORT 8
-http://160.119.77.50/iptv/hd-bein8.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="BACKUP", Sony Six
-http://51.15.8.16:8081/lolind2/sonysixhd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="BACKUP", Sony Ten 1
-http://51.15.8.16:8081/lolind2/sonyten1hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="BACKUP", Sony Ten 2
-http://51.15.8.16:8081/lolind2/sonyten2hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="BACKUP", Sony Ten 3
-http://51.15.8.16:8081/lolind2/sonyten3hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="BACKUP", Sony ESPN
-http://51.15.8.16:8081/lolind2/sonyespnhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 1
 http://stream.doball.com:8080/hls/ch1.m3u8?feed
