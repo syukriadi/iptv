@@ -7,16 +7,13 @@ https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", ANTV
-https://delivery.macan.live/stream/id_antv/index.m3u8?token=qVfi80MS&v=20200202
+http://id2.indostreamingtv.com/live/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", SCTV
-https://delivery.macan.live/stream/id_sctv/index.m3u8?token=qVfi80MS&v=20200202
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", INDOSIAR 2
-https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=qVfi80MS&v=20200202
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd
@@ -112,14 +109,17 @@ https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE", TECHSTORM
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Fashion", Fashion TV Teens
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FASHION", Fashion TV Teens
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Fashion", Fashion TV Films
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FASHION", Fashion TV Films
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Fashion", Fashion TV Midnight
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FASHION", Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FASHION", JASMIN TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS", ANIMAX
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index.m3u8
@@ -356,6 +356,24 @@ http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS", ARENA SPORT 4
 http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",D Sport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",FightBox
+http://92.43.140.200/s86/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS", GOLTV
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS", Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS", Real Betis TV
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS", REAL MADRID TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
@@ -430,6 +448,23 @@ http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="EPL",BEIN SPORT 2 (Opt. 2)
 http://160.119.77.50/iptv/hd-bein2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="EPL",BT SPORT 1 (Extra Server)
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="EPL",BT SPORT 2 (Extra Server)
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="EPL",Sky Sports Premier League HD
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="EPL",SPORT TV 2
+http://62.203.143.51:9981/play/SPORTV2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="EPL",SPORT TV 2 HD
+http://62.203.143.51:9981/play/SPORT2HD
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL CHANNEL", Doball 1
 http://stream.doball.com:8080/hls/ch1.m3u8?feed
