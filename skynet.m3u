@@ -39,6 +39,9 @@ http://203.153.218.28:9981/stream/channelid/261435212?ticket=516DF00545EEF4F6A83
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GENERATOR",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GENERATOR",NET TV 2
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GENERATOR",NET TV HD
 http://210.210.155.35/session/eb69559e-0197-11ea-a0e0-b82a72d63267/qwr9ew/s/s08/01.m3u8
 
@@ -57,8 +60,14 @@ http://id2.indostreamingtv.com/live/trans7/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GENERATOR",TV ONE
 https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GENERATOR",TV ONE 2
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GENERATOR",TRANS TV
 https://livetvhooq.akamaized.net:443/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597746~exp=9007200828338737~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_2/chunklist.m3u8*~hmac=f7affc9ab3c5d753e46be5cb9c59599ff9af1992dd034c161ae4831ee9f9bfa9
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GENERATOR",TRANS TV 2
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GENERATOR",INEWS
 https://live.rctiplus.id/rctiplus/inews_360p.m3u8
@@ -566,6 +575,378 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="VOD MOVIES",YOU NOW SEE ME 2
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",ANIMAL PLANET HD
+https://d2fy3q8z0e9ls2.cloudfront.net/ANIMAL-PLANET-FHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",DISCOVERY FAMILY
+https://d2fy3q8z0e9ls2.cloudfront.net/DISCOVERY-FAMILY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",DISCOVERY HYH
+https://d2fy3q8z0e9ls2.cloudfront.net/DISCOVERY-HH/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",DISCOVERY ID
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-712/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",HISTORY
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-787/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",HISTORY HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-788/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",HISTORY2 HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-780/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",TLC HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-1329/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",NAT GEO HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-805/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",NAT GEO WILD HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-807/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",WARNER HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-1354/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",DISCOVERY HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-710/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",ESPN2 HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-726/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",ESPN3 HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-728/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",ESPN3 PLUS HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-730/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",FOX HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-740/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",FOX LIFE HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-743/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",FOX SPORT HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-762/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",FOX SPORT 2 HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-756/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",FOX SPORT 2 SD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-755/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",FOX SPORT 3 HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-759/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",FOX SPORT PREMIUM ARG
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-765/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",BEIN SPORT LA LIGA HD
+https://d2fy3q8z0e9ls2.cloudfront.net/BEIN-SPORT-LA-LIGA-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",CLARO SPORT HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-745/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",DIRECTV SPORT HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-706/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",DIRECTV SPORT2 HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-705/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",TNT SPORT ARG
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-1334/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",GOL PERU
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-777/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",MOVISTAR DEPORTES
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-801/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",MOVISTAR LIGA
+https://d2fy3q8z0e9ls2.cloudfront.net/MOVISTAR-LIGA-FHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",AE HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-645/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",AMC HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-1358/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",AXN HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-654/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",CANAL DE LAS ESTRELLAS
+https://d2fy3q8z0e9ls2.cloudfront.net/CANAL-DE-LAS-ESTRELLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",CINECANAL HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-695/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",HBO HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-784/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",HBO PLUS
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-785/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",HBO MUNIAL
+https://d2fy3q8z0e9ls2.cloudfront.net/HBO-MUNDI-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",HBO POP
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-798/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",HBO SIGNATURE
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-786/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",HBO XTREME
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-797/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",INTI
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-791/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",MC
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-799/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",BABY TV 
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-657/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",BOOMERANG
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-664/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",CARTOON NETWORK HD
+https://d2fy3q8z0e9ls2.cloudfront.net/CARTOON-NETWORK-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",DISCOVERY KIDS
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-713/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",DISNEY HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-821/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",DISNEY JUNIOR HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-718/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",DISNEY XD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-719/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",ETC TV
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-736/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",NAT GEO KIDS
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-814/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",NICK 2 HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-817/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",NICK HD 
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-819/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",NICK JUNIOR
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-820/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",NIKELODEON SD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-818/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",TOONCAST
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-1369/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",A24
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-642/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",ATV
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-1359/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",24 HORAS
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-670/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",CNN ESPAÑOL
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-699/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",CANTINAZO
+https://d2fy3q8z0e9ls2.cloudfront.net/CANTINAZO-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",CONCERT
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-746/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",TOP LATINO
+https://d2fy3q8z0e9ls2.cloudfront.net/MUSIC-CHOISE-HOP-LATINO-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",LA CALLE HD MUSIC
+https://d2fy3q8z0e9ls2.cloudfront.net/LA-KALLE-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",MTV HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-802/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",VH1
+https://d2fy3q8z0e9ls2.cloudfront.net/VH1-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",ULTRA CINE
+https://d2fy3q8z0e9ls2.cloudfront.net/ULTRA-CINE-HD/tracks-a2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",INDISPLEX
+https://d2fy3q8z0e9ls2.cloudfront.net/INDIEXPLEX-SP-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",MOVIEMAX
+https://d2fy3q8z0e9ls2.cloudfront.net/MOVIEMAX-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",MOVIEPLEX
+https://d2fy3q8z0e9ls2.cloudfront.net/MOVIEPLEX-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",STARZ FHD
+https://d2fy3q8z0e9ls2.cloudfront.net/Starz-FHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",ANIME 24/7 HD
+https://d2fy3q8z0e9ls2.cloudfront.net/ANIME-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",CANTINFLAS 24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/CANTINFLAS-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",DRAGON BALL SUPER 24/7 HD
+https://d2fy3q8z0e9ls2.cloudfront.net/DRAGON-BALL-SUPER-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",DBZ BATALLA DE LOS DIOSES 24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/DRAGONBALL-BATALLA-DE-LOS-DIOSES-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",E.R. EMERGENCIAS 25/7
+https://d2fy3q8z0e9ls2.cloudfront.net/E-R-SALA-DE-EMERGENCIAS-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",EL AUTO FANTASTICO 24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/EL-AUTO-FANTASTICO-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",HULK 24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/EL-INCREIBLE-HULK-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",EL PAJARO LOCO24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/EL-PAJARO-LOCO-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",ESTRENOS 24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/ESTRENOS-2019-24-7-HD/tracks-a2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",GAME OF THROME 24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/GAMES-OF-THROMES-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",GRAVITY FALLS 24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/GRAVITY-FALLS-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",HERCULES 24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/HERCULES-LOS-VIAJES-LEGENDARIOS-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",KUNG FU PANDA 24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/KUNG-FU-PANDA-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",LA CASA DE PAPEL24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/LA-CASA-DE-PAPEL-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",LOS CABALLEROS DEL ZODÍACO24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/LOS-CABALLEROS-DEL-ZODIACO-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",LOS PICAPIEDRAS 24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/LOS-PICAPIEDRAS-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",LOS PITUFOS 24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/LOS-PITUFOS-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",LOS SIMPSON 24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/LOS-SIMPSON-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",LOS 3 CHIFLADOS 24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/LOS-TRES-CHIFLADOS-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",PELICULAS DE TERROR 24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/PELICULAS-TERROR-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",SCOOBY DOO 24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/SCOOBY-DOO-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",EL BUEN DOCTOR 24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/THE-GOOD-DOCTOR-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",XENA LA PRINCESA GUERRERA24/7
+https://d2fy3q8z0e9ls2.cloudfront.net/XENA-LA-PRINCESA-GUERRERA-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",AMÉRICA TV HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-648/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",C5N HD
+https://d2fy3q8z0e9ls2.cloudfront.net/C5N-HD-AR/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",CANAL 13HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-667/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",CRONICA HD
+https://d2fy3q8z0e9ls2.cloudfront.net/CRONICA-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",CANAL 9HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-723/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",TELEFE HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-848/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",TNT SPORT HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-1334/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",TNT SPORT SD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-1333/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",TV PUBLICA
+https://d2fy3q8z0e9ls2.cloudfront.net/TV-PUBLICA-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",TYC SPORT HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-1343/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",ATB BOLIVIA
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-1359/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",BOLIVIA TV 7.2 HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-1361/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",BOLIVISION HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-1362/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",TIGO SPORT BOLIVIA
+https://d2fy3q8z0e9ls2.cloudfront.net/TIGO-SPORTS-1-BO-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",UNITEL BOLIVIA
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-1370/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",UNO HD BOLIVIA
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-1371/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",GEN TV HD PARAGUAY
+https://d2fy3q8z0e9ls2.cloudfront.net/GEN-TV-HD-PY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",PARAGUAY TV HD 
+https://d2fy3q8z0e9ls2.cloudfront.net/PARAGUAY-TV-HD-PY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",RPC TV PARAGUAY
+https://d2fy3q8z0e9ls2.cloudfront.net/RPC-HD-PY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",SNT HD PARAGUAY
+https://d2fy3q8z0e9ls2.cloudfront.net/SNT-HD-PY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",TELEFUTURO HD PARAGUAY
+https://d2fy3q8z0e9ls2.cloudfront.net/TELEFUTURO-HD-PY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",UNICANAL HD PARAGUAY
+https://d2fy3q8z0e9ls2.cloudfront.net/UNICANAL-HD-PY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",FXM CENTRAL
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-767/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",AMERICA PERÚ HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-649/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",ATV HD PERÚ
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-653/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",CANAL N PERÚ
+https://d2fy3q8z0e9ls2.cloudfront.net/CANAL-N-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",DIRECTV PERÚ
+https://d2fy3q8z0e9ls2.cloudfront.net/DIRECTV-PERU-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="WORLD",GOL PERÚ HD
+https://d2fy3q8z0e9ls2.cloudfront.net/HY-777/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="FOOTBALL",Doball 1
 http://stream.doball.com:8080/hls/ch1.m3u8?feed
