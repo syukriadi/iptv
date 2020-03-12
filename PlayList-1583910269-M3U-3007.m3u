@@ -292,6 +292,8 @@ http://160.119.77.50/iptv/uk-cartoonito.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-cbeebieshd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",DUCK TV
 http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w1145871295.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",UK Disney Channel ENG
 http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",DISNEY JUNIOR
@@ -306,6 +308,53 @@ http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=FDB188FE08A7F0FBC8EF18857FAF714833A5A5C9&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",SPACETOON
 http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", Tom & Jerry TV
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", LARVA TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", DRAGON BALL KAI TV
+http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", DRAGON BALL Z TV
+https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", Boruto TV
+http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", Captain Stubasa 2019 TV
+http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", DETECTIFE CONAN 1 TV
+http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", DETECTIFE CONAN 2 TV
+http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", DETECTIFE CONAN 3 TV
+http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", DORAEMON SERIES
+http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", DORAEMON MOVIE
+http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", HUNTER X HUNTER
+http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", INUYASHA
+http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCO6Co25pno__W5dyn5AxGnHyPWiUrst4E6P1w01e5kloBAbMR" group-title="KIDS", TOTALLY SPIES
+http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBzp7BGwolru9XytjrckBBty17cJNgo2O57XQkEkMA2v7RtXJH" group-title="KIDS", ONE PIECE TV
+http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0S1bAQA1Xjjfcf_C0agfo0lkMvzsx6G9_bjNXz5O12DC9QCMC" group-title="KIDS", ONE PUNCH MAN
+http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="MUSIC",B MUSIC SESSION
 https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
