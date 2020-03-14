@@ -1,12 +1,12 @@
 #EXTM3U
 
 #EXTINF:-1 https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="LIGA 1",Liga 1 #1
-https://delivery.macan.live/stream/macan_event_2/index.m3u8?token=gYX6lZRa&v=20200308
+https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=gYX6lZRa&v=20200308
 #EXTINF:-1 https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="LIGA 1",Liga 1 #2
-https://delivery.macan.live/stream/macan_event_3/index.m3u8?token=gYX6lZRa&v=20200308
-#EXTINF:-1 https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="LIGA 1",Liga 1 #3
+https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=gYX6lZRa&v=20200308
+#EXTINF:-1 https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="LIGA 1",Liga 1 #1 (backup)
 https://delivery.macan.live/stream/macan_event_4/index.m3u8?token=gYX6lZRa&v=20200308
-#EXTINF:-1 https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="LIGA 1",Liga 1 #4
+#EXTINF:-1 https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="LIGA 1",Liga 1 #2 (backup)
 https://delivery.macan.live/stream/macan_event_5/index.m3u8?token=gYX6lZRa&v=20200308
 #EXTINF:-1 tvg-ID="beINSports1.id" group-title="Sports" tvg-logo="https://macan.live/img/bein_sports_1.png", beIN Sports 1 ID
 https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=gYX6lZRa&v=20200308
