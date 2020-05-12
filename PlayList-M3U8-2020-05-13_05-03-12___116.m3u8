@@ -1,0 +1,341 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+http://bit.ly/TestadorIPTVVideoApresentacao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", &Flix
+http://202.163.117.6:9981/stream/channelid/1160757101?ticket=23F6E8B6F5F40F9B8F688FC5B8FF6BC509AE9CEE&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colors Infinity
+http://202.163.117.6:9981/stream/channelid/388441008?ticket=9A0C39609FB9234125EAFD7EBDDB665D5A8F7ACD&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Max
+http://202.163.117.6:9981/stream/channelid/1248151812?ticket=1F83EB9AFA3E6AA5BC6FAE33885242D1E1F20796&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Plus
+http://202.163.117.6:9981/stream/channelid/1880028910?ticket=FBF83C5B92607AAE5113C032B22B311500B97595&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UTV Action
+http://202.163.117.6:9981/stream/channelid/135894982?ticket=6785D46222173987841241CB8507354873986D24&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Cafe
+http://202.163.117.6:9981/stream/channelid/1244355271?ticket=97AD0E52324DF760C156A603006CE7202E354BF5&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee TV
+http://202.163.117.6:9981/stream/channelid/1206744636?ticket=03DF12271B8DBBC45C596B9742E95AD8EA88C74A&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", &Pictures
+http://202.163.117.6:9981/stream/channelid/1294487949?ticket=B20F14204517547DA0046107100EA28CB117A27B&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cartoon Network
+http://202.163.117.6:9981/stream/channelid/630600262?ticket=3D7465E582FFAD171EFA809D0D89FEB23D68B689&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colors
+http://202.163.117.6:9981/stream/channelid/385031847?ticket=217BE173511DF2F00B68E398C142A38AC2F12E88&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO
+http://202.163.117.6:9981/stream/channelid/1860181278?ticket=AC669E7BAF49B143A1BCF356B33AFD252E6CF641&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", History Channel
+http://202.163.117.6:9981/stream/channelid/500932124?ticket=3128A032A2367915022C985A099BBA8878BF82CF&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Movies Now
+http://202.163.117.6:9981/stream/channelid/2092415501?ticket=BE6CA79BFED29C3D6E7C4DBA3AA06843F180367C&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nick
+http://202.163.117.6:9981/stream/channelid/1926341614?ticket=175663861385A1C70765D94A3FD53495B0DAF8FB&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Ten 2
+http://202.163.117.6:9981/stream/channelid/520610693?ticket=68E2D7EFB61BEBC13C8B6EEE6A3542F803AA98F8&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Bharat
+http://202.163.117.6:9981/stream/channelid/1050542208?ticket=098D654C2F0796EB0DAB6201CB1844F9DC85F734&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports 1 Hindi
+http://202.163.117.6:9981/stream/channelid/44268758?ticket=B95EAD78842119AC7B3FC7FA1884A506201D5F2D&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports 2
+http://202.163.117.6:9981/stream/channelid/1408292452?ticket=DD383D3A93D692E2C661DBD950E3B59B47CFEC0E&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UTV Movies
+http://202.163.117.6:9981/stream/channelid/1095695221?ticket=AB4D6629A524CD0F5CAC606FF2A81AE8D086A63F&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WB
+http://202.163.117.6:9981/stream/channelid/1644274073?ticket=2495F5606AA89392AB7F2EFFF28ECB9102DB6471&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Cinema
+http://202.163.117.6:9981/stream/channelid/1464378661?ticket=0F0F01099F584D8345766F1A9662E744B526BDB4&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MNX
+http://202.163.117.6:9981/stream/channelid/641118728?ticket=59C10B34A5F492CDE5B1AB180FF8D43C0E907E2A&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nat Geo
+http://202.163.117.6:9981/stream/channelid/1614117988?ticket=8639039800BBB97EDAE14B50D5BBA08938C25917&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Six
+http://202.163.117.6:9981/stream/channelid/1986083816?ticket=1BFECC62B20282AE033F101B60D70A62AFB15BA2&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony TV
+http://202.163.117.6:9981/stream/channelid/535681899?ticket=6B8A4626D55311490525F0E184B7F73F66B0C21F&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Ten 3
+http://202.163.117.6:9981/stream/channelid/1156450698?ticket=27F5869D77DA611229F0C1CFAF765431A18CAD91&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", &TV
+http://202.163.117.6:9981/stream/channelid/1522697368?ticket=6414D3DEEFD013F1109ABC7AB69C0E6BDE03F2F0&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Animal Planet
+http://202.163.117.6:9981/stream/channelid/1549287726?ticket=E2B227144AE26F2668677B918750470BA9D9FA7A&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Comedy Central
+http://202.163.117.6:9981/stream/channelid/642795655?ticket=5F3A2E5F7ED1EC01AB0D1F116080072BACE5F95D&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery
+http://202.163.117.6:9981/stream/channelid/84862204?ticket=D1B816097C8E88FA78F96F1FF405411FE6C4BDC6&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney
+http://202.163.117.6:9981/stream/channelid/349051393?ticket=A3F38FAB04E014343F045D800A03C3BC470999CB&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hugama
+http://202.163.117.6:9981/stream/channelid/1357890196?ticket=69C7131E3C47E12E04F5C3ED8544B3631F181336&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Pogo
+http://202.163.117.6:9981/stream/channelid/872564616?ticket=E03004837397855E640E095AD4488AB64C61B5ED&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Sab
+http://202.163.117.6:9981/stream/channelid/1478402532?ticket=9EAC7B8B2F98C63596CE181D981A0D567AA37E4E&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Movies
+http://202.163.117.6:9981/stream/channelid/1210441427?ticket=1D23709A3F8192A6DAE21FF320869380362A9100&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports 1
+http://202.163.117.6:9981/stream/channelid/1089518334?ticket=97B11CECB41C8EA6C2BC55B54B3F22C71E87FDA6&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star World
+http://202.163.117.6:9981/stream/channelid/737644736?ticket=A8CDBBC296226E097ABF9479DB7DA9AB1B9C5FF4&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Action
+http://202.163.117.6:9981/stream/channelid/147188177?ticket=32A121212A3FB23EB70D1FCA54E34A220F86CC7F&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee ETC Bollywood
+http://202.163.117.6:9981/stream/channelid/1904160431?ticket=14FFFE4E7C4CC468330BEFBFB786471DEC0DC114&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AXN- Rs 5
+http://202.163.117.6:9981/stream/channelid/1602018627?ticket=747F8AAAB8706F5EAC5F406E45EF2ABE9717F307&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Gold 2- Rs 1
+http://202.163.117.6:9981/stream/channelid/1181652461?ticket=7F9F21381AAC8963CA538B0C6B4DDEB3B433CA5F&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY TEN 1- Rs 19
+http://202.163.117.6:9981/stream/channelid/1603316717?ticket=3317A4E83514571781D0B68AC90444006A32A260&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZEE BOLLYWOOD- Rs 2
+http://202.163.117.6:9981/stream/channelid/498882443?ticket=50AA2162A155B606732B395703987F3547FA7887&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", POP HD
+http://202.163.117.6:9981/stream/channelid/526967533?ticket=815277EE462E749FE60712988CCCDFE057CFCFFA&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC Earth HD
+http://202.163.117.6:9981/stream/channelid/811848655?ticket=6F0F60BD531D36619A2D5753CB5E4D3660D26FCF&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC First
+http://202.163.117.6:9981/stream/channelid/1602273918?ticket=362F9CD5FFEF5EA47613B9FF51BF367DFDB57F6E&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO2 HD
+http://202.163.117.6:9981/stream/channelid/292734525?ticket=290B0FA820A57B9CBF5392336D8FA19AE54079B4&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO3 HD
+http://202.163.117.6:9981/stream/channelid/551857118?ticket=EF9EF7BAB0539AD9E42162701BD3C925D93B5134&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal+ HD
+http://202.163.117.6:9981/stream/channelid/117295925?ticket=02AE23239A77711958F7295BB286739F120FE4B3&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal+ Sport HD
+http://202.163.117.6:9981/stream/channelid/1682289077?ticket=8901BE648DBA037E31A25CB7DF461CE293294AA6&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MiniMini+ HD
+http://202.163.117.6:9981/stream/channelid/1949402514?ticket=813B46EE22DF95EB753A66818BF72AD520348B8D&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nat Geo HD
+http://202.163.117.6:9981/stream/channelid/1152268628?ticket=4C6E67860563F0FCD5A87DFB5AD2CDF396E82BB0&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 13 Ulica HD
+http://202.163.117.6:9981/stream/channelid/148796853?ticket=FDD3BB40938382978619AEB330E71420B5775109&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eurosport 1 HD
+http://202.163.117.6:9981/stream/channelid/1130912221?ticket=427190F2B0B5344E82EA0AE17258B7C7151810D6&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SciFi HD
+http://202.163.117.6:9981/stream/channelid/1076319007?ticket=4EF857165954ED1E839823C00D7B2849205EAA46&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AXN Spin HD
+http://202.163.117.6:9981/stream/channelid/1261420898?ticket=E649F5866BF9D858742DCF63F2189BE2AF398673&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CBS Reality HD
+http://202.163.117.6:9981/stream/channelid/754527916?ticket=1DB532F0A2E4D7D1CD7958A0F8FDC91635AF8C46&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Life HD
+http://202.163.117.6:9981/stream/channelid/965862303?ticket=3740B73437BFF08B3EFE705EE541606DEFBC7D3E&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ale kino+ HD
+http://202.163.117.6:9981/stream/channelid/2084758796?ticket=7816CB8FC446E7C64CBECCC35CF02B8291C793F6&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal+ Family HD
+http://202.163.117.6:9981/stream/channelid/1964672553?ticket=F58CFB9CB42298FB7ADCD35BB8DEAD899DD57693&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal+ Film HD
+http://202.163.117.6:9981/stream/channelid/2135958715?ticket=97FF615A3E41EF4F158A0E9A7745AD2F6C603C5E&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal+ Seriale HD
+http://202.163.117.6:9981/stream/channelid/314278368?ticket=F2A2009FA7F8174727F989D9151665BFD68CFB69&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AMC
+http://202.163.117.6:9981/stream/channelid/2119389094?ticket=E4390C1CF08389DB6E15B33B8E1C7BAFF814D51F&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DTX
+http://202.163.117.6:9981/stream/channelid/975776656?ticket=072EE5A7B7DD4F8D62B42AB2036AA0069046ED92&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ID HD
+http://202.163.117.6:9981/stream/channelid/327609118?ticket=B71F2BE4FBD36BA72BC2C9D7808DE7FB71D13112&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cinemax HD
+http://202.163.117.6:9981/stream/channelid/1309539558?ticket=BF309F482A252C0CB64983C66117C6E845A45495&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dawn News
+http://202.163.117.6:9981/stream/channelid/324750814?ticket=1F9EAAE7880CBDD4BA571F6F7682DE57DC5F1D5C&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Neo News HD
+http://202.163.117.6:9981/stream/channelid/1357517762?ticket=97D05D58FF5ACC3BF59B1604C356BAD33BCAFB64&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Samaa News
+http://202.163.117.6:9981/stream/channelid/1827153878?ticket=0298C7244F267B9C1AE7D998452E1AB832BD5D85&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PTV Bolan
+http://202.163.117.6:9981/stream/channelid/1352997815?ticket=CB3CAB1900F06E58F4BD7C323AFA27C3AA9AFD54&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Food Network
+http://202.163.117.6:9981/stream/channelid/78100210?ticket=35897F319A2B03D3227011281EDB18AF7143A588&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV Russia
+http://202.163.117.6:9981/stream/channelid/790133155?ticket=F9B178B9AC95267A9EBC136FB4B60E88F1AE7335&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DTX
+http://202.163.117.6:9981/stream/channelid/994712892?ticket=894CFF0717F750F31A4D79E17DF61E98F721BD22&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VH1 Classic
+http://202.163.117.6:9981/stream/channelid/1047900232?ticket=B757C08D623249771722D4B626FFB54D507BA194&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Science
+http://202.163.117.6:9981/stream/channelid/1108498689?ticket=277616276F3C648286BD9AFD8242C3AB43BB46F1&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV Hits UK
+http://202.163.117.6:9981/stream/channelid/1177988372?ticket=478C6230F25DB26EB4835C90D9532DF016B51F6E&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Investigation Discovery
+http://202.163.117.6:9981/stream/channelid/1520466936?ticket=932D96045B3168A84AA93FEC0E32A0A7E0AF98B6&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nickelodeon
+http://202.163.117.6:9981/stream/channelid/1553980602?ticket=344B0D45C140270F1FC88659B7ED15DDF81C1923&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Paramount Comedy
+http://202.163.117.6:9981/stream/channelid/1593870575?ticket=F627BCDC8838A2329762C0642117B8BB3ED2CCED&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Spike
+http://202.163.117.6:9981/stream/channelid/1675102323?ticket=1A3C064B8591E383840FD479EF4EE86983F2A5D9&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TLC Russia
+http://202.163.117.6:9981/stream/channelid/1920835835?ticket=9BC8E4DC88F5A80201FE16C9478293DC88B4B6D7&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Channel
+http://202.163.117.6:9981/stream/channelid/1982700656?ticket=EB1BC093473E6C730BFB2E9586941E6D7F1BD206&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Paramount Channel
+http://202.163.117.6:9981/stream/channelid/2076134090?ticket=242D2BC567B6096A59B85A8AE0B70C10CF400033&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nat Geo People HD
+http://202.163.117.6:9981/stream/channelid/426702945?ticket=38536C5DEA17866698D5AE393FBE967F3F0AB78F&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nat Geo Wild HD
+http://202.163.117.6:9981/stream/channelid/1042083878?ticket=133F2D46185C3F1FE1E243899CA375D9FDB2BB53&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nat Geo HD
+http://202.163.117.6:9981/stream/channelid/1444970166?ticket=550E22E6DF612811068EA9B99D9DA983E6BB6DC5&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Life HD
+http://202.163.117.6:9981/stream/channelid/616453088?ticket=0FF95584ECE6A0CBC4C9DBC39D6E2D028D626559&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Crime HD
+http://202.163.117.6:9981/stream/channelid/761356555?ticket=F43A7233B33F555B22DBD6E06AF46602E9836B05&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Sports HD
+http://202.163.117.6:9981/stream/channelid/2013656659?ticket=1DE7AC028183A76E316743359E6C359AC7B1650E&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FX HD
+http://202.163.117.6:9981/stream/channelid/1302966881?ticket=F5FC66026D3A9487856866787A99E94FDFBA5D3E&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24 Kitchen HD
+http://202.163.117.6:9981/stream/channelid/1542377574?ticket=152779A681729C7D576F46C06A44A26EDF932F77&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Historia
+http://202.163.117.6:9981/stream/channelid/804236800?ticket=9F9E915433DACAAB8B516E70207590794E46B2E7&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Animal Planet HD
+http://202.163.117.6:9981/stream/channelid/1713445678?ticket=EEDB1EAAFF53F58504C56B852DC516B860119AA1&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL+ NOW
+http://202.163.117.6:9981/stream/channelid/8830461?ticket=9CF39217C523A89C706003A536659A0466D596D8&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ELEVEN SPORTS 4 HD
+http://202.163.117.6:9981/stream/channelid/255765828?ticket=DB247228BD33C4A49203E6BA86681C2E4A4620C8&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lifetime HD
+http://202.163.117.6:9981/stream/channelid/1510105867?ticket=2F9AF03F07EB5ACE2A1519D23A5FC7F995C16BE6&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", E! Entertainment
+http://202.163.117.6:9981/stream/channelid/1276637618?ticket=EF69A1AB2B4D729129CB38691BC4CBFF3D080E44&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TLC HD
+http://202.163.117.6:9981/stream/channelid/1154033326?ticket=35023785F7D9FF4CB7C66C509B6EC14F836CB5CD&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Golf Channel
+http://202.163.117.6:9981/stream/channelid/1558713948?ticket=FE775AA955496BAD2CB251E27949D43DB1B2A522&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", History 2 HD
+http://202.163.117.6:9981/stream/channelid/1506768871?ticket=D845F4BA343CE50CD87040ED6D5A5DC54BB9B65F&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fightbox HD
+http://202.163.117.6:9981/stream/channelid/1292477461?ticket=0618984BDECDBEDAFDADB86847D6FFD20916251B&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FilmBox Family
+http://202.163.117.6:9981/stream/channelid/263444769?ticket=1F6DB38FD9FB68BA7308988EEC2918F887D1B154&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FilmBox Extra HD
+http://202.163.117.6:9981/stream/channelid/1533139665?ticket=17D76919102EE23FE75217EE40876AD8C06B9DB7&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FilmBox Action
+http://202.163.117.6:9981/stream/channelid/2071450594?ticket=7D1CC5FC9F97A74E21A78C35AAEDD6A5AA7A298B&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", teleTOON+ HD
+http://202.163.117.6:9981/stream/channelid/604589102?ticket=A437EDF50B0EBF2085E41F8BE8ECB4771311E1C2&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Planete+ HD
+http://202.163.117.6:9981/stream/channelid/1594825531?ticket=07FA859019018D3D14DFF906DB105E7334BB7BC2&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kuchnia+ HD
+http://202.163.117.6:9981/stream/channelid/1654282428?ticket=D02F8E0B31DAD2C17FDF5253D3A67C9063FE4531&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", nSport+
+http://202.163.117.6:9981/stream/channelid/236125480?ticket=2B4E4B7D500D6AA4FE0779ED91C11D5CFA2E7F4B&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL+ DOKUMENT HD
+http://202.163.117.6:9981/stream/channelid/376505944?ticket=A89367E0303FB12A38C9AA7C3F31DBF97DE3283B&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Romance TV
+http://202.163.117.6:9981/stream/channelid/778894261?ticket=7516B867D79C3E0D76325BB21CD0961AE9BBEF45&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", National Geographic Wild HD
+http://202.163.117.6:9981/stream/channelid/1269914614?ticket=E8C02261987E61E029A665FDD1506F6436308DD6&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVP HD
+http://202.163.117.6:9981/stream/channelid/1576030212?ticket=778AA90F29DF77740B1B13555B0ADCEF3C9981B8&profile=pass
+
