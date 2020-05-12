@@ -84,6 +84,9 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", BALI TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(ece368c4-0d61-4ba8-8797-e436a2f5c00d)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", CAHAYA TV
+http://103.23.201.170:1935/live/livestream/chunklist_w1352763317.m3u8
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", JTV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
 
@@ -92,6 +95,9 @@ http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", RIAU TV
 http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", TEMPO TV
+http://wowza58.indostreamserver.com:1935/tempotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RAMADHAN", AREK TV SURABAYA
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
@@ -144,11 +150,17 @@ http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/01.m3u8
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", Nick
+http://202.163.117.6:9981/stream/channelid/1926341614?ticket=175663861385A1C70765D94A3FD53495B0DAF8FB&profile=pass
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", NICK JR.
 https://cdn-laos.workpoint.news/sd-nickjr_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", Rooster Teeth TV
 https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", Nickelodeon
+http://202.163.117.6:9981/stream/channelid/1553980602?ticket=344B0D45C140270F1FC88659B7ED15DDF81C1923&profile=pass
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", Tom & Jerry TV
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
@@ -309,17 +321,38 @@ https://vcdnjt.useetv.com:443/joss/15/tvnmovies/chunklist_w612648122_b684100_sle
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", STAR CHINESE LEGEND
 https://cdn-laos.workpoint.news/sd-starchineselegend_480/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", THE INDONESIA CHANNEL
+https://tic.indonusa.net.id:8443/live/TIC.stream_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", THRILL
 https://vcdnjt.useetv.com:443/joss/14/thrill/chunklist_w2102222406_b684100_sleng_177560.m3u8?enc=z1jUakGooqRou0rK56Whcg&exp=1584803170
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", WARNER TV
 https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", &Flix
+http://202.163.117.6:9981/stream/channelid/1160757101?ticket=23F6E8B6F5F40F9B8F688FC5B8FF6BC509AE9CEE&profile=pass
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", &Pictures
+http://202.163.117.6:9981/stream/channelid/1294487949?ticket=B20F14204517547DA0046107100EA28CB117A27B&profile=pass
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", &TV
+http://202.163.117.6:9981/stream/channelid/1522697368?ticket=6414D3DEEFD013F1109ABC7AB69C0E6BDE03F2F0&profile=pass
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", MOTO GP
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", MOTO GP 2
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",Canal+ Sport HD
+http://202.163.117.6:9981/stream/channelid/1682289077?ticket=8901BE648DBA037E31A25CB7DF461CE293294AA6&profile=pass
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",ESPN BRASIL
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/chunklist_b528441_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",FOX SPORT BRASIL
+https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxsports.smil/chunklist_b528441_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", FOX SPORT 1
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
@@ -427,26 +460,14 @@ https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", TRUE PREMIER LEAGUE 3
 https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", SKYNET 1
-https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", Star Sports 1 Hindi
+http://202.163.117.6:9981/stream/channelid/44268758?ticket=B95EAD78842119AC7B3FC7FA1884A506201D5F2D&profile=pass
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", SKYNET 2
-https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",Star Sports 1
+http://202.163.117.6:9981/stream/channelid/1089518334?ticket=97B11CECB41C8EA6C2BC55B54B3F22C71E87FDA6&profile=pass
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", SKYNET 5
-https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", SKYNET 6
-https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",Art SPORT 1
-http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",Art SPORT 2
-http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",Art SPORT 3
-http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",Star Sports 2
+http://202.163.117.6:9981/stream/channelid/1408292452?ticket=DD383D3A93D692E2C661DBD950E3B59B47CFEC0E&profile=pass
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",Sentata Sports
 http://188.93.95.34:80/setanta_georgia/index.m3u8
@@ -454,14 +475,17 @@ http://188.93.95.34:80/setanta_georgia/index.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",Sentata Sports+
 http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", Sony Six
+http://202.163.117.6:9981/stream/channelid/1986083816?ticket=1BFECC62B20282AE033F101B60D70A62AFB15BA2&profile=pass
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", Sony Ten 1
-http://103.205.133.42:1935/local/sony_ten1_hd_720/index.m3u8
+http://202.163.117.6:9981/stream/channelid/1603316717?ticket=3317A4E83514571781D0B68AC90444006A32A260&profile=pass
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", Sony Ten 2
-http://103.205.133.42:1935/local/sony_ten2_hd_720/index.m3u8
+http://202.163.117.6:9981/stream/channelid/520610693?ticket=68E2D7EFB61BEBC13C8B6EEE6A3542F803AA98F8&profile=pass
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", Sony Ten 3
-http://103.205.133.42:1935/local/ten_3_720/index.m3u8
+http://202.163.117.6:9981/stream/channelid/1156450698?ticket=27F5869D77DA611229F0C1CFAF765431A18CAD91&profile=pass
 
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="VOD MOVIES",ALADIN
