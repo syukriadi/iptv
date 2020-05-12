@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" ,INTRO
+https://raw.githubusercontent.com/syukriadi/iptv/master/nw_SD 360p.mp4
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RCTI+",RCTI HD
 https://linier.akamaized.net:443/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
 
@@ -312,14 +315,14 @@ https://vcdnjt.useetv.com:443/joss/14/thrill/chunklist_w2102222406_b684100_sleng
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", WARNER TV
 https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", MOTO GP 2
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", MOTO GP
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", MOTO GP 3
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", MOTO GP 2
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", FOX SPORT 1
-https://vcdnjt.useetv.com:443/joss/15/foxsport1/chunklist_w778289513_b684100_sleng_177560.m3u8?enc=RZp4RrKSIXNxicaYY6fPTA&exp=1585292462&encp=vOXSyGKpZ9gytSWn62XF6A&expp=1585301162
+https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", FOX SPORT 2
 https://vcdnjt.useetv.com:443/joss/15/foxsport2/chunklist_w790481523_b684100_sleng_177560.m3u8?enc=5gkf76mgRhgfATyaSDHCoQ&exp=1585292570&encp=sKlDtjs9_zyjTnlRJ_y2xg&expp=1585301270
@@ -451,13 +454,13 @@ http://188.93.95.34:80/setanta_georgia/index.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",Sentata Sports+
 http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS", Sony Ten 1
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", Sony Ten 1
 http://103.205.133.42:1935/local/sony_ten1_hd_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS", Sony Ten 2
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", Sony Ten 2
 http://103.205.133.42:1935/local/sony_ten2_hd_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS", Sony Ten 3
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", Sony Ten 3
 http://103.205.133.42:1935/local/ten_3_720/index.m3u8
 
 
