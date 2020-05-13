@@ -544,14 +544,8 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e7dc8643-8e79-4a78-941d
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="VOD MOVIES", PREDESTINATION
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/a5e56786-2546-44d2-ad10-5d4830c53ee4/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Fairfield (MT) (Ski Slopes)
-http://76.75.8.116:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", San Diego (CA) (Panda 2)
-http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", San Diego (CA) (Polar Bear)
-http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Foz do (LG) (Friendship Bridge)
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Sandusky (OH) (Cedar Point Park 1)
 http://cs2.pixelcaster.com:1935/live/cedar1.stream/playlist.m3u8
@@ -559,14 +553,11 @@ http://cs2.pixelcaster.com:1935/live/cedar1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Sandusky (OH) (Cedar Point Park 2)
 http://cs2.pixelcaster.com:1935/live/cedar2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Wyoming (Devils Tower)
-http://72.36.32.28:80/mjpg/video.mjpg
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", San Diego (CA) (Polar Bear)
+http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", The Blue Mountains (Craigleith Ski Club)
-http://72.143.50.74:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Fairfield (MT) (Ski Slopes)
-http://76.75.8.116:80/mjpg/video.mjpg
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Chengdu (Panda Reserve)
+http://gccnchwc.v.cdn20.com/gc/xiongmao01_1.flv
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", San Diego (CA) (Panda 2)
 http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
@@ -576,22 +567,4 @@ https://cdn-003.whatsupcams.com/hls/es_roses01.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Roses (Port)
 https://cdn-002.whatsupcams.com/hls/es_roses02.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Salou (Espig� del Moll)
-http://195.76.183.92:8888/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Salou (Passeig Jaume I)
-http://webcam.salou.cat:8889/axis-cgi/mjpg/video.cgi?resolution=380x290&dummy=1452859544402
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Foz do Igua�u (Friendship Bridge)
-https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Ryazan Oblast (Vyshensky Monastery)
-http://212.26.225.115:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Mykonos (Old Port)
-https://cdn-002.whatsupcams.com/hls/gr_mykonos01.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Chengdu (Panda Reserve)
-http://gccnchwc.v.cdn20.com/gc/xiongmao01_1.flv
 
