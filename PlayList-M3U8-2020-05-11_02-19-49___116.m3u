@@ -25,7 +25,7 @@ https://vcdnjt.useetv.com:443/joss/15/sctv/chunklist_w457941769_b684100_sleng_17
 https://vcdnjt.useetv.com:443/joss/15/indosiar/chunklist_w216473056_b684100_sleng_177560.m3u8?enc=fNhkrkjP1SfsMprexUm1ZA&exp=1587469129
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", NET TV
-http://45.126.83.51/session/7de5e2ce-95be-11ea-9371-9d2dbb096932/qwr9ew/s/s08/01.m3u8
+http://210.210.155.35/session/2844e826-9625-11ea-b6b0-bf9fb6a13177/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RCTI+",GTV HD
 https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
@@ -37,7 +37,7 @@ https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", TV ONE
-https://stream-05.sg1.dailymotion.com:443/sec(045Msia06uu92p_oLsoybHGN8CjooQIwqoCd39Z5zYE)/dm/3/x619221/s/live-1.m3u8
+https://stream-03.sg1.dailymotion.com:443/sec(Lwh7JHfNhyxGUc6wDbgCy1c4KYNPM3jGGUkO-8dvr7U)/dm/3/x5i1xjt/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", TV ONE 2
 http://203.153.218.26:9981/stream/channelid/304965952?ticket=183043D51A7C095FF86AC1B1037F15E625782D69&profile=pass
@@ -64,10 +64,7 @@ https://live.cnnindonesia.com:443/livecnn/smil:cnntv.smil/chunklist_w1241960898_
 https://live.cnbcindonesia.com:443/livecnbc/smil:cnbctv.smil/chunklist_w290751272_b192000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",KOMPAS TV
-https://stream-01.sg1.dailymotion.com:443/sec(hq_e0q5VHX_FvDCk_Uz4G1DeTSXmlK3KSyY4q7i3QMc)/dm/3/x6pz4sa/d/live-1.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",KOMPAS TV 2
-http://203.153.218.26:9981/stream/channelid/925992747?ticket=296DE92D262633AEC28AF77A4581215FE675E23F&profile=pass
+https://stream-02.sg1.dailymotion.com:443/sec(hq_e0q5VHX_FvDCk_Uz4G5A6GG9kfg9Z4Y4eZPruXXA)/dm/3/x6pz4sa/d/live-2.m3u8 
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
