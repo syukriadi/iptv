@@ -136,7 +136,7 @@ http://203.153.218.26:9981/stream/channelid/423233853?ticket=7578E64ADDC6E3F7241
 https://vcdnjt.useetv.com:443/joss/14/animax/chunklist_w1311799834_b684100_sleng_177560.m3u8?enc=aX0_lWn1GEfoVS-LJVybww&exp=1584875165
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", ANIPLUS
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(386e35b2-14f8-4368-92d7-010d78deaf75)/manifest.mpd
+http://210.210.155.35/session/f587630a-95c0-11ea-8fe3-9c599072c669/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", BABY FIRST
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
@@ -285,6 +285,12 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", AXN
 https://vcdnjt.useetv.com:443/joss/15/axn/chunklist_w1332206438_b684100_sleng_177560.m3u8?enc=oKFj9Xw1YXcLgJJxFI-NrA&exp=1587470166
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", BLUE ANT ENTERTAIMENT
+http://210.210.155.35/session/75b3ab0c-95c0-11ea-b9c9-bb37bb625a1f/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", BLUE ANT EXTREME
+http://210.210.155.35/session/a56bd342-95c0-11ea-96c1-a82d8016bd0f/dr9445/h/h15/01.m3u8
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", CELESTIAL MOVIES
 https://vcdnjt.useetv.com:443/joss/14/celestialmovie/chunklist_w954726482_b684100_sleng_177560.m3u8?enc=S9CU0VYIYNNn-jfGBrOZsA&exp=1584802477
 
@@ -353,6 +359,9 @@ https://vcdnjt.useetv.com:443/joss/14/thrill/chunklist_w2102222406_b684100_sleng
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", WARNER TV
 https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", ZEE BIOSKOP
+http://210.210.155.35/session/2b661b02-95c0-11ea-9368-a6b98831e575/qwr9ew/s/s32/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", &Flix
 http://202.163.117.6:9981/stream/channelid/1160757101?ticket=23F6E8B6F5F40F9B8F688FC5B8FF6BC509AE9CEE&profile=pass
