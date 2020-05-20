@@ -150,6 +150,9 @@ https://vcdnjt.useetv.com:443/joss/14/tv9/chunklist_w1823610374_b684100_sleng_17
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN", TAWAF TV
 http://stream2.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN", QURAN TV
+http://livecdnh3.tvanywhere.ae:80/hls/majd/03.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS", ANIMAX
 https://vcdnjt.useetv.com:443/joss/14/animax/chunklist_w1311799834_b684100_sleng_177560.m3u8?enc=aX0_lWn1GEfoVS-LJVybww&exp=1584875165
 
