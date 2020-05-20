@@ -22,7 +22,7 @@ https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_31039
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", TV ONE
-http://210.210.155.35:80/session/1d53ce08-9910-11ea-b47e-965eb9aa88bc/qwr9ew/s/s105/01.m3u8
+http://sg1.ciscossh.us8080.ok-dns.com/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
@@ -43,7 +43,7 @@ https://live.cnnindonesia.com:443/livecnn/smil:cnntv.smil/chunklist_w1241960898_
 https://live.cnbcindonesia.com:443/livecnbc/smil:cnbctv.smil/chunklist_w290751272_b192000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", KOMPAS TV
-http://210.210.155.35/session/1a06f30a-9a79-11ea-aeaf-83b3b46523a5/qwr9ew/s/s104/01.m3u8
+http://sg1.ciscossh.us8080.ok-dns.com/session/1a06f30a-9a79-11ea-aeaf-83b3b46523a5/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
@@ -148,7 +148,7 @@ http://stream2.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/playlist.m3u8
 https://vcdnjt.useetv.com:443/joss/14/animax/chunklist_w1311799834_b684100_sleng_177560.m3u8?enc=aX0_lWn1GEfoVS-LJVybww&exp=1584875165
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS", ANIPLUS
-http://210.210.155.35/session/f587630a-95c0-11ea-8fe3-9c599072c669/dr9445/h/h02/index.m3u8
+http://sg1.ciscossh.us8080.ok-dns.com/session/f587630a-95c0-11ea-8fe3-9c599072c669/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS", BABY TV
 http://livecdnh1.tvanywhere.ae:80/hls/baby/01.m3u8
@@ -286,10 +286,10 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-
 https://vcdnjt.useetv.com:443/joss/15/axn/chunklist_w1332206438_b684100_sleng_177560.m3u8?enc=oKFj9Xw1YXcLgJJxFI-NrA&exp=1587470166
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES", BLUE ANT ENTERTAIMENT
-http://210.210.155.35/session/75b3ab0c-95c0-11ea-b9c9-bb37bb625a1f/dr9445/h/h16/01.m3u8
+http://sg1.ciscossh.us8080.ok-dns.com/session/75b3ab0c-95c0-11ea-b9c9-bb37bb625a1f/dr9445/h/h16/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES", BLUE ANT EXTREME
-http://210.210.155.35/session/a56bd342-95c0-11ea-96c1-a82d8016bd0f/dr9445/h/h15/01.m3u8
+http://sg1.ciscossh.us8080.ok-dns.com/session/a56bd342-95c0-11ea-96c1-a82d8016bd0f/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES", CELESTIAL MOVIES
 https://vcdnjt.useetv.com:443/joss/14/celestialmovie/chunklist_w954726482_b684100_sleng_177560.m3u8?enc=S9CU0VYIYNNn-jfGBrOZsA&exp=1584802477
