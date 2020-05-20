@@ -25,7 +25,7 @@ https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", TV ONE
-http://sg1.ciscossh.us8080.r-dns.xyz:9981/stream/channelid/304965952?ticket=2C861BCFC0BDDA60C6A26AF3103A7F0792205021&profile=pass
+http://sg1.ciscossh.us8080.ok-dns.com/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
@@ -49,7 +49,7 @@ https://live.cnnindonesia.com:443/livecnn/smil:cnntv.smil/chunklist_w1241960898_
 https://live.cnbcindonesia.com:443/livecnbc/smil:cnbctv.smil/chunklist_w290751272_b192000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", KOMPAS TV
-http://sg1.ciscossh.us8080.ok-dns.com/session/1a06f30a-9a79-11ea-aeaf-83b3b46523a5/qwr9ew/s/s104/01.m3u8
+http://sg1.ciscossh.us8080.ok-dns.com/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
@@ -89,6 +89,9 @@ https://vcdnjt.useetv.com/joss/14/rrinet/chunklist_w201885848_b684100_sleng_1219
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",TV EDUKASI
 https://cdnkbl1.useetv.com/joss/14/tvedukasi/chunklist_w1106170680_b684100_sleng_122400.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",ELSINTA
+http://sg1.ciscossh.us8080.ok-dns.com/qwr9ew/s/s10/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",JAKTV
 https://cdnkbl1.useetv.com/joss/14/jaktv/chunklist_w1342810570_b684100_sleng_122404.m3u8
@@ -176,6 +179,9 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS", DUCK TV
 http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS",EGG NETWORK
+http://sg1.ciscossh.us8080.ok-dns.com/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS",HOREE
 https://cdnkbl1.useetv.com/joss/14/horee/chunklist_w1584998548_b684100_sleng_53758.m3u8
@@ -351,8 +357,23 @@ https://vcdnjt.useetv.com:443/joss/15/tvnmovies/chunklist_w612648122_b684100_sle
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES", STAR CHINESE LEGEND
 https://cdn-laos.workpoint.news/sd-starchineselegend_480/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES", SINEMA INDONESIA
+http://sg1.ciscossh.us8080.ok-dns.com/x6bnqe/s/s71/S4/mnf.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES", THE INDONESIA CHANNEL
 https://tic.indonusa.net.id:8443/live/TIC.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",CINEMA WORLD
+http://sg1.ciscossh.us8080.ok-dns.com/uq2663/h/h04/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",HITS
+http://sg1.ciscossh.us8080.ok-dns.com/uq2663/h/h37/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",K+
+http://sg1.ciscossh.us8080.ok-dns.com/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",SONY GEM
+http://sg1.ciscossh.us8080.ok-dns.com/uq2663/h/h19/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES", THRILL
 https://vcdnjt.useetv.com:443/joss/14/thrill/chunklist_w2102222406_b684100_sleng_177560.m3u8?enc=z1jUakGooqRou0rK56Whcg&exp=1584803170
@@ -440,6 +461,9 @@ http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="SPORTS", FIGHT BOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="SPORTS",FIGHT SPORTS
+http://sg1.ciscossh.us8080.ok-dns.com/uq2663/h/h05/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="SPORTS", REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
