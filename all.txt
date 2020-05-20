@@ -18,11 +18,14 @@ https://vcdnjt.useetv.com:443/joss/15/indosiar/chunklist_w216473056_b684100_slen
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", NET TV
 https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", GTV
+https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", TV ONE
-http://sg1.ciscossh.us8080.ok-dns.com/qwr9ew/s/s105/01.m3u8
+http://sg1.ciscossh.us8080.r-dns.xyz:9981/stream/channelid/304965952?ticket=2C861BCFC0BDDA60C6A26AF3103A7F0792205021&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
@@ -35,6 +38,9 @@ https://cdnbpp1.useetv.com/joss/14/rtv/chunklist_w56964414_b684100_sleng_121748.
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", BERITASATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", BERITASATU WORLD
+http://sg1.ciscossh.us8080.r-dns.xyz:9981/stream/channelid/885612247?ticket=29D5839729BA7216F379F0570667644600F100B9&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", CNN INDONESIA
 https://live.cnnindonesia.com:443/livecnn/smil:cnntv.smil/chunklist_w1241960898_b192000_sleng.m3u8
@@ -300,8 +306,23 @@ https://vcdnjt.useetv.com:443/joss/14/bioskopindonesia/chunklist_w1569483238_b68
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES", GALAXY
 https://vcdnjt.useetv.com:443/joss/15/galaxy/chunklist_w300453741_b684100_sleng_177560.m3u8?enc=l6rpqYqWLQ3V69S92YsbZg&exp=1587471181
 
-#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES", FOX FAMILY MOVIES 2
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",HBO FAMILY
+http://sg1.ciscossh.us8080.x-dns.xyz:9981/stream/channelid/1316004766?ticket=EC97AD8280CA23BFF13E8E5DAA957216FFC77AEF&profile=pass
+
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",HBO HITS
+http://sg1.ciscossh.us8080.x-dns.xyz:9981/stream/channelid/2038175895?ticket=7890B1F6AC797C6402FD196F3C19DBBE48B2A0E2&profile=pass
+
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",FOX
+http://sg1.ciscossh.us8080.x-dns.xyz:9981/stream/channelid/1910872088?ticket=49DA2BA4E5AD744321A0A9A18B14BBD86901A8A2&profile=pass
+
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",FOX MOVIES
+http://sg1.ciscossh.us8080.x-dns.xyz:9981/stream/channelid/756717990?ticket=E2180FCDE2A1E3A89862170B55B1B9B2A5D6437E&profile=pass
+
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",FOX FAMILY MOVIES
+http://sg1.ciscossh.us8080.x-dns.xyz:9981/stream/channelid/1949182550?ticket=D86F0DF5634819923E64A31C844EF6208CA9DC64&profile=pass
+
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",Fox Movies Action
+http://sg1.ciscossh.us8080.x-dns.xyz:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES", HI! INDO
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
