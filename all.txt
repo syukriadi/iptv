@@ -309,6 +309,9 @@ https://vcdnjt.useetv.com:443/joss/14/bioskopindonesia/chunklist_w1569483238_b68
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES", GALAXY
 https://vcdnjt.useetv.com:443/joss/15/galaxy/chunklist_w300453741_b684100_sleng_177560.m3u8?enc=l6rpqYqWLQ3V69S92YsbZg&exp=1587471181
 
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES", HI! INDO
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",HBO FAMILY
 http://sg1.ciscossh.us8080.x-dns.xyz:9981/stream/channelid/1316004766?ticket=EC97AD8280CA23BFF13E8E5DAA957216FFC77AEF&profile=pass
 
@@ -326,9 +329,6 @@ http://sg1.ciscossh.us8080.x-dns.xyz:9981/stream/channelid/1949182550?ticket=D86
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",Fox Movies Action
 http://sg1.ciscossh.us8080.x-dns.xyz:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
-
-#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES", HI! INDO
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES", RIA
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master01.m3u8
