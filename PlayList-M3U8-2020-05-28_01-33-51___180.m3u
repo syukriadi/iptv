@@ -234,6 +234,9 @@ http://200.54.51.206:9000/play/a01h
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KNOWLEDGE",Nat Geo Wild (Asia)
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KNOWLEDGE",NAT GEO PEOPLE
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
+
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KNOWLEDGE",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
 
@@ -378,6 +381,9 @@ http://sg1.ciscossh.us8080.ok-dns.com/x6bnqe/s/s71/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",THE INDONESIA CHANNEL
 https://tic.indonusa.net.id:8443/live/TIC.stream_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",CELESTIAL MOVIES
+http://sg1.ciscossh.us8080.ok-dns.com/qwr9ew/s/s33/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",CINEMA WORLD
 http://sg1.ciscossh.us8080.ok-dns.com/uq2663/h/h04/02.m3u8
 
@@ -395,6 +401,9 @@ https://vcdnjt.useetv.com:443/joss/14/thrill/chunklist_w2102222406_b684100_sleng
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",WARNER WB
 https://edgejt7.useetv.com/joss/15/warner/chunklist_w509483601_b894100_sleng_307702.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",ZEE BIOSKOP
+http://sg1.ciscossh.us8080.ok-dns.com/qwr9ew/s/s32/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MOVIES",iFilm English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist.m3u8
