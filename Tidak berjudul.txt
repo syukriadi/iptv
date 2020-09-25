@@ -1,40 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", JITV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", JITV
 http://188.40.76.108:25461/live/mytv01/uSIRzmks51/132.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", CNN INDONESIA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", CNN INDONESIA
 http://188.40.76.108:25461/live/mytv01/uSIRzmks51/135.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", JAKARTA GLOBE NEWS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", JAKARTA GLOBE NEWS
 http://188.40.76.108:25461/live/mytv01/uSIRzmks51/136.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", BERITA SATU
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", BERITA SATU
 http://188.40.76.108:25461/live/mytv01/uSIRzmks51/137.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", iNews
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", iNews
 http://188.40.76.108:25461/live/mytv01/uSIRzmks51/138.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", METRO TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", METRO TV
 http://188.40.76.108:25461/live/mytv01/uSIRzmks51/142.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", MNC TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", MNC TV
 http://188.40.76.108:25461/live/mytv01/uSIRzmks51/143.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", GTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", GTV
 http://188.40.76.108:25461/live/mytv01/uSIRzmks51/144.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", RCTI
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", RCTI
 http://188.40.76.108:25461/live/mytv01/uSIRzmks51/148.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", TRANS TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", TRANS TV
 http://188.40.76.108:25461/live/mytv01/uSIRzmks51/150.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", ANTV
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/151.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", TVRI
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/152.ts
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", GTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
