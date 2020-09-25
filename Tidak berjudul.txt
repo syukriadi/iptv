@@ -1,0 +1,2692 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", JITV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/132.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", CNN INDONESIA
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/135.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", JAKARTA GLOBE NEWS
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/136.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", BERITA SATU
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/137.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", iNews
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/138.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", METRO TV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/142.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", MNC TV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/143.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", GTV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/144.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", RCTI
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/148.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", TRANS TV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/150.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", ANTV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/151.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", TVRI
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/152.ts
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", MNC
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", INEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", SCTV
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", NET
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET.
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TRANS 7
+http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans7
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TV ONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TRANS TV
+http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans_TV
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",RTV
+http://210.210.155.35/qwr9ew/s/s12/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", METRO TV HD
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TVRI NASIONAL
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TVRI DKI JAKARTA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TVRI BUDAYA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", BERITASATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", ID KU
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",USEE PRIME
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",USEE PHOTO
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(28342aae-356c-46c1-b150-98ac3fb0fd5c)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",RUANG TERAMPIL
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(56a81d9a-f190-463b-9a01-42f85674e8bd)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO NAURA
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO RUUMA
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP_03.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO GAAYA
+https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO GOSHOP
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO AWANI
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", RTM TV1
+https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist_b464000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", RTM TV2
+https://rtm2mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist_b464000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", TV3
+http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", AL IMAN
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", AL-BAHJAH TV
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", ANIMAX
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", ANIPLUS
+http://210.210.155.35:80/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", Disney XD
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", Cartoon Network
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", Cartoon Club 2
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist_w2052379668.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", Rooster Teeth TV
+https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", TCT KIDS
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", TVO KIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", Fashion TV MIDNIGHT
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", Fashion TV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", WF
+http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", HD Fashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", JASMIN TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", Animal Planet
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", History
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", H2
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", Discovery Asia
+https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", NAT GEO
+https://www.fanmingming.cn/hls/natlgeo.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", NAT GEO PEOPLE
+http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDE4IDY6NTY6MTkgUE0maGFzaF92YWx1ZT1pV21sdUNEVXZpZ3I1bitwSEUrRDhBPT0mdmFsaWRtaW51dGVzPTImaWQ9Q2hveXw4MDN8aXB0dmhlcm98MTUyOTk1Mjk3OXwxMTkuNzYuMTUyLjM=
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", NAT GEO Wild
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", BBC Cbeebies
+http://51.52.156.22:8888/http/003
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", DMAX
+http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Joo Music
+https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Euro Indie Music Chart
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Animation
+https://www.djing.com/tv/animation.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Classics
+https://www.djing.com/tv/classics.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Dancefloor
+https://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Hits
+https://www.djing.com/tv/hits.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Live
+https://www.djing.com/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Underground
+https://www.djing.com/tv/underground.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", AXN
+http://136.243.177.164/AXN/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", AXN ID
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",  Blue Ant Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",  Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", FOX HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", Fox Premium Movies
+https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", Fox Thai
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HBO HD
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HBO Hits
+https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HBO Redby
+https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", Warner TV HD
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", SINEMA INDONESIA
+http://210.210.155.35:80/x6bnqe/s/s71/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", CELESTIAL MOVIES 2
+http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", CINEMA WORLD
+http://210.210.155.35:80/uq2663/h/h04/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HITS
+http://210.210.155.35:80/uq2663/h/h37/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", K+
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", SONY HD
+http://103.214.202.218:8081/live/sony-40/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", SONY GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", THRILL
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", ZEE BIOSKOP
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS",beIN Sports 1 Asia
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS",beIN Sports 2 Asia
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", FOX SPORTS 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", FOX SPORTS 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", RTM SPORT
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", EPL HD
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", EPL
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", MOTO GP
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", SERI A ITALIA
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", UFC 1
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", UFC 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", NBA HD
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", True Tennis HD
+https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", Golf Channel HD
+https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", True Premier Football 1 TH
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", True Premier Football 2 TH
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", True Premier Football 3 TH
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS",  True Premier Football 4 TH
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", True Premier Football 5 TH
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TrueSport HD 1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TrueSport HD 2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TrueSport HD 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", ZEE NUNG
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/83.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", TVB Drama Thai
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/84.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", T Sports
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/85.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", RED by HBO (TH)
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/88.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", FOX ???
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/89.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", FOX ACTION MOVIES (Thai Sub)
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/90.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", FOX MOVIES (Thai Sub)
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/91.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", True4U
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/93.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", CHANNEL 8 THAI
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/94.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", TNN16
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/96.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", New18 TV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/97.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", News 1
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/98.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", TPTV Thai Parliament TV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/99.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", Voice TV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/100.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", M Channel
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/101.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", One TV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/102.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", Thairath TV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/104.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", MONO29
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/107.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", Workpoint TV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/109.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", MCOT
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/111.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", Thai PBS
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/112.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", NBT 2
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/113.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", Thai Ch7
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/115.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", Thai Ch5
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/116.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", Thai Ch3
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/117.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THAI CHANNEL", HBO (TH)
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/1165.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", CTV - C‡ Mau TV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/153.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", QRT -  Qu?ng Nam
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/154.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", HBTV - HÚa BÏnh
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/155.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", THTG - Ti?n Giang
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/156.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", THGL - Gia Lai
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/158.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", BRT - B‡ R?a-V?ng T‡u TV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/160.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", Nh‚n D‚n TV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/161.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", ?‡N?ng TV2
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/162.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", BPTV2 - BÏnh Ph??c TV 2
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/164.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", BPTV1 - BÏnh Ph??c TV 1
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/165.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", VTV6
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/166.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", VTV5
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/167.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", VTV 1
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/171.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", VTC13
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/174.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", VTC12 - VTCK
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/175.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", VTC10
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/176.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", VTC9
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/177.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", VTC8
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/178.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", VTC7 - Today TV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/179.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", VTC6
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/180.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", VTC5
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/181.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", VTC4
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/182.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", VTC3
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/183.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", VTC2
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/184.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VIETNAM CHANNEL", VTC 1
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/185.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", CHINESE MOVIE ???? 6
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/52.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", CHINESE MOVIE ???? 5
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/53.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", CHINESE MOVIE ???? 4
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/54.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", CHINESE MOVIE ???? 3
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/55.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", CHINESE MOVIE ???? 2
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/56.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", CHINESE MOVIE ???? 1
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/57.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", HOLLYWOOD MOVIE 2
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/58.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", CANTONESE MOVIE ????
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/61.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", BEST MOVIE ????
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/63.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", NewTV ????
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/65.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", NewTV ????
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/66.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", NewTV ????
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/67.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", ACTION CHANNEL ????
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/68.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", CCTV6 ??
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/71.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", CHC ????
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/72.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", FOX ACTION MOVIES
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/73.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", CELESTIAL MOVIES ????
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/74.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", WARNER TV ????
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/75.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", PHOENIX MOVIES ??????
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/78.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE CHANNEL", STAR CHINESE MOVIES ????
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/79.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT CHANNEL(18+)", VIP Z1
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/186.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT CHANNEL(18+)", VIP X1
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/187.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT CHANNEL(18+)", VIP12
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/190.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT CHANNEL(18+)", VIP11
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/191.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT CHANNEL(18+)", VIP10
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/192.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT CHANNEL(18+)", VIP9
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/193.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT CHANNEL(18+)", VIP8
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/194.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT CHANNEL(18+)", VIP7
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/195.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT CHANNEL(18+)", VIP6
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/196.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT CHANNEL(18+)", VIP5
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/197.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT CHANNEL(18+)", VIP3
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/198.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT CHANNEL(18+)", VIP2
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/199.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT CHANNEL(18+)", VIP1
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/200.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The Avengers 2012
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/371.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Avengers Age of Ultron (2015)
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/373.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Avengers Endgame (2019)
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/374.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Avengers Infinity War (2018)
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/375.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Aquaman (2018)
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/376.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Captain America - The First Avenger (2011)
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/379.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Edge of Tomorrow
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1191.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malay Movie Video", Bidai.Byomkesh.2018.720p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/584.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malay Movie Video", Clash.2016.720p.BluRay.x264-[YTS.LT]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/585.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malay Movie Video", Mata.Batin.2017.720p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/586.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malay Movie Video", Papicha.2019.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/587.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malay Movie Video", Satan's.Slaves.2017.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/588.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malay Movie Video", The.Doll.2.2017.720p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/589.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malay Movie Video", The.Raid.2.2014.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/590.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malay Movie Video", The.Raid.Redemption.2011.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/591.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malay Movie Video", Crossroad
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/609.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", 2.Fast.2.Furious.2003
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/457.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Captain.America.Civil.War.2016.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/458.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Captain.America.The.Winter.Soldier.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/459.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Fast.&.Furious.Presents.Hobbs.&.Shaw.2019.720p.BluRay.x264-[YTS.LT]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/460.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Fast.and.Furious.2009.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/461.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Fast.and.the.Furious.2001.720p.BrRip.x264.YIFY+HI
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/462.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Fast.and.the.Furious.Tokyo.Drift.2011.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/463.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Fast 5
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/467.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Fast 6
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/468.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Fast 7
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/470.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Dark.Phoenix.2019.720p.BluRay.x264-[YTS.LT]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/473.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Logan.2017.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/474.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Wolverine.2013.EXTENDED.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/475.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", X-Men.2.2003.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/476.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", X-Men.2000.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/477.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", X-Men.Apocalypse.2016.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/478.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", X-Men.First.Class.2011.720p.BrRip.264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/479.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", X-Men.Origins.Wolverine.2009.720p.BrRip.x264.YIFY.
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/480.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", X-Men.The.Last.Stand.2006.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/481.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", X.Men.Days.of.Future.Past.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/482.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Bumblebee.2018.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/492.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Resident Evil 2002.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/493.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Resident Evil Afterlife 2010.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/494.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Resident Evil Apocalypse 2004.720p.BrRip.x64.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/495.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Resident Evil Extinction 2007.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/496.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Resident.Evil.Retribution.2012.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/497.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Resident.Evil.The.Final.Chapter.2016.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/498.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Transformers.2007.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/499.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Transformers.3.2011.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/500.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Transformers.Age.of.Extinction.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/501.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Transformers.Revenge.of.the.Fallen.IMAX.EDITION.2009.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/502.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Transformers.The.Last.Knight.2017.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/503.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", A.Good.Day.to.Die.Hard.2013.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/504.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Baywatch.2017.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/505.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Central.Intelligence.2016.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/506.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Die.Hard.1988.720p.BrRip.x264.bitloks.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/507.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Die.Hard.2.1990.720p.BrRip.x264.bitloks.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/508.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Die.Hard.3.1995.720p.BrRip.x264.bitloks.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/509.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Die.Hard.4.2007.720p.BrRip.x264.bitloks.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/510.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Empire.State.2013.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/511.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Faster.2010.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/512.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Fighting.With.My.Family.2019.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/513.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", G.I..JoeA.Retaliation.2013.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/514.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Hercules.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/515.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Journey.2.The.Mysterious.Island.2012.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/516.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Jumanji.The.Next.Level.2019.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/517.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Jumanji.Welcome.To.The.Jungle.2017.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/518.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Moana.2016.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/519.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Pain.&.Gain.2013.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/520.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Rampage.2018.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/521.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", San.Andreas.2015.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/522.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Skyscraper.2018.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/523.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Snitch.2013.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/524.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The Mummy 1999.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/525.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Mummy.2017.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/526.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Mummy.Returns.2001.1080p.BRrip.x264.GAZ.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/527.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The Mummy: Tomb of the Dragon Emperor
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/528.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Alien 3 Special Edition 1992.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/545.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Alien Director's Cut 1979.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/546.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Alien Prometheus.2012.720p.BluRay.X264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/547.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Alien Resurrection Special Edition 1997.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/548.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Alien.vs.Predator.2004.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/549.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Aliens Special Edition 1986.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/550.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Aliens.Vs..Predator.Requiem.2007.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/551.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Captain.Marvel.2019.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/552.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Doctor.Strange.2016.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/553.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Indiana.Jones.And.The.Kingdom.of.the.Crystal.Skull.2008.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/554.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Indiana.Jones.And.The.Last.Crusade.1989.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/555.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Indiana.Jones.And.The.Temple.Of.Doom.1984.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/556.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Jumanji.1995.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/557.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", King.Kong.2005.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/558.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Kong.Skull.Island.2017.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/559.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Pirates.Of.The.Caribbean.Dead.Men.Tell.No.Tales.2017.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/560.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Pirates.of.the.Caribbean.At.Worlds.End.2007.720p.BrRip.x264.Deceit.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/561.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Pirates.of.the.Caribbean.Curse.of.the.Black.Pearl.2003.720p.BrRip.x264.Deceit.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/562.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.720p.BrRip.x264.Deceit.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/563.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Pirates.of.the.Caribbean.On.Stranger.Tides.2011.720p.BrRip.x264.Deceit.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/564.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Predators.2010.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/565.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Red.2.2013.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/566.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Red.2010.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/567.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Expendables.2.2012.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/568.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Expendables.2010.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/569.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Expendables.3.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/570.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Thor.2011.720p.BrRip.264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/572.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Indiana Jones Raiders of the Lost Ark
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/575.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", 12.Monkeys.1995.BluRay.x264.720p .YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/676.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", 2.Guns.2013.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/677.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", 21.Jump.Street.2012.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/678.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", 30.Days.Of.Night.Dark.Days.2010.1080p.BluRay.X264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/679.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", 400.Days.2015.1080p.BluRay.x264.[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/680.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", 8.Remains.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/681.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", A-X-L.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/682.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", A.Good.Day.to.Die.Hard.2013.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/683.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", A.Place.In.Hell.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/685.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", After.Earth.2013.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/687.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Against.The.Night.2017.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/688.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Air.Force.One.1997.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/689.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Airline.Disaster.2010.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/690.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Alien.vs.Predator.2004.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/691.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Alpha.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/692.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Ambition's.Debt.2017.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/693.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", American Gangster (2007) UNRATED.720p.BrRip x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/694.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", American.Exorcism.2017.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/695.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", American.Exorcist.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/696.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", American.Heist.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/697.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", American.Made.2017.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/698.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", American.Nightmares.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/699.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Annabelle.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/700.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Annabelle.Creation.2017.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/701.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Ant-Man.And.The.Wasp.2018.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/702.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Antz.1998.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/703.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Arbor.Demon.2016.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/704.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Artificial.Intelligence.2001.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/705.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Assassin's.Bullet.2012.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/706.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Assassination.Games.2011.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/707.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Assassins.1995.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/708.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Assassins.Tale.2013.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/709.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Battleship.2012.BluRay.1080p.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/710.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Battlestar.Galactica.Blood.&.Chrome.2012.1080p.BRrip.x264.GAZ.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/711.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Before.Someone.Gets.Hurt.2018.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/713.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Bharat.Ane.Nenu.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/714.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Bigfoot.Country.2017.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/715.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Blade 1998
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/717.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Blade III Trinity 2004 720p
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/719.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Book.Of.Blood.2009.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/720.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Book.Of.Fire.2015.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/721.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Brave.2012.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/722.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Bride.of.Chucky.1998.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/723.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Bullet.to.the.Head.2012.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/724.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Central.Intelligence.2016.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/725.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Charlies.Angels.Full.Throttle.2003.720p.BRrip.x264.GAZ
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/726.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Children.Of.The.Corn.II.The.Final.Sacrifice.1992.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/727.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Children.of.Men.2006.1080p.BrRip.x264.BOKUTOX.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/728.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Christopher.Robin.2018.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/729.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Close.Encounters.of.the.Third.Kind.1977.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/730.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Cloud.Atlas.2012.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/731.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Cloverfield.2008.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/732.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Clown.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/733.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Constantine.2005.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/734.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Cradle.2.The.Grave.2003.1080p.BluRay.X264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/735.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Crank.2006.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/736.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Crash.2004.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/737.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Critters.4.1992.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/738.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Crouching.Tiger,.Hidden.Dragon.2000.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/739.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Cube.1997.1080p.BrRip.x264.bitloks.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/740.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Cube≤.Hypercube.2002.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/741.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Cult.Of.Chucky.2017.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/742.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Curse.of.Chucky.2013.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/743.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Dawn.of.the.Planet.of.the.Apes.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/744.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Days Of Thunder (1990) BrRip 1080p x264 YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/745.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Dead.Man.Running.2009.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/746.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Dead.Snow.2.Red.Vs..Dead.2014.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/747.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Death.Race.3.2013.UNRATED.720p.Bluray.x264
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/749.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Death.Race.UNRATED.2008.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/750.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Do.Not.Disturb.2013.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/751.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Doctor.Dolittle.1998.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/752.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Doctor.Strange.2016.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/753.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Doses.Of.Horror.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/754.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Dragonheart.1996.1080p.BrRip.x264.BOKUTOX.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/755.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Dragonheart.3.The.Sorcerers.Curse.2015.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/756.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Dying.of.the.Light.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/757.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Eagle.Eye.2008.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/758.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Earthfall.2015.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/759.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", End.Game.2006.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/760.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Erased.2012.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/761.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Escape.2012.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/762.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Escape.from.Alcatraz.1979.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/763.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Ex.Machina.2015.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/764.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Eye.See.You.2002.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/765.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Fearless.2006.DC.CHINESE.1080p.BluRay.H264.AAC-VXT
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/766.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Fences.2016.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/767.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Fifty.Shades.of.Grey.2015.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/768.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Final.Fantasy.The.Spirits.Within.2001.1080p.BrRip.x264.BOKIUTOX.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/769.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Final.Fantasy.VII.Advent.Children.2005.1080p.BrRip.x264.BOKUTOX.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/770.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Finding.Nemo.2003.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/771.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", First.Man.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/772.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Fist.Of.Legend.1994.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/773.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Five.Thirteen.2013.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/774.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Flawless.2007.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/775.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Flight.2012.720p.BrRipx264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/776.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Free.Willy.1993.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/777.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Free.Willy.Escape.From.Pirate's.Cove.2010.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/778.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Friday.the.13th.2009.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/779.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Furry.Vengeance.2010.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/780.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Fury.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/781.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", G.I. Jane (1997) 720p BrRip x264 YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/782.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", G.I. Joe Rise of Cobra.2009.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/783.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Gattaca.1997.1080p.BrRip.x264.bitloks.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/784.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Ghost.Rider.2007.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/786.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Ghost.Shark.2013.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/787.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Ghost.Ship.2002.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/788.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Ghostbusters.2016.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/789.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Gods.Of.Egypt.2016.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/790.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Godzilla.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/791.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Gone.2012.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/792.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Guardians.Of.The.Galaxy.Vol..2.2017.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/793.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Guardians.of.the.Galaxy.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/794.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Halloween.4.The.Return.Of.Michael.Myers.1988.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/795.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Halloween.5.1989.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/796.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Halloween.H20.20.Years.Later.1998.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/797.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Halloween.Resurrection.2002.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/798.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Halloween.The.Curse.Of.Michael.Myers.1995.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/799.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Hancock.2008.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/800.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Heist.2015.1080p.BluRay.x264.[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/801.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Hell.Fest.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/802.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", HellRaiser.Revelations.2011.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/803.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Hellboy.2004.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/804.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Hellboy.The.Golden.Army.2008.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/805.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Hercules.1997.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/806.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Hercules.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/807.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Hercules.Reborn.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/808.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Hijacked.2012.BluRay.720p.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/809.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", I.Am.Legend.ALTERNATE.ENDING.2007.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/810.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", I.Dream.In.Another.Language.2017.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/811.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", I.Know.What.You.Did.Last.Summer.1997.1080p.BrRip.x264.BOKUTOX.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/812.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", I.Know.Who.Killed.Me.2007.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/813.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", I.Spit.On.Your.Grave.2.2013.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/814.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", I.Spit.On.Your.Grave.Vengeance.Is.Mine.2015.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/815.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", I.Still.Know.What.You.Did.Last.Summer.1998.1080p.BrRip.x264.BOKUTOX.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/816.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Illang.The.Wolf.Brigade.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/817.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Immortal.2004..720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/818.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Immortal.Fist.The.Legend.Of.Wing.Chun.2017.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/819.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", In.Harm's.Way.2017.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/820.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Inception.2010.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/821.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Independence.Day.1996.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/822.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Insidious.Chapter.3.2015.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/823.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Interstellar.2014.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/824.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Into.the.Grizzly.Maze.2015.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/825.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Jackass.3.5.2011.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/826.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Jigsaw.2017.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/827.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", John.Doe.Vigilante.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/828.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", John.Q.2002.BrRip.1080p.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/829.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", John.Wick.2014.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/830.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", John.Wick.Chapter.2.2017.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/831.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Johnny.English.2003.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/832.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Johnny.English.Reborn.2011.720p.BrRip.x264
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/833.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Johnny.Mnemonic.1995.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/834.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Journey.to.the.Center.of.the.Earth.1959.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/835.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Journey.to.the.Center.of.the.Earth.2008.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/836.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Jurassic.Park.1993.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/837.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Jurassic.World.2015.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/838.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Jurassic.World.2015.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/839.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Jurassic.World.Fallen.Kingdom.2018.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/840.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Kill'em.All.2017.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/841.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Kill.'em.All.2012.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/842.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Kill.Bill.Vol.1.2003.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/843.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Kill.Bill.Vol.2.2004.1080p.BrRIp.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/844.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Kingsglaive.Final.Fantasy.XV.2016.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/845.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Kiss.Of.The.Dragon.2001.720p.BluRay.H264.AAC-RARBG
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/846.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Knight.and.Day.2010.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/847.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Knowing.2009.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/848.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Kung.Fu.Hustle.2004.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/849.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Kung.Fu.Panda.2.2011.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/850.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Kung.Fu.Panda.2008.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/851.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Kung.Fu.Panda.3.2016.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/852.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Legend.of.Zorro.2005.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/853.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Lemon.Tree.Passage.2013.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/854.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Lethal.Weapon.1987.1080p.BrRip.x264.BOKUTOX.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/855.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Lethal.Weapon.2.1989.1080p.BrRip.x264.BOKUTOX.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/856.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Lethal.Weapon.3.1992.1080p.BrRip.x264.BOKUTOX.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/857.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Lethal.Weapon.4.1998.1080p.BrRip.x264.BOKUTOX.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/858.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Lilo.and.Stitch.2002.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/859.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Lockout.2012.BrRip.x264.1080p.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/860.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Looper.2012.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/861.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Looper.2012.BluRay.720p.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/862.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Lost.In.The.Sun.2015.1080p.BluRay.x264.[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/863.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Lost.Wilderness.2015.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/864.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Lowlife.2017.720p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/865.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Lucknow.Central.2017.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/866.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Mad.Max.Fury.Road.2015.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/867.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Maleficent.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/868.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Malicious.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/869.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Martyrs.2015.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/870.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Maze.Runner.The.Scorch.Trials.2015.1080p.BluRay.x264.[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/871.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Meeting.Evil.2012.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/872.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Megalodon.2018.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/873.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Midnight.Express.1978.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/874.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Minority.Report.2002.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/875.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Monsters.Dark.Continent.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/876.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Monsters.Inc.2001.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/877.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Monsters.University.2013.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/878.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Naked.Weapon.2002.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/879.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Narcopolis.2015.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/880.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Need.for.Speed.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/881.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Night.Zero.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/882.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Night.at.the.Museum.2006.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/883.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Night.at.the.Museum.Battle.of.the.Smithsonian.2009.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/884.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Night.at.the.Museum.Secret.of.the.Tomb.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/885.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", No..1.Chung.Ying.Street.2018.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/886.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Northmen...A.Viking.Saga.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/887.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Now.You.See.Me.2.2016.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/888.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Oceans Eleven 2001.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/889.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Oceans Thirteen 2007.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/890.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Oceans Twelve 2004.720p.BrRip.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/891.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Parker.2013.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/892.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Pay.The.Ghost.2015.1080p.BluRay.x264.YIFY.[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/893.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Payback.1999.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/894.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Paycheck.2003.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/895.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Percy.Jackson.Sea.of.Monsters.2013.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/897.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Pete's.Dragon.2016.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/898.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Pitch.Black.2000.BluRay.1080p.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/899.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Pocahontas.1995.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/900.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Pooh's.Grand.Adventure.The.Search.For.Christopher.Robin.1997.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/901.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Predator.1987.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/902.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Predator.2.1990.1080p.BrRip.x264.bitloks.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/903.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Raiders!.The.Story.Of.The.Greatest.Fan.Film.Ever.Made.2015.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/904.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Rambo.2008.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/905.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Ready.Player.One.2018.720p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/906.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Real.Steel.2011.720p.BrRip.264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/907.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Red.Dragon.2002.1080p.BRrip.x264.YIFY.srt
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/908.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Reign.of.Fire.2002.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/909.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Richard.The.LionheartA.Rebellion.2015.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/910.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Riddick.2013.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/911.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Rogue.One.2016.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/912.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Roman.J..Israel,.Esq..2017.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/913.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Romeo.Must.Die.2000.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/914.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Rush.Hour.2.2001.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/915.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Rush.Hour.3.2007.720p.BrRip.x264.Deceit.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/916.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Safe.House.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/917.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Saw.I.UNRATED.2004.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/918.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Saw.II.UNRATED.2005.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/919.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Saw.III.UNRATED.2006.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/920.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Saw.IV.UNRATED.2007.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/921.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Saw.V.UNRATED.2008.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/922.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Saw.VI.UNRATED.2009.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/923.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Saw.VII.The.Final.Chapter.UNRATED.2010.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/924.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", See.No.Evil.2.2014.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/925.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", See.No.Evil.2006.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/926.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Sherlock.Holmes.A.Game.Of.Shadows.2011.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/928.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Sherlock.Holms.2009.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/929.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Sicario.Day.Of.The.Soldado.2018.720p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/930.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Silent.Hill.Revelation.2012.1080p.BRrip.x264.GAZ.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/931.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Silent.Night,.Deadly.Night.1984.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/932.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Sin.City.A.Dame.to.Kill.For.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/933.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Sinbad.The.Fifth.Voyage.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/934.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Skyscraper.2018.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/935.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Slugs.1988.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/936.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Snowpiercer.2013.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/937.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Son.of.God.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/938.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Speed.1994.1080p.BrRip.x264.BOKUTOX.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/939.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Speed.2.Cruise.Control.1997.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/940.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Star.Trek.2009.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/941.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Star.Trek.Beyond.2016.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/942.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Starship.Troopers.1997.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/943.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Starship.Troopers.2.Hero.Of.The.Federation.2004.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/944.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Starship.Troopers.3.Marauder.2008.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/945.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Step Up 3D 2010.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/947.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Step.Up.All.In.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/948.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Sunshine.2007.1080p.BrRip.x264.BOKUTOX.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/949.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Taken.2.2012.UNRATED.EXTENDED.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/950.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Taken.2008.1080pBrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/951.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Taken.3.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/952.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Taxi.2004.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/953.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Teenage.Mutant.Ninja.Turtles.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/954.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Teenage.Mutant.Ninja.Turtles.Out.Of.The.Shadows.2016.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/955.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Terminator.2.1991.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/956.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Terminator.3.Rise.of.The.Machines.2003.1080p.BRrip.x264.GAZ.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/957.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Terminator.Genisys.2015.1080p.BluRay.x264.YIFY.[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/958.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Terminator.Salvation.DIRECTORS.CUT.2009.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/959.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", ThBookElii.2010
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/960.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The Incredible Hulk 2008.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/962.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The Perfect Storm 2000.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/963.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The Scorpion King 2 Rise of a Warrior 2008.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/964.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The Scorpion King 2002.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/965.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The Scorpion King 3 Battle for Redemption 2012.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/966.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.13th.Warrior.1999.1080p.BrRip.x264.BOKUTOX.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/967.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Adventures.of.Tintin.2011.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/968.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Beach.2000.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/969.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Canal.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/970.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Christmas.Chronicles.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/971.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Chronicles.of.Narnia.Prince.Caspian.2008.1080p.Brrip.x264.Deceit.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/972.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Chronicles.of.Narnia.Prince.Caspian.2008.720p.Brrip.x264.Deceit.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/973.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Chronicles.of.Narnia.The.Lion.The Witch.And.The.Wardrobe.2005.720p.Brrip.x264.Deceit.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/974.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Chronicles.of.Narnia.The.Voyage.of.the.Dawn.Tredder.2010.1080p.Brrip.x264.Deceit.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/975.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Chronicles.of.Narnia.The.Voyage.of.the.Dawn.Tredder.2010.720p.Brrip.x264.Deceit.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/976.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Cold.Light.Of.Day.2012.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/977.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Conjuring.2.2016.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/978.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Conjuring.2013.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/979.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Dark.Kingdom.2019.720p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/981.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Dawn.Wall.2017.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/982.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Equalizer.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/983.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Gateway.2018.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/984.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Girl.With.The.Dragon.Tattoo.2011.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/985.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.House.With.A.Clock.In.Its.Walls.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/986.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Human.Centipede.2009.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/987.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Hunchback.Of.Notre.Dame.1996.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/988.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Italian.Job.2003.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/989.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Joke.Thief.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/990.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Jungle.Book.1967.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/991.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Jungle.Book.2.2003.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/992.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Jungle.Book.2016.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/993.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Jurassic.Games.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/994.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Karate.Kid.2010.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/995.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Last.Emperor.1987.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/996.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Legend.Of.Tarzan.2016.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/997.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Legend.of.Hercules.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/998.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Lion.King.1.1.2.2004.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/999.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Lion.King.2.Simba's.Pride.1998.BluRay.720p.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1000.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Mask.1994.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1001.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Mask.Of.Zorro.1998.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1002.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Meg.2018.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1004.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Next.Three.Days.2010.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1005.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Nun.2018.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1006.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.One.2001.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1007.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Pact.2012.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1008.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Pact.II.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1009.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Polar.Express.2004.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1010.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Predator.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1011.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Punished.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1012.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Queen.Of.Hollywood.Blvd.2017.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1013.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Raid.2.2014.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1014.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Sand.2015.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1017.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Scorpion.King.4.Quest.For.Power.2015.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1018.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Scorpion.King.Book.Of.Souls.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1019.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Siege.1998.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1020.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Super.2017.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1022.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Tempest.2011.720p.BRRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1023.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Terminator.1984.1080p.BRrip.x264.GAZ.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1024.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Thing.1982.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1025.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Thing.2011.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1026.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Thinning.New.World.Order.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1027.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Witch.In.The.Window.2018.720p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1028.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The_Chronicles_of_Riddick
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1029.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The_Stranger_2010
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1030.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Three.Kings.1999.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1031.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Titanic.1997.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1032.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Tom.and.Jerry.in.Shiver.Me.Whiskers.2006.1080p.BRrip.x264.GAZ
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1033.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Training Day 2001 BrRip 720p x264 YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1034.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Under.Siege.2.Dark.Territory.1995.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1039.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Under.the.Skin.2013.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1040.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Unleashed.2005.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1041.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Unstoppable.2010.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1042.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Venom.2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1043.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", WALL-E.2008.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1044.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Walking.Tall.2004.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1045.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Wanted.2008.1080p.BrRIp.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1046.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", War.2007.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1047.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Warrior.2011.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1048.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", We.Still.Kill.the.Old.Way.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1049.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Werewolves.Of.The.Third.Reich.2017.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1050.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Wild.Wild.West.1999.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1051.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Winnie.the.Pooh.2011.720p.BrRip.X264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1052.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Wrong.Turn.2.Dead.End.UNRATED.2007.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1053.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Wrong.Turn.3.Left.For.Dead.UNRATED.2009.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1054.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Wrong.Turn.4.Bloody.Beginnings.UNRATED.2011.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1055.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Wrong.Turn.5.UNRATED.2012.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1056.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Wrong.Turn.UNRATED.2003.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1057.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Zodiac.Signs.of.the.Apocalypse.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1059.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", [Cargo].2018.1080p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1060.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", ghost.rider.spirit.of.vengeance.2011.????2?????.hr-hdtv.ac3.1024x576.x264-
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1061.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", 28 Days Later
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1095.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", 28.Days.Later.2002.720p.BrRip.264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1272.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Annabelle.Comes.Home.2019.720p.BluRay.x264-[YTS.LT]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1273.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Annabelle.Creation.2017.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1274.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Ant-Man.2015.720p.BluRay.x264.[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1275.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Batman.1989.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1276.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Batman.Begins.2005.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1277.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Batman.Forever.1995.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1278.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Batman.Returns.1992.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1279.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Batman.V.Superman.Dawn.Of.Justice.2016.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1280.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Black.Panther.2018.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1281.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Casino.Royale.2006.1080p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1282.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Charlie's.Angels.2019.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1283.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Charlies.Angels.2000.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1284.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Crank.High.Voltage.2009.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1285.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Ghost.Rider.Spirit.Of.Vengeance.2011.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1286.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Godzilla.1998.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1287.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Godzilla.1998.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1288.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Godzilla.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1289.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Godzilla.King.Of.The.Monsters.2019.720p.BluRay.x264-[YTS.LT]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1290.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Harry.Potter.And.The.Deathly.Hallows.Part.2.2011.720p.BrRip.264.YIFY.mkv-muxed
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1292.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Harry.Potter.and.the.Prisoner.of.Azkaban.2004.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1293.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", HellRaiser.Bloodline.1996.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1299.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", HellRaiser.Hell.On.Earth.UNCUT.1992.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1300.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", HellRaiser.Hellbound.UNCUT.1988.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1301.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", HellRaiser.Inferno.2000.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1302.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", HellRaiser.UNCUT.1987.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1303.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Hellraiser.Judgment.2018.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1304.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", I.Spit.On.Your.Grave.2010.720p.BrRip.x264.bitloks.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1305.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Independence.Day.Resurgence.2016.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1306.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Inferno.2016.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1307.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Insidious.2010.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1308.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Insidious.Chapter.2.2013.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1309.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Insidious.The.Last.Key.2018.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1310.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Iron Man 2008.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1311.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Iron.Man.3.2013.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1312.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", James.Bond.A.View.To.A.Kill.1985.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1314.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", James.Bond.Diamonds.Are.Forever.1971.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1315.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", James.Bond.Die.Another.Day.2002.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1316.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", James.Bond.For.Your.Eyes.Only.1981.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1317.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", James.Bond.GoldenEye.1995.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1318.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", James.Bond.Licence.To.Kill.1989.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1319.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", James.Bond.Live.And.Let.Die.1973.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1320.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", James.Bond.Moonraker.1979.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1321.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", James.Bond.On.Her.Majestys.Secret.Service.1969.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1322.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", James.Bond.Quantum.of.Solace.2008.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1323.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", James.Bond.The.Living.Daylights.1987.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1324.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", James.Bond.The.Man.With.The.Golden.Gun.1974.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1325.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", James.Bond.The.Spy.Who.Loved.Me.1977.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1326.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", James.Bond.The.World.Is.Not.Enough.1999.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1327.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Johnny.English.Strikes.Again.2018.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1328.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Jurassic.Park.1993.720p.BrRip.264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1329.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Jurassic.Park.II.The.Lost.World.1997.720p.BrRip.264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1330.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Jurassic.Park.III.2001.720p.BrRip.264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1331.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Jurassic.World.2015.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1332.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Jurassic.World.Fallen.Kingdom.2018.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1333.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Justice.League.2017.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1334.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Justice.League.Dark.Apokolips.War.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1335.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Man.of.Steel.2013.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1336.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Maze.Runner.The.Death.Cure.2018.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1337.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Men.In.Black.1997.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1338.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Men.In.Black.3.2012.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1339.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Men.In.Black.II.2002.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1340.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Men.In.Black.International.2019.720p.BluRay.x264-[YTS.LT]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1341.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", National.Treasure.2004.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1342.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", National.Treasure.Book.of.Secrets.2007.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1343.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Rambo.First.Blood.Part.II.1985.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1347.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Rambo.III.1988.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1348.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Rogue.One.2016.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1350.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Rush.Hour.1.1998.720p.BRrip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1351.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Shin.Godzilla.2016.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1352.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Skyfall.2012.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1353.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Spectre.2015.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1354.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Spider.Man.2.2004.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1355.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Spider.Man.2.2004.720p.BrRip.264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1356.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Spider.Man.3.2007.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1357.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", SpiderMan.2002.720p.BrRip.264.YIFY.
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1358.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", SpiderMan.3.2007.720p.BrRip.264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1359.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Star.Wars.Episode.I.-.The.Phantom.Menace.1999.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1360.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Star.Wars.Episode.II.-.Attack.Of.The.Clones.2002.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1361.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Star.Wars.Episode.III.-.Revenge.Of.The.Sith.2005.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1362.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Star.Wars.Episode.IV.-.A.New.Hope.1977.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1363.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Star.Wars.Episode.IX.-.The.Rise.Of.Skywalker.2019.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1364.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Star.Wars.Episode.V.-.The.Empire.Strikes.Back.1980.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1365.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Star.Wars.Episode.VI.-.Return.Of.The.Jedi.1983.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1366.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Star.Wars.Episode.VII.-.The.Force.Awakens.2015.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1367.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Star.Wars.The.Last.Jedi.2017.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1368.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Superman.1978.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1369.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Superman.II.1980.720.BrRip.264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1370.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Superman.Returns.2006.BrRip.720p.264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1372.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Amazing.Spider.Man.2.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1373.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Amazing.Spiderman.2012.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1374.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Hobbit.An.Unexpected.Journey.2012.1080p.BRrip.x264.GAZ.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1376.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Hobbit.The.Battle.of.the.Five.Armies.2014.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1377.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Hobbit.The.Desolation.of.Smaug.2013.1080p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1378.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.League.of.Extraordinary.Gentlemen.2003.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1379.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Lion.King.1994.BluRay.720p.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1380.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Lion.King.2019.720p.BluRay.x264-[YTS.LT]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1381.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Lord.of.the.Rings.The.Fellowship.of.the.Rings1080
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1382.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Lord.of.the.Rings.The.Return.of.the.King.EXTENDED.2003.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1383.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Lord.of.the.Rings.The.Two.Towers.2002.ExD.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1384.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Maze.Runner.2014.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1385.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Twilight.Saga.Breaking.Dawn.Part 1.2011.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1387.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The.Twilight.Saga.Breaking.Dawn.Part.2.2012.720p.BRrip.x264.GAZ.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1388.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Thor.Ragnarok.2017.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1389.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Thor.The.Dark.World.2013.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1390.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Thunderball.1965.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1391.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Transporter 1
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1392.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Transporter 2
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1393.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Transporter 3
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1394.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Twilight.Saga.Eclipse.2010.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1395.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Twilight.Saga.the.2009.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1396.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Wonder.Woman.2017.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1397.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", You.Only.Live.Twice.1967.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1398.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Dr. No
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1410.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", From Russia with Love
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1411.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Goldfinger
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1412.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Harry.Potter.and.the.Chamber.of.Secrets.2002.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1422.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1423.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Harry.Potter.and.the.Goblet.of.Fire.2005.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1424.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Harry.Potter.and.the.Half.Blood.Prince.2009.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1425.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Harry.Potter.and.the.Order.of.the.Phoenix.2007.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1426.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Harry.Potter.and.the.Sorcerers.Stone.2001.1080p.BrRip.x264.YIFY ( FIRST TRY)
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1427.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Iron.Man.2.2010.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1428.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Superman III
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1530.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The Da Vinci Code
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1531.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Batman.V.Superman.Dawn.Of.Justice.2016.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1532.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Iron.Man.2008.1080p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1534.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Rambo.2008.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1535.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Rambo.First.Blood.Part.II.1985.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1536.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Rambo.III.1988.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1537.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Superman.II.1980.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1538.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Superman.IV.The.Quest.For.Peace.1987.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1541.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Superman.Returns.2006.1080p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1542.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", Wonder.Woman.2017.1080p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1543.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The Mechanic
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1544.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIE VIDEO", The Ring 2
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1545.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Bai.Du.Ren.2016.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/592.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Buddy.Cops.2016.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/593.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Chek.Dou.2015.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/594.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", City.Under.Siege.2010.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/595.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Cold.War.2012.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/596.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Comrades.Almost.A.Love.Story.1996.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/597.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Election.2.2006.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/598.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Flash.Point.2007.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/599.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Forbidden.City.Cop.1996.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/600.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", God.Of.Gamblers.1989.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/601.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Infernal.Affairs.II.2003.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/602.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Justice.My.Foot.1992.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/603.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Keeper.Of.Darkness.2015.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/604.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Overheard.2009.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/605.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", S.Storm.2016.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/606.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Seven.Warriors.1989.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/607.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Ye.Sheng.Huo.Nu.Wang.Xia.Jie.Chuan.Qi.1991.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/608.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Alls.Well.Ends.Well.Too.1993.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/610.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", As.Tears.Go.By.1988.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/611.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Ashes.Of.Time.1994.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/612.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Bodyguards.And.Assassins.2009.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/613.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Born.To.Be.King.2000.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/614.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Chasing.The.Dragon.2017.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/615.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Chinese.Zodiac.2012.720p.BluRay.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/616.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", City.On.Fire.1987.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/617.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Crazy.Love.1993.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/618.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Dragons.Forever.1988.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/619.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Election.2005.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/620.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Enter.The.Fat.Dragon.2020.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/621.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Exiled.2006.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/622.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Fallen.Angels.1995.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/623.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Fist.Of.Fury.1991.1991.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/624.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Game.Of.Death.1978.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/625.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Ghost.Net.2017.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/626.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Gorgeous.1999.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/627.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Iceman.2014.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/628.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", In.The.Line.Of.Duty.IV.1989.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/629.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Ip Man 2.2010.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/630.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Ip Man 2008.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/631.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Ip.Man.3.2015.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/632.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Iron.Fisted.Monk.1977.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/633.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Iron.Monkey.1993.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/634.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Kung.Fu.Traveler.2017.720p.WEBRip.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/635.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Legend.Of.The.Fist.2010.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/636.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Look.Out,.Officer!.1990.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/637.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Naked.Ambition.2.2014.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/638.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Naked.Weapon.2002.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/639.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Once.A.Thief.-.Kerran.Varas,.Aina.Varas.1991.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/640.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Operation.Condor.1991.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/641.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", P.Storm.2019.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/642.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Paradox.2017.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/643.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Police.Story.1985.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/644.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Police.Story.2.1988.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/645.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Prison.On.Fire.1987.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/646.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Protege.2007.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/647.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Rob-B-Hood.2006.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/648.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Shaolin.Soccer.2001.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/649.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", She.Remembers.He.Forgets.2015.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/650.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Shinjuku.Incident.2009.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/651.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Shock.Wave.2017.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/652.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Spiritual.Kung.Fu.1978.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/653.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Swordsman.II.1992.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/654.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Ten.Years.2015.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/655.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", The Legend Is Born Ip Man 2010.720p.BrRip.x264.YIFY
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/656.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", The.36th.Chamber.Of.Shaolin.1978.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/657.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", The.Accidental.Spy.2001.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/658.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", The.Adventurers.2017.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/659.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", The.Eight.Immortals.Restaurant.The.Untold.Story.1993.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/660.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", The.Human.Goddess.1972.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/661.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", The.Legend.of.Drunken.Master.1994.720p.BluRay.x264.[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/662.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", The.Way.Of.The.Dragon.1972.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/663.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Throw.Down.2004.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/664.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Tracey.2018.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/665.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Triad.Wars.2008.720p.BluRay.x264.AAC-[YTS.MX]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/666.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Twin.Dragons.1992.720p.BluRay.x264-[YTS.AG]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/667.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Winners.&.Sinners.1983.720p.BluRay.x264-[YTS.AM]
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/668.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONG KONG MOVIES VIDEO", Always Be With You 2017
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/1063.mp4
+
+
