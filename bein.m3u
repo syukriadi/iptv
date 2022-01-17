@@ -1,4 +1,1937 @@
-#EXTINF:-1 tvg-ID="foxsports2.us" tvg-name="US: FOX Sport 2" tvg-logo="[" group-title="Live: USA",US: FOX Sport 2
-http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2861.m3u8
-#EXTINF:-1 tvg-ID="nbatv.us" tvg-name="US: NBA TV" tvg-logo="" group-title="Live: USA",US: NBA TV
-http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5387.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 1HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 1HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/6872.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 2HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 2HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/6871.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 3HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 3HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/6870.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 4HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 4HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/6869.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 5HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 5HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/6868.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 6HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 6HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/6867.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 7HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 7HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/6866.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 8HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 8HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/6865.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 9HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 9HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/6864.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 10HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 10HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/6863.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 11HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 11HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2745.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 12HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 12HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2746.m3u8
+#EXTINF:-1 tvg-ID="natgeo.us" tvg-name="US: National Geographic HD" tvg-logo="[" group-title="Live: USA",US: National Geographic HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5404.m3u8
+#EXTINF:-1 tvg-ID="investigationdiscovery.us" tvg-name="US: Investigation Discovery" tvg-logo="" group-title="Live: USA",US: Investigation Discovery
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5410.m3u8
+#EXTINF:-1 tvg-ID="historychannel.us" tvg-name="US: HISTORY" tvg-logo="[" group-title="Live: USA",US: HISTORY
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5405.m3u8
+#EXTINF:-1 tvg-ID="hbofamily.us" tvg-name="US: HBO Family" tvg-logo="[""]" group-title="Live: USA",US: HBO Family
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5400.m3u8
+#EXTINF:-1 tvg-ID="foodnetwork.us" tvg-name="US: Food Network HD" tvg-logo="[" group-title="Live: USA",US: Food Network HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5403.m3u8
+#EXTINF:-1 tvg-ID="tennischannel.us" tvg-name="US: TENNIS HD" tvg-logo="" group-title="Live: USA",US: TENNIS HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5407.m3u8
+#EXTINF:-1 tvg-ID="discoveryscience.us" tvg-name="US: Discovery Life HD" tvg-logo="[" group-title="Live: USA",US: Discovery Life HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5409.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel.us" tvg-name="US: Discovery Channel HD" tvg-logo="" group-title="Live: USA",US: Discovery Channel HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5408.m3u8
+#EXTINF:-1 tvg-ID="cinemascreeningroom.us" tvg-name="US: Cinemax Moremax" tvg-logo="" group-title="Live: USA",US: Cinemax Moremax
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5395.m3u8
+#EXTINF:-1 tvg-ID="cinemax.us" tvg-name="US: Cinemax East" tvg-logo="[""]" group-title="Live: USA",US: Cinemax East
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5393.m3u8
+#EXTINF:-1 tvg-ID="cinemascreeningroom100.us" tvg-name="US: Cinemax ActionMax East" tvg-logo="[""]" group-title="Live: USA",US: Cinemax ActionMax East
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5394.m3u8
+#EXTINF:-1 tvg-ID="5starmax.us" tvg-name="US: Cinemax 5 StarMax" tvg-logo="" group-title="Live: USA",US: Cinemax 5 StarMax
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5392.m3u8
+#EXTINF:-1 tvg-ID="beinsports.us" tvg-name="US: Bein Sports USA HD" tvg-logo="[" group-title="Live: USA",US: Bein Sports USA HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5391.m3u8
+#EXTINF:-1 tvg-ID="animalplanet.us" tvg-name="US: Animal Planet HD" tvg-logo="" group-title="Live: USA",US: Animal Planet HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5406.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="US:  HBO Zone HD" tvg-logo="[""]" group-title="Live: USA",US:  HBO Zone HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5389.m3u8
+#EXTINF:-1 tvg-ID="hbomaxprime.us" tvg-name="US: HBO East HD" tvg-logo="[" group-title="Live: USA",US: HBO East HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5388.m3u8
+#EXTINF:-1 tvg-ID="fx.us" tvg-name="US: FX HD" tvg-logo="[" group-title="Live: USA",US: FX HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5231.m3u8
+#EXTINF:-1 tvg-ID="foxbusiness.us" tvg-name="US: FOX Business HD" tvg-logo="" group-title="Live: USA",US: FOX Business HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5233.m3u8
+#EXTINF:-1 tvg-ID="espn.us" tvg-name="US: ESPN HD" tvg-logo="[" group-title="Live: USA",US: ESPN HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5227.m3u8
+#EXTINF:-1 tvg-ID="cw.us" tvg-name="US: CW HD" tvg-logo="[" group-title="Live: USA",US: CW HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5230.m3u8
+#EXTINF:-1 tvg-ID="comedycentral.us" tvg-name="US: COMEDY CENTRAL HD" tvg-logo="[""]" group-title="Live: USA",US: COMEDY CENTRAL HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5242.m3u8
+#EXTINF:-1 tvg-ID="buzzertv.us" tvg-name="US: Buzzr" tvg-logo="" group-title="Live: USA",US: Buzzr
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5244.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="US: CBS News HD" tvg-logo="" group-title="Live: USA",US: CBS News HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/8098.m3u8
+#EXTINF:-1 tvg-ID="bravo.us" tvg-name="US: BRAVO HD" tvg-logo="[""]" group-title="Live: USA",US: BRAVO HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5228.m3u8
+#EXTINF:-1 tvg-ID="amc.us" tvg-name="US: AMC HD" tvg-logo="[""]" group-title="Live: USA",US: AMC HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5229.m3u8
+#EXTINF:-1 tvg-ID="abc10wplg.us" tvg-name="US: ABC HD" tvg-logo="[""]" group-title="Live: USA",US: ABC HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5239.m3u8
+#EXTINF:-1 tvg-ID="aande.us" tvg-name="US: A&E TV HD" tvg-logo="[""]" group-title="Live: USA",US: A&E TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5240.m3u8
+#EXTINF:-1 tvg-ID="lifetimenetwork.us" tvg-name="US: LIFE TIME HD" tvg-logo="[""]" group-title="Live: USA",US: LIFE TIME HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3588.m3u8
+#EXTINF:-1 tvg-ID="hillsong.us" tvg-name="VIP US: CNBC World HD" tvg-logo="" group-title="Live: USA",VIP US: CNBC World HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3589.m3u8
+#EXTINF:-1 tvg-ID="fox41wdrb.us" tvg-name="US: Fox 46 HD" tvg-logo="[" group-title="Live: USA",US: Fox 46 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3590.m3u8
+#EXTINF:-1 tvg-ID="hbosignature.us" tvg-name="US: HBO SIGNATURE" tvg-logo="[" group-title="Live: USA",US: HBO SIGNATURE
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3591.m3u8
+#EXTINF:-1 tvg-ID="msnbc.us" tvg-name="US: MSNBC HD" tvg-logo="[""]" group-title="Live: USA",US: MSNBC HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/8000.m3u8
+#EXTINF:-1 tvg-ID="hbo.us" tvg-name="US: HBO HD" tvg-logo="[" group-title="Live: USA",US: HBO HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3592.m3u8
+#EXTINF:-1 tvg-ID="hallmark.us" tvg-name="US: HALLMARK" tvg-logo="[""]" group-title="Live: USA",US: HALLMARK
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3593.m3u8
+#EXTINF:-1 tvg-ID="historyenespanol.us" tvg-name="US: H2" tvg-logo="" group-title="Live: USA",US: H2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3594.m3u8
+#EXTINF:-1 tvg-ID="aande.us" tvg-name="US: A&E HD" tvg-logo="[""]" group-title="Live: USA",US: A&E HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3585.m3u8
+#EXTINF:-1 tvg-ID="bravo.us" tvg-name="US: Bravo" tvg-logo="[""]" group-title="Live: USA",US: Bravo
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2654.m3u8
+#EXTINF:-1 tvg-ID="cnn.us" tvg-name="US: CNN HD" tvg-logo="[" group-title="Live: USA",US: CNN HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/876.m3u8
+#EXTINF:-1 tvg-ID="nflnetwork.us" tvg-name="US: NFL Network HD 1080P" tvg-logo="[" group-title="Live: USA",US: NFL Network HD 1080P
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2863.m3u8
+#EXTINF:-1 tvg-ID="nbcsnwashington.us" tvg-name="US: NBC SPORT" tvg-logo="[" group-title="Live: USA",US: NBC SPORT
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2864.m3u8
+#EXTINF:-1 tvg-ID="usanetwork.us" tvg-name="US: USA Network HD" tvg-logo="[" group-title="Live: USA",US: USA Network HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/871.m3u8
+#EXTINF:-1 tvg-ID="hbofamily.us" tvg-name="US: HBO Family HD" tvg-logo="[" group-title="Live: USA",US: HBO Family HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/878.m3u8
+#EXTINF:-1 tvg-ID="starzcinema.us" tvg-name="US: Starz Cinema HD" tvg-logo="" group-title="Live: USA",US: Starz Cinema HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/874.m3u8
+#EXTINF:-1 tvg-ID="hbomax.us" tvg-name="US: HBO Plus" tvg-logo="[" group-title="Live: USA",US: HBO Plus
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/875.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="US: ABC News HD" tvg-logo="[""]" group-title="Live: USA",US: ABC News HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/873.m3u8
+#EXTINF:-1 tvg-ID="espn.us" tvg-name="US: ESPN" tvg-logo="[" group-title="Live: USA",US: ESPN
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/872.m3u8
+#EXTINF:-1 tvg-ID="espn2.us" tvg-name="US: ESPN 2 HD" tvg-logo="[""]" group-title="Live: USA",US: ESPN 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5386.m3u8
+#EXTINF:-1 tvg-ID="wwe.us" tvg-name="US: WWE HD" tvg-logo="[" group-title="Live: USA",US: WWE HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5184.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== Italia =====" tvg-logo="" group-title="",===== Italia =====
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1201.m3u8
+#EXTINF:-1 tvg-ID="raiuno.it" tvg-name="IT: Rai 1 HD" tvg-logo="" group-title="Live: Italy",IT: Rai 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/977.m3u8
+#EXTINF:-1 tvg-ID="raidue.it" tvg-name="IT: Rai 2 HD" tvg-logo="" group-title="Live: Italy",IT: Rai 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/978.m3u8
+#EXTINF:-1 tvg-ID="raitre.it" tvg-name="IT: Rai 3 HD" tvg-logo="" group-title="Live: Italy",IT: Rai 3 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/979.m3u8
+#EXTINF:-1 tvg-ID="rai4.it" tvg-name="IT: Rai 4" tvg-logo="" group-title="Live: Italy",IT: Rai 4
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/996.m3u8
+#EXTINF:-1 tvg-ID="rai5.it" tvg-name="IT: Rai 5" tvg-logo="" group-title="Live: Italy",IT: Rai 5
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/997.m3u8
+#EXTINF:-1 tvg-ID="rainews.it" tvg-name="IT: Rai News 24" tvg-logo="" group-title="Live: Italy",IT: Rai News 24
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1013.m3u8
+#EXTINF:-1 tvg-ID="italia1.it" tvg-name="IT: Italia 1 HD" tvg-logo="" group-title="Live: Italy",IT: Italia 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/982.m3u8
+#EXTINF:-1 tvg-ID="retequattro.it" tvg-name="IT: Rete 4 HD" tvg-logo="" group-title="Live: Italy",IT: Rete 4 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/980.m3u8
+#EXTINF:-1 tvg-ID="canale5.it" tvg-name="IT: Canale 5 HD" tvg-logo="[" group-title="Live: Italy",IT: Canale 5 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/981.m3u8
+#EXTINF:-1 tvg-ID="la5.it" tvg-name="IT: La 5" tvg-logo="" group-title="Live: Italy",IT: La 5
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2280.m3u8
+#EXTINF:-1 tvg-ID="la7.it" tvg-name="IT: La 7 HD" tvg-logo="[" group-title="Live: Italy",IT: La 7 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/983.m3u8
+#EXTINF:-1 tvg-ID="RSI LA 1 HD CH" tvg-name="IT: RSI La 1 HD" tvg-logo="" group-title="Live: Italy",IT: RSI La 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/984.m3u8
+#EXTINF:-1 tvg-ID="RSI LA 2 HD CH" tvg-name="IT: RSI La 2 HD" tvg-logo="[" group-title="Live: Italy",IT: RSI La 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/985.m3u8
+#EXTINF:-1 tvg-ID="raisport.it" tvg-name="IT: Rai Sport  HD" tvg-logo="[" group-title="Live: Italy",IT: Rai Sport  HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2274.m3u8
+#EXTINF:-1 tvg-ID="raisport2.it" tvg-name="IT: Rai sport +HD" tvg-logo="[" group-title="Live: Italy",IT: Rai sport +HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2273.m3u8
+#EXTINF:-1 tvg-ID="raipremium.it" tvg-name="IT: Rai premium HD" tvg-logo="[" group-title="Live: Italy",IT: Rai premium HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2275.m3u8
+#EXTINF:-1 tvg-ID="raigulp.it" tvg-name="IT: Rai Gulp" tvg-logo="[""]" group-title="Live: Italy",IT: Rai Gulp
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18717.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: RAI Radiouno" tvg-logo="" group-title="Live: Radio",IT: RAI Radiouno
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/16381.m3u8
+#EXTINF:-1 tvg-ID="raiscuola.it" tvg-name="IT: Rai Scuola" tvg-logo="" group-title="Live: Italy",IT: Rai Scuola
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18719.m3u8
+#EXTINF:-1 tvg-ID="raistoria.it" tvg-name="IT: Rai Storia HD" tvg-logo="[""]" group-title="Live: Italy",IT: Rai Storia HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18718.m3u8
+#EXTINF:-1 tvg-ID="raiyoyo.it" tvg-name="IT: Rai yoyo" tvg-logo="[""]" group-title="Live: Italy",IT: Rai yoyo
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2272.m3u8
+#EXTINF:-1 tvg-ID="raimovie.it" tvg-name="IT: Rai Movie HD" tvg-logo="[" group-title="Live: Italy",IT: Rai Movie HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2276.m3u8
+#EXTINF:-1 tvg-ID="skysport1.it" tvg-name="IT: Sky Sport Uno HD" tvg-logo="" group-title="Live: Italy",IT: Sky Sport Uno HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/408.m3u8
+#EXTINF:-1 tvg-ID="skysportarena.it" tvg-name="IT: Sky Sport Arena HD" tvg-logo="" group-title="Live: Italy",IT: Sky Sport Arena HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/409.m3u8
+#EXTINF:-1 tvg-ID="skysportsseriea.it" tvg-name="IT: Sky Sport Serie A HD" tvg-logo="" group-title="Live: Italy",IT: Sky Sport Serie A HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/541.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IT: Sky Sport Plus HD" tvg-logo="" group-title="Live: Italy",IT: Sky Sport Plus HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/848.m3u8
+#EXTINF:-1 tvg-ID="skysport24.it" tvg-name="IT: Sky Sport 24HD" tvg-logo="" group-title="Live: Italy",IT: Sky Sport 24HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/410.m3u8
+#EXTINF:-1 tvg-ID="skycalcio1.it" tvg-name="IT: Sky Supercalcio HD" tvg-logo="" group-title="Live: Italy",IT: Sky Supercalcio HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/542.m3u8
+#EXTINF:-1 tvg-ID="sportitalia.it" tvg-name="IT: Sport italia" tvg-logo="" group-title="Live: Italy",IT: Sport italia
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/948.m3u8
+#EXTINF:-1 tvg-ID="skysportf1.it" tvg-name="IT: Sky Sport F1 HD" tvg-logo="" group-title="Live: Italy",IT: Sky Sport F1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/407.m3u8
+#EXTINF:-1 tvg-ID="skysportmotogp.it" tvg-name="IT: Sky Moto GP HD" tvg-logo="" group-title="Live: Italy",IT: Sky Moto GP HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/543.m3u8
+#EXTINF:-1 tvg-ID="supertennis.it" tvg-name="IT: Sky Super Tennis HD" tvg-logo="" group-title="Live: Italy",IT: Sky Super Tennis HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/949.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Juventus TV" tvg-logo="" group-title="Live: Italy",IT: Juventus TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/857.m3u8
+#EXTINF:-1 tvg-ID="skyarte.it" tvg-name="IT: Sky Arte HD" tvg-logo="" group-title="Live: Italy",IT: Sky Arte HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/994.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IT: SKY UNO HD" tvg-logo="" group-title="Live: Italy",IT: SKY UNO HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/398.m3u8
+#EXTINF:-1 tvg-ID="skyatlantic.it" tvg-name="IT: Sky Atlantic HD" tvg-logo="[" group-title="Live: Italy",IT: Sky Atlantic HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/395.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Cinema 1 HD" tvg-logo="" group-title="Live: Italy",IT: Sky Cinema 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/550.m3u8
+#EXTINF:-1 tvg-ID="skycinemaduehd.it" tvg-name="IT: Sky Cinema Duo HD" tvg-logo="" group-title="Live: Italy",IT: Sky Cinema Duo HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/399.m3u8
+#EXTINF:-1 tvg-ID="skycinemaunohd.it" tvg-name="IT: Sky Cinema  1 HD" tvg-logo="" group-title="Live: Italy",IT: Sky Cinema  1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/986.m3u8
+#EXTINF:-1 tvg-ID="skycinemacomedy.it" tvg-name="IT: Sky Cinema Comedy HD" tvg-logo="[" group-title="Live: Italy",IT: Sky Cinema Comedy HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/394.m3u8
+#EXTINF:-1 tvg-ID="skycinemapassionhd.it" tvg-name="IT: Sky Cinema Passion HD" tvg-logo="" group-title="Live: Italy",IT: Sky Cinema Passion HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/552.m3u8
+#EXTINF:-1 tvg-ID="skycinemaclassics.it" tvg-name="IT: Sky Cinema Classic HD" tvg-logo="" group-title="Live: Italy",IT: Sky Cinema Classic HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/950.m3u8
+#EXTINF:-1 tvg-ID="skycinemafamily.it" tvg-name="IT: Sky Cinema Family HD" tvg-logo="" group-title="Live: Italy",IT: Sky Cinema Family HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/551.m3u8
+#EXTINF:-1 tvg-ID="skycinemamax.it" tvg-name="IT: Sky Cinema Action HD" tvg-logo="" group-title="Live: Italy",IT: Sky Cinema Action HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/396.m3u8
+#EXTINF:-1 tvg-ID="skycinemacollectionhd.it" tvg-name="IT: Sky Cinema Collection HD" tvg-logo="" group-title="Live: Italy",IT: Sky Cinema Collection HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/397.m3u8
+#EXTINF:-1 tvg-ID="premiumcinemadtt.it" tvg-name="IT: Premium Cinema HD" tvg-logo="" group-title="Live: Italy",IT: Premium Cinema HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/392.m3u8
+#EXTINF:-1 tvg-ID="premiumcinema2.it" tvg-name="IT: Premium Cinema 2 HD" tvg-logo="" group-title="Live: Italy",IT: Premium Cinema 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/387.m3u8
+#EXTINF:-1 tvg-ID="premiumcrime.it" tvg-name="IT: Premium Crime HD" tvg-logo="" group-title="Live: Italy",IT: Premium Crime HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/384.m3u8
+#EXTINF:-1 tvg-ID="premiumaction.it" tvg-name="IT: Premium Action HD" tvg-logo="" group-title="Live: Italy",IT: Premium Action HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/389.m3u8
+#EXTINF:-1 tvg-ID="premiumstories.it" tvg-name="IT: Premium Stories" tvg-logo="[" group-title="Live: Italy",IT: Premium Stories
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/391.m3u8
+#EXTINF:-1 tvg-ID="premiumcinemaemotion.it" tvg-name="IT: Premium Emotion" tvg-logo="" group-title="Live: Italy",IT: Premium Emotion
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/859.m3u8
+#EXTINF:-1 tvg-ID="premiumcinemaenergy.it" tvg-name="IT: Premium Energy HD" tvg-logo="[" group-title="Live: Italy",IT: Premium Energy HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/388.m3u8
+#EXTINF:-1 tvg-ID="premiumcomedydtt.it" tvg-name="IT: Premium Comedy" tvg-logo="" group-title="Live: Italy",IT: Premium Comedy
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/385.m3u8
+#EXTINF:-1 tvg-ID="premiumcrimedtt.it" tvg-name="IT: Premium Crime 24" tvg-logo="" group-title="Live: Italy",IT: Premium Crime 24
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/393.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Premium Studio Universal" tvg-logo="" group-title="Live: Italy",IT: Premium Studio Universal
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2277.m3u8
+#EXTINF:-1 tvg-ID="fox.it" tvg-name="IT: Fox HD" tvg-logo="" group-title="Live: Italy",IT: Fox HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/989.m3u8
+#EXTINF:-1 tvg-ID="foxlife.it" tvg-name="IT: Fox Life HD" tvg-logo="" group-title="Live: Italy",IT: Fox Life HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/990.m3u8
+#EXTINF:-1 tvg-ID="foxcrime.it" tvg-name="IT: Fox Crime HD" tvg-logo="" group-title="Live: Italy",IT: Fox Crime HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/991.m3u8
+#EXTINF:-1 tvg-ID="cielo.it" tvg-name="IT: Cielo HD" tvg-logo="[" group-title="Live: Italy",IT: Cielo HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/998.m3u8
+#EXTINF:-1 tvg-ID="dmax.it" tvg-name="IT: Dmax HD" tvg-logo="" group-title="Live: Italy",IT: Dmax HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/995.m3u8
+#EXTINF:-1 tvg-ID="historychannel.it" tvg-name="IT: History HD" tvg-logo="" group-title="Live: Italy",IT: History HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1001.m3u8
+#EXTINF:-1 tvg-ID="natgeo.it" tvg-name="IT: National Geo HD" tvg-logo="" group-title="Live: Italy",IT: National Geo HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1005.m3u8
+#EXTINF:-1 tvg-ID="natgeowild.it" tvg-name="IT: Nat Geo Wild HD" tvg-logo="" group-title="Live: Italy",IT: Nat Geo Wild HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1004.m3u8
+#EXTINF:-1 tvg-ID="natgeopeople.it" tvg-name="IT: Nat Geo People HD" tvg-logo="" group-title="Live: Italy",IT: Nat Geo People HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1006.m3u8
+#EXTINF:-1 tvg-ID="animalplanet.it" tvg-name="IT: M2O" tvg-logo="" group-title="Live: Italy",IT: M2O
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1000.m3u8
+#EXTINF:-1 tvg-ID="discoveryscience.it" tvg-name="IT: Discovery Science HD" tvg-logo="" group-title="Live: Italy",IT: Discovery Science HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/999.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Discovery Travel & Living HD" tvg-logo="" group-title="Live: Italy",IT: Discovery Travel & Living HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1003.m3u8
+#EXTINF:-1 tvg-ID="focustv.it" tvg-name="IT: Discovery focus" tvg-logo="" group-title="Live: Italy",IT: Discovery focus
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1002.m3u8
+#EXTINF:-1 tvg-ID="gamberorosso.it" tvg-name="IT: Gambero Rosso HD" tvg-logo="" group-title="Live: Italy",IT: Gambero Rosso HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1009.m3u8
+#EXTINF:-1 tvg-ID="cartoonito.it" tvg-name="IT: Cartoonito" tvg-logo="" group-title="Live: Italy",IT: Cartoonito
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1010.m3u8
+#EXTINF:-1 tvg-ID="k2.it" tvg-name="IT: K2" tvg-logo="" group-title="Live: Italy",IT: K2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1011.m3u8
+#EXTINF:-1 tvg-ID="super.it" tvg-name="IT: Super!" tvg-logo="" group-title="Live: Italy",IT: Super!
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2270.m3u8
+#EXTINF:-1 tvg-ID="mtv.it" tvg-name="IT: MTV" tvg-logo="" group-title="Live: Italy",IT: MTV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2279.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Fine Living" tvg-logo="" group-title="Live: Italy",IT: Fine Living
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2281.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Deejay TV" tvg-logo="" group-title="Live: Italy",IT: Deejay TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2282.m3u8
+#EXTINF:-1 tvg-ID="boing.it" tvg-name="IT: Boing" tvg-logo="" group-title="Live: Italy",IT: Boing
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2283.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IT: Alice" tvg-logo="[" group-title="Live: Italy",IT: Alice
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2284.m3u8
+#EXTINF:-1 tvg-ID="cartoonnetwork.it" tvg-name="IT: Cartoon Network" tvg-logo="" group-title="Live: Italy",IT: Cartoon Network
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1012.m3u8
+#EXTINF:-1 tvg-ID="cacciapesca.it" tvg-name="IT: Caccia e Pesca" tvg-logo="" group-title="Live: Italy",IT: Caccia e Pesca
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1008.m3u8
+#EXTINF:-1 tvg-ID="primafila1.it" tvg-name="IT: Sky Primafila 1 HD" tvg-logo="" group-title="Live: Italy",IT: Sky Primafila 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/430.m3u8
+#EXTINF:-1 tvg-ID="primafila2.it" tvg-name="IT: Sky Primafila 2 HD" tvg-logo="" group-title="Live: Italy",IT: Sky Primafila 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/429.m3u8
+#EXTINF:-1 tvg-ID="primafila3.it" tvg-name="IT: Sky Primafila 3 HD" tvg-logo="" group-title="Live: Italy",IT: Sky Primafila 3 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/428.m3u8
+#EXTINF:-1 tvg-ID="primafila4.it" tvg-name="IT: Sky Primafila 4 HD" tvg-logo="" group-title="Live: Italy",IT: Sky Primafila 4 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/427.m3u8
+#EXTINF:-1 tvg-ID="primafila5.it" tvg-name="IT: Sky Primafila 5 HD" tvg-logo="" group-title="Live: Italy",IT: Sky Primafila 5 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/426.m3u8
+#EXTINF:-1 tvg-ID="primafila6.it" tvg-name="IT: Sky Primafila 6 HD" tvg-logo="" group-title="Live: Italy",IT: Sky Primafila 6 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/425.m3u8
+#EXTINF:-1 tvg-ID="primafila7.it" tvg-name="IT: Sky Primafila 7 HD" tvg-logo="" group-title="Live: Italy",IT: Sky Primafila 7 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/424.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="==== Malta =====" tvg-logo="" group-title="",==== Malta =====
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3632.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MT: TVM 1HD" tvg-logo="" group-title="Live: Malta",MT: TVM 1HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18731.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MT: TVM 2HD" tvg-logo="" group-title="Live: Malta",MT: TVM 2HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3536.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MT; Net TV" tvg-logo="" group-title="Live: Italy",MT; Net TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3538.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MT: ONE TV" tvg-logo="" group-title="Live: Malta",MT: ONE TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18732.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MT: MTU TV FHD" tvg-logo="" group-title="Live: Malta",MT: MTU TV FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34918.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MT: Politika FHD" tvg-logo="" group-title="Live: Malta",MT: Politika FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34917.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MT: SMASH TV" tvg-logo="" group-title="Live: Malta",MT: SMASH TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18726.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MT: SMASH TV HD" tvg-logo="" group-title="Live: Malta",MT: SMASH TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18725.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MT: SMASH FOOD" tvg-logo="" group-title="Live: Malta",MT: SMASH FOOD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18729.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MT: SMASH MUSIC" tvg-logo="" group-title="Live: Malta",MT: SMASH MUSIC
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18728.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MT: SMASH SPORTS" tvg-logo="" group-title="Live: Malta",MT: SMASH SPORTS
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18727.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MT: SMASH 7 NEWS" tvg-logo="" group-title="Live: Malta",MT: SMASH 7 NEWS
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18730.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MT: Smash CAM FHD" tvg-logo="" group-title="Live: Malta",MT: Smash CAM FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34919.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MT: Smash Entertainment  FHD" tvg-logo="" group-title="Live: Malta",MT: Smash Entertainment  FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34915.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MT: Smash TV 3 RETRO FHD" tvg-logo="" group-title="Live: Malta",MT: Smash TV 3 RETRO FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34911.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MT: Smash TV Jazz FHD" tvg-logo="" group-title="Live: Malta",MT: Smash TV Jazz FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34913.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MT: TV Shop Channel FHD" tvg-logo="" group-title="Live: Malta",MT: TV Shop Channel FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34916.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== France =====" tvg-logo="" group-title="",===== France =====
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1200.m3u8
+#EXTINF:-1 tvg-ID="TF1 FR" tvg-name="FR: TF1 HD" tvg-logo="" group-title="Live: France",FR: TF1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/363.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TFX" tvg-logo="" group-title="Live: France",FR: TFX
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/17301.m3u8
+#EXTINF:-1 tvg-ID="TF1 Series Film FR" tvg-name="FR: TF1 SERIES FILMS HD" tvg-logo="" group-title="Live: France",FR: TF1 SERIES FILMS HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/17300.m3u8
+#EXTINF:-1 tvg-ID="France 2 FR" tvg-name="FR: FRANCE 2" tvg-logo="" group-title="Live: France",FR: FRANCE 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/370.m3u8
+#EXTINF:-1 tvg-ID="France 3 FR" tvg-name="FR: FRANCE 3" tvg-logo="" group-title="Live: France",FR: FRANCE 3
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/369.m3u8
+#EXTINF:-1 tvg-ID="France 4 FR" tvg-name="FR: FRANCE 4" tvg-logo="" group-title="Live: France",FR: FRANCE 4
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/368.m3u8
+#EXTINF:-1 tvg-ID="France 5 FR" tvg-name="FR: FRANCE 5" tvg-logo="" group-title="Live: France",FR: FRANCE 5
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/367.m3u8
+#EXTINF:-1 tvg-ID="France O FR" tvg-name="FR: FRANCE Info" tvg-logo="" group-title="Live: France",FR: FRANCE Info
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/366.m3u8
+#EXTINF:-1 tvg-ID="Arte FR" tvg-name="FR: ARTE HD" tvg-logo="" group-title="Live: France",FR: ARTE HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1072.m3u8
+#EXTINF:-1 tvg-ID="M6 FR" tvg-name="FR: M6 HD" tvg-logo="[" group-title="Live: France",FR: M6 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/365.m3u8
+#EXTINF:-1 tvg-ID="W9 FR" tvg-name="FR: W9 HD" tvg-logo="[" group-title="Live: France",FR: W9 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/362.m3u8
+#EXTINF:-1 tvg-ID="W9 FR" tvg-name="FR: W9" tvg-logo="[" group-title="Live: France",FR: W9
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9935.m3u8
+#EXTINF:-1 tvg-ID="6ter FR" tvg-name="FR: 6 TER HD" tvg-logo="" group-title="Live: France",FR: 6 TER HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12013.m3u8
+#EXTINF:-1 tvg-ID="CANALPlus FR" tvg-name="FR: CANAL+ HD" tvg-logo="" group-title="Live: France",FR: CANAL+ HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/361.m3u8
+#EXTINF:-1 tvg-ID="CANALPlus Decale FR" tvg-name="FR: CANAL+ DECALE" tvg-logo="" group-title="Live: France",FR: CANAL+ DECALE
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/359.m3u8
+#EXTINF:-1 tvg-ID="CANALPlus Family FR" tvg-name="FR: CANAL+ KIDS" tvg-logo="[" group-title="Live: France",FR: CANAL+ KIDS
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/358.m3u8
+#EXTINF:-1 tvg-ID="CANALPlus Cinema FR" tvg-name="FR: CANAL+ CINEMA" tvg-logo="[" group-title="Live: France",FR: CANAL+ CINEMA
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5897.m3u8
+#EXTINF:-1 tvg-ID="CANALPlus Series FR" tvg-name="FR: CANAL+ SERIES" tvg-logo="[" group-title="Live: France",FR: CANAL+ SERIES
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/357.m3u8
+#EXTINF:-1 tvg-ID="CANALPlus Sport FR" tvg-name="FR: CANAL+ SPORT" tvg-logo="" group-title="Live: France",FR: CANAL+ SPORT
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/356.m3u8
+#EXTINF:-1 tvg-ID="beIN SPORTS 1 FR" tvg-name="FR: BEINSPORT 1HD" tvg-logo="[" group-title="Live: France",FR: BEINSPORT 1HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/14140.m3u8
+#EXTINF:-1 tvg-ID="beIN SPORTS 2 FR" tvg-name="FR: BEINSPORT 2HD" tvg-logo="[""]" group-title="Live: France",FR: BEINSPORT 2HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/347.m3u8
+#EXTINF:-1 tvg-ID="beIN SPORTS 3 FR" tvg-name="FR: BEINSPORT 3HD" tvg-logo="" group-title="Live: France",FR: BEINSPORT 3HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/346.m3u8
+#EXTINF:-1 tvg-ID="beIN SPORTS MAX 4 FR" tvg-name="FR: BEINSPORT MAX 4" tvg-logo="[" group-title="Live: France",FR: BEINSPORT MAX 4
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2515.m3u8
+#EXTINF:-1 tvg-ID="beIN SPORTS MAX 5 FR" tvg-name="FR: BEINSPORT MAX 5" tvg-logo="" group-title="Live: France",FR: BEINSPORT MAX 5
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2516.m3u8
+#EXTINF:-1 tvg-ID="beIN SPORTS MAX 6 FR" tvg-name="FR: BEINSPORT MAX 6" tvg-logo="[" group-title="Live: France",FR: BEINSPORT MAX 6
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2517.m3u8
+#EXTINF:-1 tvg-ID="beIN SPORTS MAX 7 FR" tvg-name="FR: BEINSPORT MAX 7" tvg-logo="[" group-title="Live: France",FR: BEINSPORT MAX 7
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2518.m3u8
+#EXTINF:-1 tvg-ID="beIN SPORTS MAX 8 FR" tvg-name="FR: BEINSPORT MAX 8" tvg-logo="" group-title="Live: France",FR: BEINSPORT MAX 8
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2519.m3u8
+#EXTINF:-1 tvg-ID="beIN SPORTS MAX 9 FR" tvg-name="FR: BEINSPORT MAX 9" tvg-logo="[" group-title="Live: France",FR: BEINSPORT MAX 9
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2520.m3u8
+#EXTINF:-1 tvg-ID="beIN SPORTS MAX 10 FR" tvg-name="FR: BEINSPORT MAX 10" tvg-logo="[" group-title="Live: France",FR: BEINSPORT MAX 10
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2521.m3u8
+#EXTINF:-1 tvg-ID="FootPlus 2424 FR" tvg-name="FR: FOOT+24 HD" tvg-logo="[" group-title="Live: France",FR: FOOT+24 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1244.m3u8
+#EXTINF:-1 tvg-ID="Eurosport 1 FR" tvg-name="FR: EUROSPORT 1HD" tvg-logo="" group-title="Live: France",FR: EUROSPORT 1HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/345.m3u8
+#EXTINF:-1 tvg-ID="Eurosport 2 FR" tvg-name="FR: EUROSPORT 2HD" tvg-logo="" group-title="Live: France",FR: EUROSPORT 2HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/344.m3u8
+#EXTINF:-1 tvg-ID="LEquipe 21 FR" tvg-name="FR: L'equipe 21 HD" tvg-logo="" group-title="Live: France",FR: L'equipe 21 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1068.m3u8
+#EXTINF:-1 tvg-ID="13eme Rue HD FR" tvg-name="FR: 13EME RUE HD" tvg-logo="" group-title="Live: France",FR: 13EME RUE HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3759.m3u8
+#EXTINF:-1 tvg-ID="6ter FR" tvg-name="FR: 6TER HD" tvg-logo="" group-title="Live: France",FR: 6TER HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2608.m3u8
+#EXTINF:-1 tvg-ID="AB1 HD FR" tvg-name="FR: AB 1" tvg-logo="" group-title="Live: France",FR: AB 1
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/10356.m3u8
+#EXTINF:-1 tvg-ID="AB Moteurs FR" tvg-name="FR: AB MOTEUR" tvg-logo="" group-title="Live: France",FR: AB MOTEUR
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3758.m3u8
+#EXTINF:-1 tvg-ID="Action FR" tvg-name="FR: ACTION HD" tvg-logo="" group-title="Live: France",FR: ACTION HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/349.m3u8
+#EXTINF:-1 tvg-ID="Animaux FR" tvg-name="FR: Animaux HD" tvg-logo="" group-title="Live: France",FR: Animaux HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/642.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Baby HD" tvg-logo="[""]" group-title="Live: France",FR: Baby HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12526.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BBLACK AFRICA" tvg-logo="" group-title="Live: France",FR: BBLACK AFRICA
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18641.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: BBLACK Classic" tvg-logo="" group-title="Live: France",FR: BBLACK Classic
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18642.m3u8
+#EXTINF:-1 tvg-ID="Be Curious TV FR" tvg-name="FR: MDL HD" tvg-logo="" group-title="Live: France",FR: MDL HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2607.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BERBERE JEUNESSE" tvg-logo="" group-title="Live: France",FR: BERBERE JEUNESSE
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/16438.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BERBERE MUSIC" tvg-logo="" group-title="Live: France",FR: BERBERE MUSIC
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/16439.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BERBERE TELEVISION" tvg-logo="" group-title="Live: France",FR: BERBERE TELEVISION
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3778.m3u8
+#EXTINF:-1 tvg-ID="BET HD FR" tvg-name="FR: BET HD" tvg-logo="[" group-title="Live: France",FR: BET HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2620.m3u8
+#EXTINF:-1 tvg-ID="BFM Sport FR" tvg-name="FR: BFM Paris HD" tvg-logo="" group-title="Live: France",FR: BFM Paris HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3780.m3u8
+#EXTINF:-1 tvg-ID="BFM TV FR" tvg-name="FR: BFM TV" tvg-logo="" group-title="Live: France",FR: BFM TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2763.m3u8
+#EXTINF:-1 tvg-ID="Boing FR" tvg-name="FR: BOING" tvg-logo="[" group-title="Live: France",FR: BOING
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2623.m3u8
+#EXTINF:-1 tvg-ID="Boomerang FR" tvg-name="FR: Boomerang" tvg-logo="" group-title="Live: France",FR: Boomerang
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2622.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BRAVA HD" tvg-logo="[""]" group-title="Live: France",FR: BRAVA HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18648.m3u8
+#EXTINF:-1 tvg-ID="TvBreizh FR" tvg-name="FR: BREIZH TV" tvg-logo="" group-title="Live: France",FR: BREIZH TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2609.m3u8
+#EXTINF:-1 tvg-ID="Canal 8 FR" tvg-name="FR: C NEWS HD" tvg-logo="" group-title="Live: France",FR: C NEWS HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/16097.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: C news SD" tvg-logo="" group-title="Live: France",FR: C news SD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1069.m3u8
+#EXTINF:-1 tvg-ID="Canal Star FR" tvg-name="FR: C star HD" tvg-logo="[" group-title="Live: France",FR: C star HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2764.m3u8
+#EXTINF:-1 tvg-ID="Canal 8 FR" tvg-name="FR: C8 HD" tvg-logo="" group-title="Live: France",FR: C8 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2765.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Alpha" tvg-logo="" group-title="Live: France",FR: Canal Alpha
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12528.m3u8
+#EXTINF:-1 tvg-ID="Canal J FR" tvg-name="FR: CANAL J" tvg-logo="" group-title="Live: France",FR: CANAL J
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2619.m3u8
+#EXTINF:-1 tvg-ID="Cartoon Network FR" tvg-name="FR: Cartoon Network" tvg-logo="" group-title="Live: France",FR: Cartoon Network
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2621.m3u8
+#EXTINF:-1 tvg-ID="Chasse et peche FR" tvg-name="FR: Chasse & Peche" tvg-logo="[" group-title="Live: France",FR: Chasse & Peche
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12522.m3u8
+#EXTINF:-1 tvg-ID="Cherie 25 FR" tvg-name="FR: CHERIE 25 HD" tvg-logo="" group-title="Live: France",FR: CHERIE 25 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3761.m3u8
+#EXTINF:-1 tvg-ID="CinePlus Club HD FR" tvg-name="FR: CINE CLUB" tvg-logo="" group-title="Live: France",FR: CINE CLUB
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12523.m3u8
+#EXTINF:-1 tvg-ID="CinePlus Classic FR" tvg-name="FR: CINE+ CLASSIC" tvg-logo="[" group-title="Live: France",FR: CINE+ CLASSIC
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2612.m3u8
+#EXTINF:-1 tvg-ID="CinePlus Emotion HD FR" tvg-name="FR: CINE+ EMOTION" tvg-logo="[""]" group-title="Live: France",FR: CINE+ EMOTION
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/352.m3u8
+#EXTINF:-1 tvg-ID="CinePlus Famiz HD FR" tvg-name="FR: CINE+ FAMIZ" tvg-logo="[" group-title="Live: France",FR: CINE+ FAMIZ
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2611.m3u8
+#EXTINF:-1 tvg-ID="CinePlus Frisson HD FR" tvg-name="FR: CINE+ FRISSON" tvg-logo="[" group-title="Live: France",FR: CINE+ FRISSON
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/351.m3u8
+#EXTINF:-1 tvg-ID="Cine Polar FR" tvg-name="FR: CINE+ POLAR" tvg-logo="" group-title="Live: France",FR: CINE+ POLAR
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2610.m3u8
+#EXTINF:-1 tvg-ID="CinePlus Premier HD FR" tvg-name="FR: CINE+ PREMIER" tvg-logo="" group-title="Live: France",FR: CINE+ PREMIER
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/350.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Clubbing TV" tvg-logo="" group-title="Live: France",FR: Clubbing TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12529.m3u8
+#EXTINF:-1 tvg-ID="ComediePlus FR" tvg-name="FR: Comedie+ HD" tvg-logo="" group-title="Live: France",FR: Comedie+ HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2604.m3u8
+#EXTINF:-1 tvg-ID="Discovery Channel FR" tvg-name="FR: DISCOVERY" tvg-logo="" group-title="Live: France",FR: DISCOVERY
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/355.m3u8
+#EXTINF:-1 tvg-ID="Discovery Science FR" tvg-name="FR: Discovery Science HD" tvg-logo="" group-title="Live: France",FR: Discovery Science HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/646.m3u8
+#EXTINF:-1 tvg-ID="Disney Channel FR" tvg-name="FR: Disney Channel HD" tvg-logo="" group-title="Live: France",FR: Disney Channel HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/645.m3u8
+#EXTINF:-1 tvg-ID="Disney Cinema HD FR" tvg-name="FR: DISNEY CINEMAGIC HD" tvg-logo="" group-title="Live: France",FR: DISNEY CINEMAGIC HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3763.m3u8
+#EXTINF:-1 tvg-ID="Disney Junior FR" tvg-name="FR: Disney Junior" tvg-logo="[" group-title="Live: France",FR: Disney Junior
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2624.m3u8
+#EXTINF:-1 tvg-ID="Disney XD FR" tvg-name="FR: DISNEY XD HD" tvg-logo="" group-title="Live: France",FR: DISNEY XD HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3764.m3u8
+#EXTINF:-1 tvg-ID="E! FR" tvg-name="FR: E! HD" tvg-logo="" group-title="Live: France",FR: E! HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7684.m3u8
+#EXTINF:-1 tvg-ID="ElleGirl FR" tvg-name="FR: Euro Channel FHD" tvg-logo="" group-title="Live: France",FR: Euro Channel FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/16099.m3u8
+#EXTINF:-1 tvg-ID="Equidia Live HD FR" tvg-name="FR: EQUIDIA LIVE" tvg-logo="" group-title="Live: France",FR: EQUIDIA LIVE
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3771.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: EURONEWS" tvg-logo="" group-title="Live: France",FR: EURONEWS
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/8255.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Extreme Sport HD" tvg-logo="" group-title="Live: France",FR: Extreme Sport HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18655.m3u8
+#EXTINF:-1 tvg-ID="France 24 FR" tvg-name="FR: FRANCE 24" tvg-logo="" group-title="Live: France",FR: FRANCE 24
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7867.m3u8
+#EXTINF:-1 tvg-ID="Game One FR" tvg-name="FR: Game One" tvg-logo="" group-title="Live: France",FR: Game One
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9113.m3u8
+#EXTINF:-1 tvg-ID="Golf Channel FR" tvg-name="FR: GOLF Channel HD" tvg-logo="[" group-title="Live: France",FR: GOLF Channel HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/16109.m3u8
+#EXTINF:-1 tvg-ID="GolfPlus FR" tvg-name="FR: GOLF+ HD" tvg-logo="" group-title="Live: France",FR: GOLF+ HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7834.m3u8
+#EXTINF:-1 tvg-ID="Gong FR" tvg-name="FR: BFM Lyon" tvg-logo="" group-title="Live: France",FR: BFM Lyon
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12525.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: GongMax" tvg-logo="" group-title="Live: France",FR: GongMax
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18667.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: GRAND LILLE" tvg-logo="" group-title="Live: France",FR: GRAND LILLE
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18660.m3u8
+#EXTINF:-1 tvg-ID="Gulli FR" tvg-name="FR: Gulli" tvg-logo="" group-title="Live: France",FR: Gulli
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2625.m3u8
+#EXTINF:-1 tvg-ID="HD1 FR" tvg-name="FR: MOODS TV" tvg-logo="" group-title="Live: France",FR: MOODS TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2766.m3u8
+#EXTINF:-1 tvg-ID="Histoire FR" tvg-name="FR: Histoire" tvg-logo="" group-title="Live: France",FR: Histoire
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1070.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: i24 News" tvg-logo="" group-title="Live: France",FR: i24 News
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9015.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: BFM Business TV" tvg-logo="" group-title="Live: France",FR: BFM Business TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18640.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: IL TV" tvg-logo="" group-title="Live: France",FR: IL TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18636.m3u8
+#EXTINF:-1 tvg-ID="InfosportPlus FR" tvg-name="FR: InfoSport+ HD" tvg-logo="[" group-title="Live: France",FR: InfoSport+ HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/342.m3u8
+#EXTINF:-1 tvg-ID="J-One FR" tvg-name="FR: J-ONE HD" tvg-logo="[" group-title="Live: France",FR: J-ONE HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3779.m3u8
+#EXTINF:-1 tvg-ID="KTO FR" tvg-name="FR: KTO" tvg-logo="" group-title="Live: France",FR: KTO
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3777.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: LA CHAINE METEO HD" tvg-logo="" group-title="Live: France",FR: LA CHAINE METEO HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18666.m3u8
+#EXTINF:-1 tvg-ID="Cine FX FR" tvg-name="FR: La Chaine Normande" tvg-logo="" group-title="Live: France",FR: La Chaine Normande
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12524.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: LCI HD" tvg-logo="" group-title="Live: France",FR: LCI HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9112.m3u8
+#EXTINF:-1 tvg-ID="LCP FR" tvg-name="FR: LCP HD" tvg-logo="" group-title="Live: France",FR: LCP HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3776.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Leman Bleu TV" tvg-logo="" group-title="Live: France",FR: Leman Bleu TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18659.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Lucky Jack TV" tvg-logo="" group-title="Live: France",FR: Lucky Jack TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18650.m3u8
+#EXTINF:-1 tvg-ID="M6 Music FR" tvg-name="FR: M6 MUSIC" tvg-logo="" group-title="Live: France",FR: M6 MUSIC
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3775.m3u8
+#EXTINF:-1 tvg-ID="Mangas FR" tvg-name="FR: MANGAS HD" tvg-logo="" group-title="Live: France",FR: MANGAS HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/341.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: MCM HD" tvg-logo="[" group-title="Live: France",FR: MCM HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/31445.m3u8
+#EXTINF:-1 tvg-ID="MCM Top HD FR" tvg-name="FR: MCM POP" tvg-logo="" group-title="Live: France",FR: MCM POP
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12530.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MTV Hits" tvg-logo="[""]" group-title="Live: France",FR: MTV Hits
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3774.m3u8
+#EXTINF:-1 tvg-ID="National Geographic FR" tvg-name="FR: NAT GEO HD" tvg-logo="" group-title="Live: France",FR: NAT GEO HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/336.m3u8
+#EXTINF:-1 tvg-ID="National Geographic FR" tvg-name="FR: Nat Geo Wild HD" tvg-logo="[" group-title="Live: France",FR: Nat Geo Wild HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9815.m3u8
+#EXTINF:-1 tvg-ID="Nickelodeon FR" tvg-name="FR: NICKELODEON" tvg-logo="" group-title="Live: France",FR: NICKELODEON
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7712.m3u8
+#EXTINF:-1 tvg-ID="Nickelodeon Junior FR" tvg-name="FR: NICKELODEON JR" tvg-logo="[""]" group-title="Live: France",FR: NICKELODEON JR
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7713.m3u8
+#EXTINF:-1 tvg-ID="NRJ 12 FR" tvg-name="FR: NRJ12 HD" tvg-logo="[""]" group-title="Live: France",FR: NRJ12 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/364.m3u8
+#EXTINF:-1 tvg-ID="NT1 FR" tvg-name="FR: France 3 NOA HD" tvg-logo="" group-title="Live: France",FR: France 3 NOA HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/340.m3u8
+#EXTINF:-1 tvg-ID="Numero 23 FR" tvg-name="FR: NUMERO 23 HD" tvg-logo="" group-title="Live: France",FR: NUMERO 23 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3762.m3u8
+#EXTINF:-1 tvg-ID="OCS Choc FR" tvg-name="FR: OCS CHOC HD" tvg-logo="[" group-title="Live: France",FR: OCS CHOC HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3769.m3u8
+#EXTINF:-1 tvg-ID="OCS City FR" tvg-name="FR: OCS CITY HD" tvg-logo="" group-title="Live: France",FR: OCS CITY HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2613.m3u8
+#EXTINF:-1 tvg-ID="OCS Geants FR" tvg-name="FR: OCS GEANTS HD" tvg-logo="[" group-title="Live: France",FR: OCS GEANTS HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3768.m3u8
+#EXTINF:-1 tvg-ID="OCS Max FR" tvg-name="FR: OCS MAX HD" tvg-logo="[" group-title="Live: France",FR: OCS MAX HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3767.m3u8
+#EXTINF:-1 tvg-ID="OLTV FR" tvg-name="FR: OL TV" tvg-logo="" group-title="Live: France",FR: OL TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18645.m3u8
+#EXTINF:-1 tvg-ID="OMtv FR" tvg-name="FR: OM TV" tvg-logo="" group-title="Live: France",FR: OM TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18678.m3u8
+#EXTINF:-1 tvg-ID="One TV FR" tvg-name="FR: ONE TV" tvg-logo="" group-title="Live: France",FR: ONE TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18637.m3u8
+#EXTINF:-1 tvg-ID="Paramount Channel FR" tvg-name="FR: PARAMOUNT CHANNEL HD" tvg-logo="[" group-title="Live: France",FR: PARAMOUNT CHANNEL HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3770.m3u8
+#EXTINF:-1 tvg-ID="Paris Premiere FR" tvg-name="FR: Paris Premiere HD" tvg-logo="" group-title="Live: France",FR: Paris Premiere HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1066.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: PIWI  HD" tvg-logo="[" group-title="Live: France",FR: PIWI  HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/339.m3u8
+#EXTINF:-1 tvg-ID="PlanetePlus FR" tvg-name="FR: Planet HD" tvg-logo="[""]" group-title="Live: France",FR: Planet HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/10594.m3u8
+#EXTINF:-1 tvg-ID="PlanetePlus Action and Experience FR" tvg-name="FR: Planete  A&E HD" tvg-logo="[""]" group-title="Live: France",FR: Planete  A&E HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/644.m3u8
+#EXTINF:-1 tvg-ID="PlanetePlus CrimeplusInvestigation FR" tvg-name="FR: PLANETE CI" tvg-logo="" group-title="Live: France",FR: PLANETE CI
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/353.m3u8
+#EXTINF:-1 tvg-ID="RMC Decouverte FR" tvg-name="FR: RMC Decouverte" tvg-logo="" group-title="Live: France",FR: RMC Decouverte
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3766.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Rouge TV" tvg-logo="" group-title="Live: France",FR: Rouge TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18664.m3u8
+#EXTINF:-1 tvg-ID="RTL 9 FR" tvg-name="FR: RTL9" tvg-logo="" group-title="Live: France",FR: RTL9
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2601.m3u8
+#EXTINF:-1 tvg-ID="RTS Deux HD FR" tvg-name="FR: RTS DEUX HD" tvg-logo="[" group-title="Live: France",FR: RTS DEUX HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2767.m3u8
+#EXTINF:-1 tvg-ID="RTS Un HD FR" tvg-name="FR: RTS UN HD" tvg-logo="[" group-title="Live: France",FR: RTS UN HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2768.m3u8
+#EXTINF:-1 tvg-ID="Science and Vie TV FR" tvg-name="FR: Sciences & Vie TV" tvg-logo="[" group-title="Live: France",FR: Sciences & Vie TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/643.m3u8
+#EXTINF:-1 tvg-ID="Seasons FR" tvg-name="FR: Season HD" tvg-logo="" group-title="Live: France",FR: Season HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3773.m3u8
+#EXTINF:-1 tvg-ID="serieclub FR" tvg-name="FR: Serie Club HD" tvg-logo="[""]" group-title="Live: France",FR: Serie Club HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2605.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Sundance TV" tvg-logo="" group-title="Live: France",FR: Sundance TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18661.m3u8
+#EXTINF:-1 tvg-ID="Syfy HD FR" tvg-name="FR: SYFY HD" tvg-logo="" group-title="Live: France",FR: SYFY HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3760.m3u8
+#EXTINF:-1 tvg-ID="TCM Cinema FR" tvg-name="FR: TCM Cinema" tvg-logo="" group-title="Live: France",FR: TCM Cinema
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12527.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: TeleGrenoble Isere" tvg-logo="" group-title="Live: France",FR: TeleGrenoble Isere
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18646.m3u8
+#EXTINF:-1 tvg-ID="Teva FR" tvg-name="FR: Teva HD" tvg-logo="" group-title="Live: France",FR: Teva HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2602.m3u8
+#EXTINF:-1 tvg-ID="TIJI FR" tvg-name="FR: TIJI" tvg-logo="" group-title="Live: France",FR: TIJI
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3765.m3u8
+#EXTINF:-1 tvg-ID="TMC FR" tvg-name="FR: TMC" tvg-logo="" group-title="Live: France",FR: TMC
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2769.m3u8
+#EXTINF:-1 tvg-ID="TMC FR" tvg-name="FR: TMC HD" tvg-logo="" group-title="Live: France",FR: TMC HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2606.m3u8
+#EXTINF:-1 tvg-ID="Toute lhistoire FR" tvg-name="FR: Toute l Histoire HD" tvg-logo="[" group-title="Live: France",FR: Toute l Histoire HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2770.m3u8
+#EXTINF:-1 tvg-ID="Trek FR" tvg-name="FR: Trek HD" tvg-logo="" group-title="Live: France",FR: Trek HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1065.m3u8
+#EXTINF:-1 tvg-ID="TV5MONDE FR" tvg-name="FR: TV 5 Monde HD" tvg-logo="[" group-title="Live: France",FR: TV 5 Monde HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/8256.m3u8
+#EXTINF:-1 tvg-ID="Equidia Life HD FR" tvg-name="FR: TV5 MONDE HD" tvg-logo="" group-title="Live: France",FR: TV5 MONDE HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3772.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: TV78" tvg-logo="" group-title="Live: France",FR: TV78
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18665.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: TV7 Colmar" tvg-logo="" group-title="Live: France",FR: TV7 Colmar
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18654.m3u8
+#EXTINF:-1 tvg-ID="M6 Boutique FR" tvg-name="FR: TV8 MontBlanc HD" tvg-logo="" group-title="Live: France",FR: TV8 MontBlanc HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18651.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: TVM 3" tvg-logo="" group-title="Live: France",FR: TVM 3
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18635.m3u8
+#EXTINF:-1 tvg-ID="Ushuaia TV FR" tvg-name="FR: Ushuaia HD" tvg-logo="" group-title="Live: France",FR: Ushuaia HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/337.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: VOSGUE TV" tvg-logo="" group-title="Live: France",FR: VOSGUE TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/18653.m3u8
+#EXTINF:-1 tvg-ID="Voyage HD FR" tvg-name="FR: VOYAGE HD" tvg-logo="" group-title="Live: France",FR: VOYAGE HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2771.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Canal Play 1" tvg-logo="" group-title="Live: France",FR: Canal Play 1
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2614.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 2" tvg-logo="" group-title="Live: France",FR: Canal Play 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2615.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 3" tvg-logo="" group-title="Live: France",FR: Canal Play 3
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2616.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Canal Play 4" tvg-logo="" group-title="Live: France",FR: Canal Play 4
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2617.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Canal Play 5" tvg-logo="" group-title="Live: France",FR: Canal Play 5
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2618.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: A LA CARTE 1" tvg-logo="[" group-title="Live: France",FR: A LA CARTE 1
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3345.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 2" tvg-logo="[""]" group-title="Live: France",FR: A LA CARTE 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3346.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 3" tvg-logo="[""]" group-title="Live: France",FR: A LA CARTE 3
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3347.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 4" tvg-logo="[""]" group-title="Live: France",FR: A LA CARTE 4
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3348.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: A LA CARTE 5" tvg-logo="[" group-title="Live: France",FR: A LA CARTE 5
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3349.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: A LA CARTE 6" tvg-logo="[" group-title="Live: France",FR: A LA CARTE 6
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3350.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: A LA CARTE 7" tvg-logo="[" group-title="Live: France",FR: A LA CARTE 7
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3351.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 8" tvg-logo="[""]" group-title="Live: France",FR: A LA CARTE 8
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3352.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: A LA CARTE 9" tvg-logo="[" group-title="Live: France",FR: A LA CARTE 9
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3353.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 10" tvg-logo="[""]" group-title="Live: France",FR: A LA CARTE 10
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3354.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 1 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/42802.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 2 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/42803.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 3 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 3 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/42804.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 4 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 4 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/42805.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 5 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 5 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/42806.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 6 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 6 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/42807.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 7 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 7 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/42808.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 8 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 8 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/42809.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 9 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 9 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/42810.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Alsace TV HD" tvg-logo="" group-title="Live: France",FR: Alsace TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34926.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Antenne Reunion" tvg-logo="" group-title="Live: France",FR: Antenne Reunion
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34936.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bblack! Caribbean" tvg-logo="" group-title="Live: France",FR: Bblack! Caribbean
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34930.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: BIP TV (Berry Issoudun Premiere)" tvg-logo="" group-title="Live: France",FR: BIP TV (Berry Issoudun Premiere)
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34923.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CPAC HD" tvg-logo="" group-title="Live: France",FR: CPAC HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34929.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FASHION MIDNITE FHD" tvg-logo="" group-title="Live: France",FR: FASHION MIDNITE FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34928.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Francophonie 24" tvg-logo="" group-title="Live: France",FR: Francophonie 24
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34932.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: ILTV" tvg-logo="" group-title="Live: France",FR: ILTV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34937.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: France Info HD" tvg-logo="" group-title="Live: France",FR: France Info HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34939.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: MATELE TV HD" tvg-logo="" group-title="Live: France",FR: MATELE TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34925.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: RT France HD" tvg-logo="" group-title="Live: France",FR: RT France HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34931.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Tebeo TV HD" tvg-logo="" group-title="Live: France",FR: Tebeo TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34933.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TVFIL78" tvg-logo="" group-title="Live: France",FR: TVFIL78
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34938.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TVPi" tvg-logo="" group-title="Live: France",FR: TVPi
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34935.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: TVR TV Rennes 35" tvg-logo="" group-title="Live: France",FR: TVR TV Rennes 35
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34924.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: VIA Vosgues TV HD" tvg-logo="" group-title="Live: France",FR: VIA Vosgues TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34927.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: via Occitanie TV" tvg-logo="" group-title="Live: France",FR: via Occitanie TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34934.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NJR Radio" tvg-logo="" group-title="Live: Radio",FR: NJR Radio
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/16373.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cherie" tvg-logo="" group-title="Live: Radio",FR: Cherie
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/16377.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France Inter" tvg-logo="" group-title="Live: Radio",FR: France Inter
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/16374.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Rire & Chansons" tvg-logo="" group-title="Live: Radio",FR: Rire & Chansons
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/16376.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RTL" tvg-logo="" group-title="Live: Radio",FR: RTL
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/16375.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP DE: EB Collection Bollywood FHD" tvg-logo="" group-title="Live: Germany",VIP DE: EB Collection Bollywood FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/95348.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== Germany =====" tvg-logo="" group-title="",===== Germany =====
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1199.m3u8
+#EXTINF:-1 tvg-ID="13thstreet.de" tvg-name="DE: 13th Street FHD" tvg-logo="[" group-title="Live: Germany",DE: 13th Street FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9675.m3u8
+#EXTINF:-1 tvg-ID="aande.de" tvg-name="DE: A&E FHD" tvg-logo="" group-title="Live: Germany",DE: A&E FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9674.m3u8
+#EXTINF:-1 tvg-ID="animalplanet.de" tvg-name="DE: Animal Planet FHD" tvg-logo="" group-title="Live: Germany",DE: Animal Planet FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9673.m3u8
+#EXTINF:-1 tvg-ID="automotorundsportchannel.de" tvg-name="DE: Auto Motor Sport FHD" tvg-logo="" group-title="Live: Germany",DE: Auto Motor Sport FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12588.m3u8
+#EXTINF:-1 tvg-ID="axn.de" tvg-name="DE: AXN FHD" tvg-logo="[" group-title="Live: Germany",DE: AXN FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9672.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel.de" tvg-name="DE: Discovery FHD" tvg-logo="[" group-title="Live: Germany",DE: Discovery FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9671.m3u8
+#EXTINF:-1 tvg-ID="disneychannel.de" tvg-name="DE: Disney Channel FHD" tvg-logo="[" group-title="Live: Germany",DE: Disney Channel FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9670.m3u8
+#EXTINF:-1 tvg-ID="disneycinemagic.de" tvg-name="DE: Disney Cinemagic FHD" tvg-logo="" group-title="Live: Germany",DE: Disney Cinemagic FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9669.m3u8
+#EXTINF:-1 tvg-ID="fox.de" tvg-name="DE: FOX FHD" tvg-logo="[" group-title="Live: Germany",DE: FOX FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9668.m3u8
+#EXTINF:-1 tvg-ID="history.de" tvg-name="DE: History FHD" tvg-logo="[" group-title="Live: Germany",DE: History FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9667.m3u8
+#EXTINF:-1 tvg-ID="ntv.de" tvg-name="DE: N-TV FHD" tvg-logo="[" group-title="Live: Germany",DE: N-TV FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9665.m3u8
+#EXTINF:-1 tvg-ID="natgeowild.de" tvg-name="DE: Nat Geo Wild FHD" tvg-logo="[" group-title="Live: Germany",DE: Nat Geo Wild FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9664.m3u8
+#EXTINF:-1 tvg-ID="natgeo.de" tvg-name="DE: Nat Geo FHD" tvg-logo="[" group-title="Live: Germany",DE: Nat Geo FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9663.m3u8
+#EXTINF:-1 tvg-ID="natgeo.de" tvg-name="DE: National Geographic FHD" tvg-logo="[" group-title="Live: Germany",DE: National Geographic FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9662.m3u8
+#EXTINF:-1 tvg-ID="pro7.de" tvg-name="DE: PRO 7 FHD" tvg-logo="[" group-title="Live: Germany",DE: PRO 7 FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9661.m3u8
+#EXTINF:-1 tvg-ID="rtl2.de" tvg-name="DE: RTL 2 FHD" tvg-logo="[" group-title="Live: Germany",DE: RTL 2 FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9659.m3u8
+#EXTINF:-1 tvg-ID="rtl.de" tvg-name="DE: RTL FHD" tvg-logo="[" group-title="Live: Germany",DE: RTL FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9658.m3u8
+#EXTINF:-1 tvg-ID="rtlnitro.de" tvg-name="DE: RTL NITRO FHD" tvg-logo="[" group-title="Live: Germany",DE: RTL NITRO FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9657.m3u8
+#EXTINF:-1 tvg-ID="sat1.de" tvg-name="DE: SAT.1 FHD" tvg-logo="[" group-title="Live: Germany",DE: SAT.1 FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9656.m3u8
+#EXTINF:-1 tvg-ID="sixx.de" tvg-name="DE: sixx FHD" tvg-logo="[" group-title="Live: Germany",DE: sixx FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9655.m3u8
+#EXTINF:-1 tvg-ID="skyaction.de" tvg-name="DE: Sky Cinema Action FHD" tvg-logo="[" group-title="Live: Germany",DE: Sky Cinema Action FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9654.m3u8
+#EXTINF:-1 tvg-ID="skyatlantic.de" tvg-name="DE: Sky Atlantic FHD" tvg-logo="[" group-title="Live: Germany",DE: Sky Atlantic FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9653.m3u8
+#EXTINF:-1 tvg-ID="skycinema.de" tvg-name="DE: Sky Cinema Premieren FHD" tvg-logo="[" group-title="Live: Germany",DE: Sky Cinema Premieren FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9652.m3u8
+#EXTINF:-1 tvg-ID="skyhits.de" tvg-name="DE: Sky Cinema Hits FHD" tvg-logo="[" group-title="Live: Germany",DE: Sky Cinema Hits FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9651.m3u8
+#EXTINF:-1 tvg-ID="sport1.de" tvg-name="DE: Sport1 FHD" tvg-logo="[" group-title="Live: Germany",DE: Sport1 FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9666.m3u8
+#EXTINF:-1 tvg-ID="superrtl.de" tvg-name="DE: SUPER RTL FHD" tvg-logo="" group-title="Live: Germany",DE: SUPER RTL FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9650.m3u8
+#EXTINF:-1 tvg-ID="syfy.de" tvg-name="DE: SyFy FHD" tvg-logo="[" group-title="Live: Germany",DE: SyFy FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9649.m3u8
+#EXTINF:-1 tvg-ID="tntserie.de" tvg-name="DE: TNT Serie FHD" tvg-logo="[" group-title="Live: Germany",DE: TNT Serie FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9648.m3u8
+#EXTINF:-1 tvg-ID="vox.de" tvg-name="DE: VOX FHD" tvg-logo="" group-title="Live: Germany",DE: VOX FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9647.m3u8
+#EXTINF:-1 tvg-ID="prosiebenmaxx.de" tvg-name="DE: PRO 7 MAXX FHD" tvg-logo="[" group-title="Live: Germany",DE: PRO 7 MAXX FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9660.m3u8
+#EXTINF:-1 tvg-ID="13thstreet.de" tvg-name="DE: 13TH STREET HD" tvg-logo="" group-title="Live: Germany",DE: 13TH STREET HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5359.m3u8
+#EXTINF:-1 tvg-ID="3sat.de" tvg-name="DE: 3Sat HD" tvg-logo="[" group-title="Live: Germany",DE: 3Sat HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1355.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Alex Berlin HD" tvg-logo="" group-title="Live: Germany",DE: Alex Berlin HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35244.m3u8
+#EXTINF:-1 tvg-ID="aande.de" tvg-name="DE: Allgau TV FHD" tvg-logo="" group-title="Live: Germany",DE: Allgau TV FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1356.m3u8
+#EXTINF:-1 tvg-ID="animalplanet.de" tvg-name="DE: ANIMAL PLANET HD" tvg-logo="" group-title="Live: Germany",DE: ANIMAL PLANET HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5348.m3u8
+#EXTINF:-1 tvg-ID="anixe.de" tvg-name="DE: ANIXE HD" tvg-logo="[" group-title="Live: Germany",DE: ANIXE HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7559.m3u8
+#EXTINF:-1 tvg-ID="atv.de" tvg-name="DE: ARD Alpha HD" tvg-logo="[" group-title="Live: Germany",DE: ARD Alpha HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2565.m3u8
+#EXTINF:-1 tvg-ID="ard.de" tvg-name="DE: ARD HD" tvg-logo="" group-title="Live: Germany",DE: ARD HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/4659.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: ARD Tagesschau 24 HD" tvg-logo="[" group-title="Live: Germany",DE: ARD Tagesschau 24 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2566.m3u8
+#EXTINF:-1 tvg-ID="arte.de" tvg-name="DE: Arte HD" tvg-logo="" group-title="Live: Germany",DE: Arte HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/134.m3u8
+#EXTINF:-1 tvg-ID="axn.de" tvg-name="DE: AXN HD" tvg-logo="[" group-title="Live: Germany",DE: AXN HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1616.m3u8
+#EXTINF:-1 tvg-ID="babytv.de" tvg-name="DE: Baby TV" tvg-logo="" group-title="Live: Germany",DE: Baby TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12865.m3u8
+#EXTINF:-1 tvg-ID="silverline.de" tvg-name="DE: Beatz TV HD" tvg-logo="[" group-title="Live: Germany",DE: Beatz TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/25794.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Bibel TV HD" tvg-logo="" group-title="Live: Germany",DE: Bibel TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35245.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Bibel TV Impuls HD DE" tvg-logo="" group-title="Live: Germany",DE: Bibel TV Impuls HD DE
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35246.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Bibel TV Musik HD DE" tvg-logo="" group-title="Live: Germany",DE: Bibel TV Musik HD DE
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35247.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: QVC Style HD" tvg-logo="" group-title="Live: Germany",DE: QVC Style HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35264.m3u8
+#EXTINF:-1 tvg-ID="boomerang.de" tvg-name="DE: Boomerang" tvg-logo="" group-title="Live: Germany",DE: Boomerang
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7551.m3u8
+#EXTINF:-1 tvg-ID="br.de" tvg-name="DE: BR" tvg-logo="[""]" group-title="Live: Germany",DE: BR
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2561.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Bundestag Kanal 1 HD" tvg-logo="" group-title="Live: Germany",DE: Bundestag Kanal 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35248.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Bundestag Kanal 2 HD" tvg-logo="" group-title="Live: Germany",DE: Bundestag Kanal 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35249.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: BW Family TV HD" tvg-logo="" group-title="Live: Germany",DE: BW Family TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35250.m3u8
+#EXTINF:-1 tvg-ID="cartoonnetwork.de" tvg-name="DE: Cartoon Network" tvg-logo="[" group-title="Live: Germany",DE: Cartoon Network
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7576.m3u8
+#EXTINF:-1 tvg-ID="classica.de" tvg-name="DE: Classica" tvg-logo="" group-title="Live: Germany",DE: Classica
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1325.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Crime Investigation HD" tvg-logo="" group-title="Live: Germany",DE: Crime Investigation HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35265.m3u8
+#EXTINF:-1 tvg-ID="deluxemusic.de" tvg-name="DE: Deluxe Music HD" tvg-logo="[""]" group-title="Live: Germany",DE: Deluxe Music HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7562.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Deluxe Music HD" tvg-logo="" group-title="Live: Germany",DE: Deluxe Music HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35252.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Deutsche Welle TV HD" tvg-logo="" group-title="Live: Germany",DE: Deutsche Welle TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35253.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Deutsches Musik Fernsehen" tvg-logo="" group-title="Live: Germany",DE: Deutsches Musik Fernsehen
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35255.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Deutsches Musik HD" tvg-logo="" group-title="Live: Germany",DE: Deutsches Musik HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35254.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel.de" tvg-name="DE: Discovery HD" tvg-logo="" group-title="Live: Germany",DE: Discovery HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1324.m3u8
+#EXTINF:-1 tvg-ID="disneychannel.de" tvg-name="DE: Disney Channel HD" tvg-logo="" group-title="Live: Germany",DE: Disney Channel HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7575.m3u8
+#EXTINF:-1 tvg-ID="disneycinemagic.de" tvg-name="DE: DISNEY CINEMAGIC HD" tvg-logo="[" group-title="Live: Germany",DE: DISNEY CINEMAGIC HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5366.m3u8
+#EXTINF:-1 tvg-ID="disneyjunior.de" tvg-name="DE: DISNEY JUNIOR HD" tvg-logo="" group-title="Live: Germany",DE: DISNEY JUNIOR HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5365.m3u8
+#EXTINF:-1 tvg-ID="disneyxd.de" tvg-name="DE: Disney XD" tvg-logo="" group-title="Live: Germany",DE: Disney XD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1320.m3u8
+#EXTINF:-1 tvg-ID="dmax.de" tvg-name="DE: DMAX HD" tvg-logo="" group-title="Live: Germany",DE: DMAX HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7557.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Donau TV HD" tvg-logo="" group-title="Live: Germany",DE: Donau TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35256.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: BILD HD" tvg-logo="" group-title="Live: Germany",DE: BILD HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35257.m3u8
+#EXTINF:-1 tvg-ID="deutschewelle.de" tvg-name="DE: DW HD" tvg-logo="" group-title="Live: Germany",DE: DW HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7563.m3u8
+#EXTINF:-1 tvg-ID="eentertainment.de" tvg-name="DE: E Entertainm HD" tvg-logo="[""]" group-title="Live: Germany",DE: E Entertainm HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7564.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: EBS  Kanal 2 HD" tvg-logo="" group-title="Live: Germany",DE: EBS  Kanal 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35258.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: ERF 1 HD" tvg-logo="" group-title="Live: Germany",DE: ERF 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35259.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: erzTV Erzgebirge HD" tvg-logo="" group-title="Live: Germany",DE: erzTV Erzgebirge HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35260.m3u8
+#EXTINF:-1 tvg-ID="sport1us.de" tvg-name="DE: ESport 1 HD" tvg-logo="" group-title="Live: Germany",DE: ESport 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7584.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: EuroNews Deutsch HD" tvg-logo="" group-title="Live: Germany",DE: EuroNews Deutsch HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35261.m3u8
+#EXTINF:-1 tvg-ID="eurosport1.de" tvg-name="DE: Eurosport 1 HD" tvg-logo="[" group-title="Live: Germany",DE: Eurosport 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7580.m3u8
+#EXTINF:-1 tvg-ID="eurosport2.de" tvg-name="DE: Eurosport 2 HD" tvg-logo="" group-title="Live: Germany",DE: Eurosport 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7581.m3u8
+#EXTINF:-1 tvg-ID="eurosport2xtra.de" tvg-name="DE: Eurosport 2 Xtra" tvg-logo="" group-title="Live: Germany",DE: Eurosport 2 Xtra
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/13663.m3u8
+#EXTINF:-1 tvg-ID="familytv.de" tvg-name="DE: FAMILY TV" tvg-logo="" group-title="Live: Germany",DE: FAMILY TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5347.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Folx TV" tvg-logo="" group-title="Live: Germany",DE: Folx TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35262.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Folx TV HD" tvg-logo="" group-title="Live: Germany",DE: Folx TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35263.m3u8
+#EXTINF:-1 tvg-ID="fox.de" tvg-name="DE: FOX HD" tvg-logo="" group-title="Live: Germany",DE: FOX HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1618.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: GO TV HD" tvg-logo="" group-title="Live: Germany",DE: GO TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35266.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Handystar" tvg-logo="" group-title="Live: Germany",DE: Handystar
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35267.m3u8
+#EXTINF:-1 tvg-ID="sachsenfernsehen.de" tvg-name="DE: Health TV HD" tvg-logo="[" group-title="Live: Germany",DE: Health TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12590.m3u8
+#EXTINF:-1 tvg-ID="heimatkanal.de" tvg-name="DE: HEIMATKANAL" tvg-logo="" group-title="Live: Germany",DE: HEIMATKANAL
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5350.m3u8
+#EXTINF:-1 tvg-ID="history.de" tvg-name="DE: HISTORY HD" tvg-logo="" group-title="Live: Germany",DE: HISTORY HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5362.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: HitArena NRW TV HD" tvg-logo="" group-title="Live: Germany",DE: HitArena NRW TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35268.m3u8
+#EXTINF:-1 tvg-ID="hr.de" tvg-name="DE: HR" tvg-logo="[" group-title="Live: Germany",DE: HR
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2567.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Isar-TV Landshut HD" tvg-logo="" group-title="Live: Germany",DE: Isar-TV Landshut HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35269.m3u8
+#EXTINF:-1 tvg-ID="jukebox.de" tvg-name="DE: JUKEBOX" tvg-logo="[" group-title="Live: Germany",DE: JUKEBOX
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5364.m3u8
+#EXTINF:-1 tvg-ID="junior.de" tvg-name="DE: JUNIOR" tvg-logo="" group-title="Live: Germany",DE: JUNIOR
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5367.m3u8
+#EXTINF:-1 tvg-ID="kabeleinsclassic.de" tvg-name="DE: Kabel 1 Classic HD" tvg-logo="[" group-title="Live: Germany",DE: Kabel 1 Classic HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/21660.m3u8
+#EXTINF:-1 tvg-ID="kabeleinsdoku.de" tvg-name="DE: Kabel 1 Docu HD" tvg-logo="" group-title="Live: Germany",DE: Kabel 1 Docu HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7556.m3u8
+#EXTINF:-1 tvg-ID="kabel1.de" tvg-name="DE: Kabel 1 HD" tvg-logo="" group-title="Live: Germany",DE: Kabel 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/131.m3u8
+#EXTINF:-1 tvg-ID="kika.de" tvg-name="DE: KIKA HD" tvg-logo="" group-title="Live: Germany",DE: KIKA HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5355.m3u8
+#EXTINF:-1 tvg-ID="kinowelt.de" tvg-name="DE: KINOWELT HD" tvg-logo="" group-title="Live: Germany",DE: KINOWELT HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5361.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Kronehit TV HD" tvg-logo="" group-title="Live: Germany",DE: Kronehit TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35270.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Leipzig TV FHD" tvg-logo="" group-title="Live: Germany",DE: Leipzig TV FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35271.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Light Channel HD" tvg-logo="" group-title="Live: Germany",DE: Light Channel HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35272.m3u8
+#EXTINF:-1 tvg-ID="mdr.de" tvg-name="DE: MDR HD" tvg-logo="[" group-title="Live: Germany",DE: MDR HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7570.m3u8
+#EXTINF:-1 tvg-ID="motorvision.de" tvg-name="DE: Motorvision TV" tvg-logo="" group-title="Live: Germany",DE: Motorvision TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7582.m3u8
+#EXTINF:-1 tvg-ID="mtvgermany.de" tvg-name="DE: MTV HD" tvg-logo="[" group-title="Live: Germany",DE: MTV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7561.m3u8
+#EXTINF:-1 tvg-ID="munchentv.de" tvg-name="DE: Munchen TV" tvg-logo="" group-title="Live: Germany",DE: Munchen TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12589.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: MusicTop HD" tvg-logo="" group-title="Live: Germany",DE: MusicTop HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35273.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Musik One 2 HD" tvg-logo="" group-title="Live: Germany",DE: Musik One 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35274.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Musik One HD" tvg-logo="" group-title="Live: Germany",DE: Musik One HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35275.m3u8
+#EXTINF:-1 tvg-ID="ntv.de" tvg-name="DE: N-TV HD" tvg-logo="[" group-title="Live: Germany",DE: N-TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5356.m3u8
+#EXTINF:-1 tvg-ID="n24doku.de" tvg-name="DE: N24 Doku" tvg-logo="[" group-title="Live: Germany",DE: N24 Doku
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/26991.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: naheTV HD" tvg-logo="" group-title="Live: Germany",DE: naheTV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35276.m3u8
+#EXTINF:-1 tvg-ID="natgeo.de" tvg-name="DE: Nat GEO HD" tvg-logo="" group-title="Live: Germany",DE: Nat GEO HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1314.m3u8
+#EXTINF:-1 tvg-ID="natgeowild.de" tvg-name="DE: Nat Geo Wild HD" tvg-logo="" group-title="Live: Germany",DE: Nat Geo Wild HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1313.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: NDR Hamburg HD" tvg-logo="" group-title="Live: Germany",DE: NDR Hamburg HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35277.m3u8
+#EXTINF:-1 tvg-ID="ndr.de" tvg-name="DE: Ndr HD" tvg-logo="" group-title="Live: Germany",DE: Ndr HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1348.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: NDR Mecklenburg-Vorpommern HD" tvg-logo="" group-title="Live: Germany",DE: NDR Mecklenburg-Vorpommern HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35278.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: NDR Niedersachsen HD" tvg-logo="" group-title="Live: Germany",DE: NDR Niedersachsen HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35279.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: NDR Schleswig-Holstein HD" tvg-logo="" group-title="Live: Germany",DE: NDR Schleswig-Holstein HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35280.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Nice DEF TV HD" tvg-logo="" group-title="Live: Germany",DE: Nice DEF TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35281.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: TV OBERFRANKEN HD" tvg-logo="" group-title="Live: Germany",DE: TV OBERFRANKEN HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35282.m3u8
+#EXTINF:-1 tvg-ID="nickelodeon.de" tvg-name="DE: Nick/Comedy Central" tvg-logo="" group-title="Live: Germany",DE: Nick/Comedy Central
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7578.m3u8
+#EXTINF:-1 tvg-ID="nickelodeon.de" tvg-name="DE: Nickelodeon HD" tvg-logo="[""]" group-title="Live: Germany",DE: Nickelodeon HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7577.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: noa4 Hamburg HD" tvg-logo="" group-title="Live: Germany",DE: noa4 Hamburg HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35283.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: noa4 Norderstedt HD" tvg-logo="" group-title="Live: Germany",DE: noa4 Norderstedt HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35284.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Nrwision HD" tvg-logo="" group-title="Live: Germany",DE: Nrwision HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35285.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Oberpfalz TV HD" tvg-logo="" group-title="Live: Germany",DE: Oberpfalz TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35286.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Ócko HD" tvg-logo="" group-title="Live: Germany",DE: Ócko HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35287.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Ócko Star HD" tvg-logo="" group-title="Live: Germany",DE: Ócko Star HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35288.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: OE24.TV HD" tvg-logo="" group-title="Live: Germany",DE: OE24.TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35289.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: OKD HD" tvg-logo="" group-title="Live: Germany",DE: OKD HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35290.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: HGTV HD" tvg-logo="" group-title="Live: Germany",DE: HGTV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35291.m3u8
+#EXTINF:-1 tvg-ID="one.de" tvg-name="DE: ONE HD" tvg-logo="[" group-title="Live: Germany",DE: ONE HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12587.m3u8
+#EXTINF:-1 tvg-ID="ORF eins DE" tvg-name="DE: ORF 1 HD" tvg-logo="" group-title="Live: Germany",DE: ORF 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1622.m3u8
+#EXTINF:-1 tvg-ID="ORF 2 DE" tvg-name="DE: ORF 2 HD" tvg-logo="" group-title="Live: Germany",DE: ORF 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1346.m3u8
+#EXTINF:-1 tvg-ID="phoenix.de" tvg-name="DE: Phoenix HD" tvg-logo="[" group-title="Live: Germany",DE: Phoenix HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7558.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Pilatus Beatz TV HD" tvg-logo="" group-title="Live: Germany",DE: Pilatus Beatz TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35292.m3u8
+#EXTINF:-1 tvg-ID="planet.de" tvg-name="DE: Planet HD" tvg-logo="" group-title="Live: Germany",DE: Planet HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2564.m3u8
+#EXTINF:-1 tvg-ID="prosiebenfun.de" tvg-name="DE: PRO 7 FUN HD" tvg-logo="[" group-title="Live: Germany",DE: PRO 7 FUN HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/6094.m3u8
+#EXTINF:-1 tvg-ID="prosiebenmaxx.de" tvg-name="DE: PRO 7 MAXX HD" tvg-logo="" group-title="Live: Germany",DE: PRO 7 MAXX HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1621.m3u8
+#EXTINF:-1 tvg-ID="pro7.de" tvg-name="DE: ProSieben HD" tvg-logo="" group-title="Live: Germany",DE: ProSieben HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/127.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Radio Contact HD" tvg-logo="" group-title="Live: Germany",DE: Radio Contact HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35293.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Regio TV Schwaben FHD" tvg-logo="" group-title="Live: Germany",DE: Regio TV Schwaben FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35294.m3u8
+#EXTINF:-1 tvg-ID="rbb.de" tvg-name="DE: RBB" tvg-logo="" group-title="Live: Germany",DE: RBB
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2562.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Regio TV HD" tvg-logo="" group-title="Live: Germany",DE: Regio TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35295.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Retro Music TV HD" tvg-logo="" group-title="Live: Germany",DE: Retro Music TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35296.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: RFO HD" tvg-logo="" group-title="Live: Germany",DE: RFO HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35297.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: RFH HD" tvg-logo="" group-title="Live: Germany",DE: RFH HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35298.m3u8
+#EXTINF:-1 tvg-ID="romance.de" tvg-name="DE: Romance TV HD" tvg-logo="" group-title="Live: Germany",DE: Romance TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1311.m3u8
+#EXTINF:-1 tvg-ID="rtlcrime.de" tvg-name="DE: RTL Crime HD" tvg-logo="[" group-title="Live: Germany",DE: RTL Crime HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5349.m3u8
+#EXTINF:-1 tvg-ID="rtl.de" tvg-name="DE: RTL HD" tvg-logo="" group-title="Live: Germany",DE: RTL HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/125.m3u8
+#EXTINF:-1 tvg-ID="rtlliving.de" tvg-name="DE: RTL Living HD" tvg-logo="" group-title="Live: Germany",DE: RTL Living HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1309.m3u8
+#EXTINF:-1 tvg-ID="rtlnitro.de" tvg-name="DE: RTL Nitro HD" tvg-logo="" group-title="Live: Germany",DE: RTL Nitro HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/119.m3u8
+#EXTINF:-1 tvg-ID="rtlpassion.de" tvg-name="DE: RTL Passion HD" tvg-logo="" group-title="Live: Germany",DE: RTL Passion HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/117.m3u8
+#EXTINF:-1 tvg-ID="rtlplus.de" tvg-name="DE: RTL UP" tvg-logo="" group-title="Live: Germany",DE: RTL UP
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7554.m3u8
+#EXTINF:-1 tvg-ID="rtl2.de" tvg-name="DE: RTL2 HD" tvg-logo="" group-title="Live: Germany",DE: RTL2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/126.m3u8
+#EXTINF:-1 tvg-ID="sat1emotions.de" tvg-name="DE: SAT 1 Emotions" tvg-logo="" group-title="Live: Germany",DE: SAT 1 Emotions
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7566.m3u8
+#EXTINF:-1 tvg-ID="sat1gold.de" tvg-name="DE: SAT 1 GOLD HD" tvg-logo="" group-title="Live: Germany",DE: SAT 1 GOLD HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5353.m3u8
+#EXTINF:-1 tvg-ID="sat1.de" tvg-name="DE: SAT 1 HD" tvg-logo="" group-title="Live: Germany",DE: SAT 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/128.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Servus TV HD" tvg-logo="" group-title="Live: Germany",DE: Servus TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2563.m3u8
+#EXTINF:-1 tvg-ID="sixx.de" tvg-name="DE: Sixx HD" tvg-logo="[" group-title="Live: Germany",DE: Sixx HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/132.m3u8
+#EXTINF:-1 tvg-ID="sky1.de" tvg-name="DE: SKY 1HD" tvg-logo="" group-title="Live: Germany",DE: SKY 1HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7870.m3u8
+#EXTINF:-1 tvg-ID="skyatlantic.de" tvg-name="DE: Sky Atlantic HD" tvg-logo="[" group-title="Live: Germany",DE: Sky Atlantic HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/112.m3u8
+#EXTINF:-1 tvg-ID="skyatlantic.de" tvg-name="DE: Sky Atlantic +1 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Atlantic +1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7547.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Sky Cinema Fast & Furios FHD" tvg-logo="" group-title="Live: Germany",DE: Sky Cinema Fast & Furios FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35309.m3u8
+#EXTINF:-1 tvg-ID="skyaction.de" tvg-name="DE: Sky Cinema Action HD" tvg-logo="" group-title="Live: Germany",DE: Sky Cinema Action HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/107.m3u8
+#EXTINF:-1 tvg-ID="skycinemaplus24.de" tvg-name="DE: Sky Cinema Premieren+24 FHD" tvg-logo="" group-title="Live: Germany",DE: Sky Cinema Premieren+24 FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7546.m3u8
+#EXTINF:-1 tvg-ID="skycinemaplus1.de" tvg-name="DE: Sky Cinema +1 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Cinema +1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7545.m3u8
+#EXTINF:-1 tvg-ID="skycinema.de" tvg-name="DE: Sky Cinema Premieren HD" tvg-logo="" group-title="Live: Germany",DE: Sky Cinema Premieren HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/106.m3u8
+#EXTINF:-1 tvg-ID="skycomedy.de" tvg-name="DE: Sky Cinema Fun HD" tvg-logo="" group-title="Live: Germany",DE: Sky Cinema Fun HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/108.m3u8
+#EXTINF:-1 tvg-ID="skyfamily.de" tvg-name="DE: Sky Cinema Family HD" tvg-logo="[" group-title="Live: Germany",DE: Sky Cinema Family HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12864.m3u8
+#EXTINF:-1 tvg-ID="skyhits.de" tvg-name="DE: Sky Cinema Best Of HD" tvg-logo="" group-title="Live: Germany",DE: Sky Cinema Best Of HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/111.m3u8
+#EXTINF:-1 tvg-ID="skyemotion.de" tvg-name="DE: Sky Cinema Thriller FHD" tvg-logo="" group-title="Live: Germany",DE: Sky Cinema Thriller FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/109.m3u8
+#EXTINF:-1 tvg-ID="skynostalgie.de" tvg-name="DE: Sky Cinema Classic" tvg-logo="" group-title="Live: Germany",DE: Sky Cinema Classic
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/110.m3u8
+#EXTINF:-1 tvg-ID="skykrimi.de" tvg-name="DE: Sky Krimi FHD" tvg-logo="" group-title="Live: Germany",DE: Sky Krimi FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/114.m3u8
+#EXTINF:-1 tvg-ID="skybundesliga1.de" tvg-name="DE: Sky Sport Bundesliga 1 HD" tvg-logo="[" group-title="Live: Germany",DE: Sky Sport Bundesliga 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/539.m3u8
+#EXTINF:-1 tvg-ID="skybundesliga2.de" tvg-name="DE: Sky Sport Bundesliga 2 HD ( During Games only )" tvg-logo="[" group-title="Live: Germany",DE: Sky Sport Bundesliga 2 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1344.m3u8
+#EXTINF:-1 tvg-ID="skybundesliga3.de" tvg-name="DE: Sky Sport Bundesliga 3 HD ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport Bundesliga 3 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1343.m3u8
+#EXTINF:-1 tvg-ID="skybundesliga4.de" tvg-name="DE: Sky Sport Bundesliga 4 HD ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport Bundesliga 4 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1342.m3u8
+#EXTINF:-1 tvg-ID="skybundesliga5.de" tvg-name="DE: Sky Sport Bundesliga 5 HD ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport Bundesliga 5 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1341.m3u8
+#EXTINF:-1 tvg-ID="skybundesliga6.de" tvg-name="DE: Sky Sport Bundesliga 6 HD ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport Bundesliga 6 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1340.m3u8
+#EXTINF:-1 tvg-ID="skybundesliga7.de" tvg-name="DE: Sky Sport Bundesliga 7 HD ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport Bundesliga 7 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1339.m3u8
+#EXTINF:-1 tvg-ID="skybundesliga8.de" tvg-name="DE: Sky Sport Bundesliga 8 HD ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport Bundesliga 8 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1338.m3u8
+#EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="DE: Sky Sport Bundesliga 9 HD ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport Bundesliga 9 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1337.m3u8
+#EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="DE: Sky Sport Bundesliga 10 HD ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport Bundesliga 10 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1345.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Popcorn Select 1 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Popcorn Select 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/26952.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Popcorn Select 2 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Popcorn Select 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/26951.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Popcorn Select 3 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Popcorn Select 3 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/26950.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Popcorn Select 4 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Popcorn Select 4 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/26949.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Popcorn Select 5 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Popcorn Select 5 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/26948.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Popcorn Select 6 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Popcorn Select 6 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/26947.m3u8
+#EXTINF:-1 tvg-ID="skyselect1.de" tvg-name="DE: Sky Select 1 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Select 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7210.m3u8
+#EXTINF:-1 tvg-ID="skyselect2.de" tvg-name="DE: Sky Select 2 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Select 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/446.m3u8
+#EXTINF:-1 tvg-ID="skyselect3.de" tvg-name="DE: Sky Select 3 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Select 3 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/447.m3u8
+#EXTINF:-1 tvg-ID="skyselect4.de" tvg-name="DE: Sky Select 4 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Select 4 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/448.m3u8
+#EXTINF:-1 tvg-ID="skyselect5.de" tvg-name="DE: Sky Select 5 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Select 5 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/475.m3u8
+#EXTINF:-1 tvg-ID="skyselect6.de" tvg-name="DE: Sky Select 6 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Select 6 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/474.m3u8
+#EXTINF:-1 tvg-ID="skyselect7.de" tvg-name="DE: Sky Select 7 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Select 7 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2568.m3u8
+#EXTINF:-1 tvg-ID="skyselect8.de" tvg-name="DE: Sky Select 8 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Select 8 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2569.m3u8
+#EXTINF:-1 tvg-ID="skysport1.de" tvg-name="DE: Sky Sport 1 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Sport 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/121.m3u8
+#EXTINF:-1 tvg-ID="skysport2.de" tvg-name="DE: Sky Sport 2 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Sport 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/540.m3u8
+#EXTINF:-1 tvg-ID="skysport3.de" tvg-name="DE: Sky Sport 3 HD ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport 3 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7487.m3u8
+#EXTINF:-1 tvg-ID="skysport4.de" tvg-name="DE: Sky Sport 4 HD ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport 4 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1333.m3u8
+#EXTINF:-1 tvg-ID="skysport5.de" tvg-name="DE: Sky Sport 5 HD  ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport 5 HD  ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1332.m3u8
+#EXTINF:-1 tvg-ID="skysport6.de" tvg-name="DE: Sky Sport 6 HD ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport 6 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1331.m3u8
+#EXTINF:-1 tvg-ID="skysport7.de" tvg-name="DE: Sky Sport 7 HD ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport 7 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1330.m3u8
+#EXTINF:-1 tvg-ID="skysport8.de" tvg-name="DE: Sky Sport 8 HD ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport 8 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1329.m3u8
+#EXTINF:-1 tvg-ID="skysport10.de" tvg-name="DE: Sky Sport 9 HD ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport 9 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1328.m3u8
+#EXTINF:-1 tvg-ID="skysport10.de" tvg-name="DE: Sky Sport 10 HD ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport 10 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1335.m3u8
+#EXTINF:-1 tvg-ID="skysport11.de" tvg-name="DE: Sky Sport 11 HD ( During Games only )" tvg-logo="" group-title="Live: Germany",DE: Sky Sport 11 HD ( During Games only )
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1334.m3u8
+#EXTINF:-1 tvg-ID="Sky Sport Austria DE" tvg-name="DE: Sky Sport Austria HD" tvg-logo="" group-title="Live: Germany",DE: Sky Sport Austria HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/122.m3u8
+#EXTINF:-1 tvg-ID="skysportnews.de" tvg-name="DE: Sky Sports News HD" tvg-logo="" group-title="Live: Germany",DE: Sky Sports News HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/120.m3u8
+#EXTINF:-1 tvg-ID="sonnenklar.de" tvg-name="DE: Sonnenklar TV HD" tvg-logo="[" group-title="Live: Germany",DE: Sonnenklar TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12867.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: TV Ingolstadt" tvg-logo="" group-title="Live: Germany",DE: TV Ingolstadt
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35299.m3u8
+#EXTINF:-1 tvg-ID="sonyentertainmenttv.de" tvg-name="DE: Sony HD" tvg-logo="" group-title="Live: Germany",DE: Sony HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/115.m3u8
+#EXTINF:-1 tvg-ID="spiegelgeschichte.de" tvg-name="DE: Spiegel Geschichte HD" tvg-logo="[" group-title="Live: Germany",DE: Spiegel Geschichte HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7552.m3u8
+#EXTINF:-1 tvg-ID="spiegeltvwissen.de" tvg-name="DE: Spiegel TV Wissen HD" tvg-logo="[" group-title="Live: Germany",DE: Spiegel TV Wissen HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5363.m3u8
+#EXTINF:-1 tvg-ID="sport1.de" tvg-name="DE: Sport1 HD" tvg-logo="[" group-title="Live: Germany",DE: Sport1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7583.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Sport1+ HD" tvg-logo="" group-title="Live: Germany",DE: Sport1+ HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35324.m3u8
+#EXTINF:-1 tvg-ID="sportdigital.de" tvg-name="DE: Sportdigital HD" tvg-logo="" group-title="Live: Germany",DE: Sportdigital HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/123.m3u8
+#EXTINF:-1 tvg-ID="sachsenfernsehen.de" tvg-name="DE: Sky Serien & Shows FHD" tvg-logo="[" group-title="Live: Germany",DE: Sky Serien & Shows FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7569.m3u8
+#EXTINF:-1 tvg-ID="superrtl.de" tvg-name="DE: Super RTL HD" tvg-logo="" group-title="Live: Germany",DE: Super RTL HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/130.m3u8
+#EXTINF:-1 tvg-ID="swrsr.de" tvg-name="DE: SWR HD" tvg-logo="" group-title="Live: Germany",DE: SWR HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7568.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: SR HD" tvg-logo="" group-title="Live: Germany",DE: SR HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35300.m3u8
+#EXTINF:-1 tvg-ID="syfy.de" tvg-name="DE: Syfy HD" tvg-logo="" group-title="Live: Germany",DE: Syfy HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/116.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: VOX UP" tvg-logo="" group-title="Live: Germany",DE: VOX UP
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35301.m3u8
+#EXTINF:-1 tvg-ID="tagesschau24.de" tvg-name="DE: Tagesschau 24" tvg-logo="[" group-title="Live: Germany",DE: Tagesschau 24
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12591.m3u8
+#EXTINF:-1 tvg-ID="tele5.de" tvg-name="DE: Tele 5 HD" tvg-logo="" group-title="Live: Germany",DE: Tele 5 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7567.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Tele Regional Passau HD" tvg-logo="" group-title="Live: Germany",DE: Tele Regional Passau HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35302.m3u8
+#EXTINF:-1 tvg-ID="tlc.de" tvg-name="DE: TLC HD" tvg-logo="" group-title="Live: Germany",DE: TLC HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7565.m3u8
+#EXTINF:-1 tvg-ID="tntcomedy.de" tvg-name="DE: TNT Comedy HD" tvg-logo="" group-title="Live: Germany",DE: TNT Comedy HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1617.m3u8
+#EXTINF:-1 tvg-ID="tntfilm.de" tvg-name="DE: TNT Film HD" tvg-logo="" group-title="Live: Germany",DE: TNT Film HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7549.m3u8
+#EXTINF:-1 tvg-ID="tntserie.de" tvg-name="DE: TNT SERIE HD" tvg-logo="" group-title="Live: Germany",DE: TNT SERIE HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5360.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: TOGGO Plus" tvg-logo="" group-title="Live: Germany",DE: TOGGO Plus
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35251.m3u8
+#EXTINF:-1 tvg-ID="goldstartv.de" tvg-name="DE: Toggo Plus HD" tvg-logo="[" group-title="Live: Germany",DE: Toggo Plus HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5354.m3u8
+#EXTINF:-1 tvg-ID="travelchannel.de" tvg-name="DE: QVC HD" tvg-logo="" group-title="Live: Germany",DE: QVC HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12866.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: TV HD DE Würzburg HD" tvg-logo="" group-title="Live: Germany",DE: TV HD DE Würzburg HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35304.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: TV HD DEA  für Ostbayern HD" tvg-logo="" group-title="Live: Germany",DE: TV HD DEA  für Ostbayern HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35305.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: TV HD DEM3 HD" tvg-logo="" group-title="Live: Germany",DE: TV HD DEM3 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35306.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: TV HD Mainfranken Würzburg" tvg-logo="" group-title="Live: Germany",DE: TV HD Mainfranken Würzburg
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35307.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: TV HD Oberfranken" tvg-logo="" group-title="Live: Germany",DE: TV HD Oberfranken
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35308.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: U1 Tirol/ Tiroler Heimat HD" tvg-logo="" group-title="Live: Germany",DE: U1 Tirol/ Tiroler Heimat HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/35310.m3u8
+#EXTINF:-1 tvg-ID="universal.de" tvg-name="DE: Universal HD" tvg-logo="" group-title="Live: Germany",DE: Universal HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7553.m3u8
+#EXTINF:-1 tvg-ID="vox.de" tvg-name="DE: VOX HD" tvg-logo="" group-title="Live: Germany",DE: VOX HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/129.m3u8
+#EXTINF:-1 tvg-ID="wdr.de" tvg-name="DE: WDR" tvg-logo="" group-title="Live: Germany",DE: WDR
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2390.m3u8
+#EXTINF:-1 tvg-ID="weltderwunder.de" tvg-name="DE: Welt der Wunder" tvg-logo="[" group-title="Live: Germany",DE: Welt der Wunder
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12592.m3u8
+#EXTINF:-1 tvg-ID="welt.de" tvg-name="DE: WELT HD" tvg-logo="" group-title="Live: Germany",DE: WELT HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/133.m3u8
+#EXTINF:-1 tvg-ID="zdf.de" tvg-name="DE: ZDF HD" tvg-logo="" group-title="Live: Germany",DE: ZDF HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/655.m3u8
+#EXTINF:-1 tvg-ID="zdfinfo.de" tvg-name="DE: ZDF Info HD" tvg-logo="" group-title="Live: Germany",DE: ZDF Info HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1327.m3u8
+#EXTINF:-1 tvg-ID="zdfneo.de" tvg-name="DE: ZDF neo" tvg-logo="" group-title="Live: Germany",DE: ZDF neo
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1326.m3u8
+#EXTINF:-1 tvg-ID="zdfneo.de" tvg-name="DE: ZDF NEO HD" tvg-logo="" group-title="Live: Germany",DE: ZDF NEO HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7572.m3u8
+#EXTINF:-1 tvg-ID="zeeone.de" tvg-name="DE: Zee One HD" tvg-logo="" group-title="Live: Germany",DE: Zee One HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5357.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="===== Austria =====" tvg-logo="" group-title="",===== Austria =====
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9184.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ATV HD" tvg-logo="" group-title="Live: Austria",AT: ATV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9187.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ATV 2" tvg-logo="" group-title="Live: Austria",AT: ATV 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9186.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF1 HD" tvg-logo="" group-title="Live: Austria",AT: ORF1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9190.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 HD" tvg-logo="" group-title="Live: Austria",AT: ORF2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9189.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 B" tvg-logo="" group-title="Live: Austria",AT: ORF2 B
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/41492.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 K" tvg-logo="" group-title="Live: Austria",AT: ORF2 K
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/41493.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 N" tvg-logo="" group-title="Live: Austria",AT: ORF2 N
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/41494.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 O" tvg-logo="" group-title="Live: Austria",AT: ORF2 O
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/41495.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 S" tvg-logo="" group-title="Live: Austria",AT: ORF2 S
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/41496.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 St" tvg-logo="" group-title="Live: Austria",AT: ORF2 St
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/41497.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 T" tvg-logo="" group-title="Live: Austria",AT: ORF2 T
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/41498.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 V" tvg-logo="" group-title="Live: Austria",AT: ORF2 V
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/41499.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF2 W" tvg-logo="" group-title="Live: Austria",AT: ORF2 W
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/41500.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF3 HD" tvg-logo="" group-title="Live: Austria",AT: ORF3 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9188.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ORF Sports HD" tvg-logo="" group-title="Live: Austria",AT: ORF Sports HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/19182.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: PULS 4 Austria" tvg-logo="" group-title="Live: Austria",AT: PULS 4 Austria
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/9185.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: Dorf TV" tvg-logo="" group-title="Live: Austria",AT: Dorf TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/25795.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: Melodie TV NEU" tvg-logo="" group-title="Live: Austria",AT: Melodie TV NEU
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/25796.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: R9" tvg-logo="" group-title="Live: Austria",AT: R9
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/25797.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: Puls 24 HD" tvg-logo="" group-title="Live: Austria",AT: Puls 24 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/25798.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: OE24" tvg-logo="" group-title="Live: Austria",AT: OE24
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/25799.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: AUSTRIA 24 Wien" tvg-logo="" group-title="Live: Austria",AT: AUSTRIA 24 Wien
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/25800.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: ServusTV HD" tvg-logo="" group-title="Live: Austria",AT: ServusTV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/25801.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: KroneHit TV" tvg-logo="" group-title="Live: Austria",AT: KroneHit TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/25802.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AT: GOTV HD" tvg-logo="" group-title="Live: Austria",AT: GOTV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/25803.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== Albanie =====" tvg-logo="" group-title="",===== Albanie =====
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2506.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTK 1FHD" tvg-logo="" group-title="Live: Albania",AL: RTK 1FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/50988.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTK 1" tvg-logo="[" group-title="Live: Albania",AL: RTK 1
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7919.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: RTK 2" tvg-logo="" group-title="Live: Albania",AL: RTK 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7920.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTK 3" tvg-logo="" group-title="Live: Albania",AL: RTK 3
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7921.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTK 4" tvg-logo="" group-title="Live: Albania",AL: RTK 4
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7922.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTSH 1 HD" tvg-logo="[" group-title="Live: Albania",AL: RTSH 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29894.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTSH 2 HD" tvg-logo="[" group-title="Live: Albania",AL: RTSH 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29893.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTSH 3 HD" tvg-logo="[" group-title="Live: Albania",AL: RTSH 3 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29892.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTV 21" tvg-logo="" group-title="Live: Albania",AL: RTV 21
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1076.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: RTV 21 Maqedoni" tvg-logo="" group-title="Live: Albania",AL: RTV 21 Maqedoni
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2146.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTV 21 Junior" tvg-logo="[" group-title="Live: Albania",AL: RTV 21 Junior
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29846.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTV 21 Popullore" tvg-logo="" group-title="Live: Albania",AL: RTV 21 Popullore
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1083.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTV 21 NewBiz" tvg-logo="[" group-title="Live: Albania",AL: RTV 21 NewBiz
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29899.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTV 21 Plus FHD" tvg-logo="[" group-title="Live: Albania",AL: RTV 21 Plus FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29862.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Klan HD" tvg-logo="" group-title="Live: Albania",AL: Klan HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/15661.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Klan Kosova" tvg-logo="" group-title="Live: Albania",AL: Klan Kosova
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1078.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KLAN PLUS HD" tvg-logo="[""]" group-title="Live: Albania",AL: KLAN PLUS HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29897.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: KTV" tvg-logo="" group-title="Live: Albania",AL: KTV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1077.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: KTV Toksor" tvg-logo="[" group-title="Live: Albania",AL: KTV Toksor
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29898.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: TOP Channel HD" tvg-logo="" group-title="Live: Albania",AL: TOP Channel HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1050.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Alsat M" tvg-logo="" group-title="Live: Albania",AL: Alsat M
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1082.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Islam Channel 1 HD" tvg-logo="" group-title="Live: Albania",AL: Islam Channel 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/42921.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Islam Channel 2 HD" tvg-logo="" group-title="Live: Albania",AL: Islam Channel 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/42922.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Islam Channel 3 HD" tvg-logo="" group-title="Live: Albania",AL: Islam Channel 3 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/42923.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Islam Channel Femije HD" tvg-logo="" group-title="Live: Albania",AL: Islam Channel Femije HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/42925.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Islam Channel Quran HD" tvg-logo="" group-title="Live: Albania",AL: Islam Channel Quran HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/42924.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: TDC HD" tvg-logo="" group-title="Live: Albania",AL: TDC HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29827.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film Box Arthouse" tvg-logo="" group-title="Live: Albania",AL: Film Box Arthouse
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29825.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film Box Extra" tvg-logo="" group-title="Live: Albania",AL: Film Box Extra
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29824.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film Box Plus" tvg-logo="" group-title="Live: Albania",AL: Film Box Plus
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29823.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film Box Premium" tvg-logo="" group-title="Live: Albania",AL: Film Box Premium
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29826.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film Drama" tvg-logo="" group-title="Live: Albania",AL: Film Drama
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/240.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film Dy HD" tvg-logo="[" group-title="Live: Albania",AL: Film Dy HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/239.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Kanal D Drama FHD" tvg-logo="" group-title="Live: Albania",AL: Kanal D Drama FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1143.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film GOLD 1" tvg-logo="[" group-title="Live: Albania",AL: Film GOLD 1
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2151.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film GOLD 2" tvg-logo="[" group-title="Live: Albania",AL: Film GOLD 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2150.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film GOLD 3" tvg-logo="[" group-title="Live: Albania",AL: Film GOLD 3
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2149.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film GOLD 4" tvg-logo="[" group-title="Live: Albania",AL: Film GOLD 4
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2148.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film Hits HD" tvg-logo="[" group-title="Live: Albania",AL: Film Hits HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/238.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film Hits  1" tvg-logo="" group-title="Live: Albania",AL: Film Hits  1
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2158.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film Komedi" tvg-logo="" group-title="Live: Albania",AL: Film Komedi
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/237.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film NjE HD" tvg-logo="" group-title="Live: Albania",AL: Film NjE HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/236.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film Thriller" tvg-logo="" group-title="Live: Albania",AL: Film Thriller
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/234.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Explore Histori" tvg-logo="[" group-title="Live: Albania",AL: Explore Histori
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/245.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Explore Natyra" tvg-logo="[" group-title="Live: Albania",AL: Explore Natyra
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/244.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Explore Shknece" tvg-logo="" group-title="Live: Albania",AL: Explore Shknece
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/243.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: First Kosova" tvg-logo="[""]" group-title="Live: Albania",AL: First Kosova
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2147.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring 3+" tvg-logo="" group-title="Live: Albania",AL: Tring 3+
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1052.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Comedy" tvg-logo="" group-title="Live: Albania",AL: Tring Comedy
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/219.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Fantasy" tvg-logo="" group-title="Live: Albania",AL: Tring Fantasy
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/218.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Action" tvg-logo="" group-title="Live: Albania",AL: Tring Action
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29833.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Histori" tvg-logo="" group-title="Live: Albania",AL: Tring Histori
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2157.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring International" tvg-logo="" group-title="Live: Albania",AL: Tring International
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29832.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Kids" tvg-logo="[" group-title="Live: Albania",AL: Tring Kids
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29851.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Life" tvg-logo="" group-title="Live: Albania",AL: Tring Life
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/217.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Max" tvg-logo="" group-title="Live: Albania",AL: Tring Max
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/216.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Muse" tvg-logo="[" group-title="Live: Albania",AL: Tring Muse
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2117.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Planet" tvg-logo="[" group-title="Live: Albania",AL: Tring Planet
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/215.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Shqip" tvg-logo="" group-title="Live: Albania",AL: Tring Shqip
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/214.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film Aksion" tvg-logo="" group-title="Live: Albania",AL: Film Aksion
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/242.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Film Autor" tvg-logo="" group-title="Live: Albania",AL: Film Autor
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/241.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: 21 Plus" tvg-logo="" group-title="Live: Albania",AL: 21 Plus
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2138.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: 24 Kitchen" tvg-logo="[""]" group-title="Live: Albania",AL: 24 Kitchen
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29792.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: 360 Tune Box" tvg-logo="[" group-title="Live: Albania",AL: 360 Tune Box
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29820.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: ABC News" tvg-logo="[""]" group-title="Live: Albania",AL: ABC News
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/26563.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: ASHK TV 2" tvg-logo="" group-title="Live: Albania",AL: ASHK TV 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7929.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: A TV HD" tvg-logo="" group-title="Live: Albania",AL: A TV HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7923.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: ASHK TV 3" tvg-logo="" group-title="Live: Albania",AL: ASHK TV 3
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7928.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Alb-Swiss HD" tvg-logo="" group-title="Live: Albania",AL: Alb-Swiss HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/54593.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Alb Humor 1 HD" tvg-logo="" group-title="Live: Albania",AL: Alb Humor 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7927.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Alb Thriller HD" tvg-logo="" group-title="Live: Albania",AL: Alb Thriller HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7926.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Syri Vision" tvg-logo="" group-title="Live: Albania",AL: Syri Vision
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7925.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTSH Film" tvg-logo="" group-title="Live: Albania",AL: RTSH Film
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7924.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Alb Tv Hits" tvg-logo="[""]" group-title="Live: Albania",AL: Alb Tv Hits
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2136.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: ASHK TV 1" tvg-logo="" group-title="Live: Albania",AL: ASHK TV 1
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7930.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Animal Planet" tvg-logo="[""]" group-title="Live: Albania",AL: Animal Planet
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29793.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Antena TV Shkoder" tvg-logo="[" group-title="Live: Albania",AL: Antena TV Shkoder
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29895.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: BabyTV" tvg-logo="[" group-title="Live: Albania",AL: BabyTV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29844.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Bang Bang" tvg-logo="" group-title="Live: Albania",AL: Bang Bang
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1081.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: BBF" tvg-logo="" group-title="Live: Albania",AL: BBF
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2135.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: BBF Muzik" tvg-logo="" group-title="Live: Albania",AL: BBF Muzik
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2152.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Boomerang" tvg-logo="[" group-title="Live: Albania",AL: Boomerang
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29843.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Channel One" tvg-logo="" group-title="Live: Albania",AL: Channel One
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2134.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: City Tv" tvg-logo="[" group-title="Live: Albania",AL: City Tv
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2133.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Cufo" tvg-logo="" group-title="Live: Albania",AL: Cufo
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2160.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Dasma" tvg-logo="[""]" group-title="Live: Albania",AL: Dasma
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2159.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Dasma TV" tvg-logo="[" group-title="Live: Albania",AL: Dasma TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29870.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Diaspora TV" tvg-logo="[" group-title="Live: Albania",AL: Diaspora TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29869.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Dielli TV" tvg-logo="[" group-title="Live: Albania",AL: Dielli TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/21190.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Doku Box" tvg-logo="[""]" group-title="Live: Albania",AL: Doku Box
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29817.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Dukagjini HD" tvg-logo="[" group-title="Live: Albania",AL: Dukagjini HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/21189.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Euro Film" tvg-logo="[" group-title="Live: Albania",AL: Euro Film
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/20978.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Family HD" tvg-logo="[" group-title="Live: Albania",AL: Family HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29818.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Fax News" tvg-logo="[" group-title="Live: Albania",AL: Fax News
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/26566.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Fight Box" tvg-logo="[" group-title="Live: Albania",AL: Fight Box
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29821.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Folk" tvg-logo="" group-title="Live: Albania",AL: Folk
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1080.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Folk Plus" tvg-logo="[""]" group-title="Live: Albania",AL: Folk Plus
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2131.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Fox HD" tvg-logo="[""]" group-title="Live: Albania",AL: Fox HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/21702.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Fox Crime HD" tvg-logo="[""]" group-title="Live: Albania",AL: Fox Crime HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/21701.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Fox Life HD" tvg-logo="[""]" group-title="Live: Albania",AL: Fox Life HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/21703.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Fox Movies" tvg-logo="[""]" group-title="Live: Albania",AL: Fox Movies
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2120.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Game Toon" tvg-logo="" group-title="Live: Albania",AL: Game Toon
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29822.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: HBO" tvg-logo="[""]" group-title="Live: Albania",AL: HBO
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/21688.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: HBO 2" tvg-logo="[""]" group-title="Live: Albania",AL: HBO 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/21687.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: HBO 3" tvg-logo="[""]" group-title="Live: Albania",AL: HBO 3
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/21686.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Joly HD" tvg-logo="" group-title="Live: Albania",AL: Joly HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2129.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Istogu TV" tvg-logo="[" group-title="Live: Albania",AL: Istogu TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2143.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Junior TV" tvg-logo="[""]" group-title="Live: Albania",AL: Junior TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1079.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Kanal 10 FHD" tvg-logo="" group-title="Live: Albania",AL: Kanal 10 FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/53673.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Kanali 7 News" tvg-logo="[""]" group-title="Live: Albania",AL: Kanali 7 News
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/26565.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KOS Humor 1" tvg-logo="" group-title="Live: Albania",AL: KOS Humor 1
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29840.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Living HD" tvg-logo="[" group-title="Live: Albania",AL: Living HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29791.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: MTV KOSOVA" tvg-logo="[" group-title="Live: Albania",AL: MTV KOSOVA
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29864.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: My Music" tvg-logo="[""]" group-title="Live: Albania",AL: My Music
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2107.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: National Geographic" tvg-logo="[""]" group-title="Live: Albania",AL: National Geographic
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2119.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: News 24 HD" tvg-logo="[""]" group-title="Live: Albania",AL: News 24 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/26562.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: ON TV" tvg-logo="[""]" group-title="Live: Albania",AL: ON TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29863.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Ora News HD" tvg-logo="" group-title="Live: Albania",AL: Ora News HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2106.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Peace Tv" tvg-logo="[" group-title="Live: Albania",AL: Peace Tv
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2105.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Plus HD" tvg-logo="" group-title="Live: Albania",AL: Plus HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2104.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Report TV" tvg-logo="" group-title="Live: Albania",AL: Report TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/26567.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RED TV" tvg-logo="" group-title="Live: Albania",AL: RED TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/28943.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Rrokum HD" tvg-logo="[" group-title="Live: Albania",AL: Rrokum HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29896.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTSH 24 HD" tvg-logo="[" group-title="Live: Albania",AL: RTSH 24 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29890.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTSH Femije" tvg-logo="[" group-title="Live: Albania",AL: RTSH Femije
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29850.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTSH GJIROKASTRA" tvg-logo="[" group-title="Live: Albania",AL: RTSH GJIROKASTRA
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29889.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTSH KORÇA" tvg-logo="[" group-title="Live: Albania",AL: RTSH KORÇA
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29888.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTSH KUVEND" tvg-logo="[" group-title="Live: Albania",AL: RTSH KUVEND
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29887.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Rtsh Muzike" tvg-logo="[""]" group-title="Live: Albania",AL: Rtsh Muzike
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2103.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTSH SAT HD" tvg-logo="[" group-title="Live: Albania",AL: RTSH SAT HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29886.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTSH SHQIP" tvg-logo="[" group-title="Live: Albania",AL: RTSH SHQIP
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29891.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Rtsh Sport" tvg-logo="" group-title="Live: Albania",AL: Rtsh Sport
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2102.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTV ALDI" tvg-logo="[" group-title="Live: Albania",AL: RTV ALDI
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29878.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTV Pendimi" tvg-logo="" group-title="Live: Albania",AL: RTV Pendimi
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29861.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTV ILERIDA" tvg-logo="[" group-title="Live: Albania",AL: RTV ILERIDA
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29877.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTV Fontana" tvg-logo="" group-title="Live: Albania",AL: RTV Fontana
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/34833.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: RTV 21 MK" tvg-logo="[" group-title="Live: Albania",AL: RTV 21 MK
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29860.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Super Folk" tvg-logo="[""]" group-title="Live: Albania",AL: Super Folk
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2142.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: SKY AKSION" tvg-logo="" group-title="Live: Albania",AL: SKY AKSION
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3582.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: SKY COMEDY" tvg-logo="[""]" group-title="Live: Albania",AL: SKY COMEDY
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3581.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: SKY DRAMA" tvg-logo="" group-title="Live: Albania",AL: SKY DRAMA
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3578.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: SKY HISTORY" tvg-logo="" group-title="Live: Albania",AL: SKY HISTORY
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3580.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: SKY MAX" tvg-logo="" group-title="Live: Albania",AL: SKY MAX
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3579.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: SKY PLANET" tvg-logo="[" group-title="Live: Albania",AL: SKY PLANET
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3577.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: SKY Novela" tvg-logo="" group-title="Live: Albania",AL: SKY Novela
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/3576.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Smile" tvg-logo="" group-title="Live: Albania",AL: Smile
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1075.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Star+ Shkodra" tvg-logo="[" group-title="Live: Albania",AL: Star+ Shkodra
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2124.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Sofia HD" tvg-logo="[" group-title="Live: Albania",AL: Sofia HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29848.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Stupcat HD" tvg-logo="[""]" group-title="Live: Albania",AL: Stupcat HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/20960.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Sport Kosova News HD" tvg-logo="[" group-title="Live: Albania",AL: Sport Kosova News HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/19812.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Sport Kosova 1 HD" tvg-logo="[" group-title="Live: Albania",AL: Sport Kosova 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/226.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Sport Kosova 2 HD" tvg-logo="" group-title="Live: Albania",AL: Sport Kosova 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/225.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport News HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport News HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/224.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 2 HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/223.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 3 HD" tvg-logo="[" group-title="Live: Albania",AL: Super Sport 3 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/222.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 4 HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport 4 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/221.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 5 HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport 5 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/19809.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 6 HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport 6 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/19810.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 7 HD" tvg-logo="[" group-title="Live: Albania",AL: Super Sport 7 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29797.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Sport News HD" tvg-logo="" group-title="Live: Albania",AL: Tring Sport News HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/212.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Sport 1 HD" tvg-logo="" group-title="Live: Albania",AL: Tring Sport 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/213.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Sport 1" tvg-logo="" group-title="Live: Albania",AL: Tring Sport 1
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2156.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport 2" tvg-logo="" group-title="Live: Albania",AL: Tring Sport 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2155.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Sport 3" tvg-logo="" group-title="Live: Albania",AL: Tring Sport 3
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2154.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Sport 4" tvg-logo="" group-title="Live: Albania",AL: Tring Sport 4
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2153.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Super" tvg-logo="" group-title="Live: Albania",AL: Tring Super
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/211.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Tring" tvg-logo="" group-title="Live: Albania",AL: Tring Tring
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/210.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: K Sport 1" tvg-logo="[" group-title="Live: Albania",AL: K Sport 1
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2115.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: K Sport 2" tvg-logo="[" group-title="Live: Albania",AL: K Sport 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2114.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: K Sport 3" tvg-logo="" group-title="Live: Albania",AL: K Sport 3
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2113.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: K Sport 4" tvg-logo="" group-title="Live: Albania",AL: K Sport 4
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2112.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: K Sport 5" tvg-logo="[" group-title="Live: Albania",AL: K Sport 5
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29798.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Eurosport 1 HD" tvg-logo="" group-title="Live: Albania",AL: Eurosport 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2116.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Eurosport 2" tvg-logo="[" group-title="Live: Albania",AL: Eurosport 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29796.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring World" tvg-logo="" group-title="Live: Albania",AL: Tring World
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/209.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Supersonic" tvg-logo="[" group-title="Live: Albania",AL: Supersonic
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2118.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: T HD" tvg-logo="" group-title="Live: Albania",AL: T HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1074.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: T7 HD" tvg-logo="[" group-title="Live: Albania",AL: T7 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/26629.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tip TV" tvg-logo="[" group-title="Live: Albania",AL: Tip TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29847.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tirana TV" tvg-logo="[" group-title="Live: Albania",AL: Tirana TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29859.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: TNT Albania" tvg-logo="[" group-title="Live: Albania",AL: TNT Albania
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29858.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: TOP Estrada" tvg-logo="[" group-title="Live: Albania",AL: TOP Estrada
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29868.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Top News HD" tvg-logo="[""]" group-title="Live: Albania",AL: Top News HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/26561.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: TURBO Channel" tvg-logo="[" group-title="Live: Albania",AL: TURBO Channel
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29857.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: TV Dibra" tvg-logo="[""]" group-title="Live: Albania",AL: TV Dibra
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29873.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tv Koha" tvg-logo="[""]" group-title="Live: Albania",AL: Tv Koha
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2141.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: TV Kopliku HD" tvg-logo="[" group-title="Live: Albania",AL: TV Kopliku HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29885.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: TV Uksana" tvg-logo="" group-title="Live: Albania",AL: TV Uksana
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29879.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: TV Vali" tvg-logo="[" group-title="Live: Albania",AL: TV Vali
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29875.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: TVSH" tvg-logo="" group-title="Live: Albania",AL: TVSH
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2139.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: UTV" tvg-logo="[""]" group-title="Live: Albania",AL: UTV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29872.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Vizion Plus HD" tvg-logo="[""]" group-title="Live: Albania",AL: Vizion Plus HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1051.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: VIZIONI TV" tvg-logo="[" group-title="Live: Albania",AL: VIZIONI TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29855.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: ZJARR TV" tvg-logo="[" group-title="Live: Albania",AL: ZJARR TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/29854.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Episode TV" tvg-logo="" group-title="Live: Albania",AL: Episode TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/28944.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tema TV" tvg-logo="" group-title="Live: Albania",AL: Tema TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/36015.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL: TV Mitrovica" tvg-logo="" group-title="Live: Albania",AL: TV Mitrovica
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/41953.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: TV Liria" tvg-logo="" group-title="Live: Albania",AL: TV Liria
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/36014.m3u8
+#EXTINF:-1 tvg-ID="htv1.hr" tvg-name="CRO: HRT 1" tvg-logo="[" group-title="Live: Hrvatska",CRO: HRT 1
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1033.m3u8
+#EXTINF:-1 tvg-ID="htv1.hr" tvg-name="CRO: HRT 1 FHD" tvg-logo="[" group-title="Live: Hrvatska",CRO: HRT 1 FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23715.m3u8
+#EXTINF:-1 tvg-ID="htv2.hr" tvg-name="CRO: HRT 2" tvg-logo="[" group-title="Live: Hrvatska",CRO: HRT 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1034.m3u8
+#EXTINF:-1 tvg-ID="htv2.hr" tvg-name="CRO: HRT 2 FHD" tvg-logo="[" group-title="Live: Hrvatska",CRO: HRT 2 FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23714.m3u8
+#EXTINF:-1 tvg-ID="htv3.hr" tvg-name="CRO: HRT 3" tvg-logo="" group-title="Live: Hrvatska",CRO: HRT 3
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1035.m3u8
+#EXTINF:-1 tvg-ID="htv3.hr" tvg-name="CRO: HRT 3 FHD" tvg-logo="[" group-title="Live: Hrvatska",CRO: HRT 3 FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23713.m3u8
+#EXTINF:-1 tvg-ID="htv4.hr" tvg-name="CRO: HRT 4" tvg-logo="" group-title="Live: Hrvatska",CRO: HRT 4
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1036.m3u8
+#EXTINF:-1 tvg-ID="htv4.hr" tvg-name="CRO: HRT 4 FHD" tvg-logo="[" group-title="Live: Hrvatska",CRO: HRT 4 FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23712.m3u8
+#EXTINF:-1 tvg-ID="htvinternational.hr" tvg-name="CRO: HRT Int" tvg-logo="[" group-title="Live: Hrvatska",CRO: HRT Int
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/20422.m3u8
+#EXTINF:-1 tvg-ID="novahd.hr" tvg-name="CRO: NOVA HD" tvg-logo="http://deltaexch.ml:8000/PachaManServer/MchXdLLaBg/47" group-title="Live: Hrvatska",CRO: NOVA HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2482.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: Nova World HD" tvg-logo="" group-title="Live: Hrvatska",CRO: Nova World HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/91017.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: Nova Cinema HD" tvg-logo="" group-title="Live: Hrvatska",CRO: Nova Cinema HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/91015.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: Nova Family HD" tvg-logo="" group-title="Live: Hrvatska",CRO: Nova Family HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/91016.m3u8
+#EXTINF:-1 tvg-ID="prvaplus.rs" tvg-name="CRO: PRVA PLUS" tvg-logo="" group-title="Live: Hrvatska",CRO: PRVA PLUS
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2495.m3u8
+#EXTINF:-1 tvg-ID="prva.rs" tvg-name="CRO: PRVA TV" tvg-logo="" group-title="Live: Hrvatska",CRO: PRVA TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2481.m3u8
+#EXTINF:-1 tvg-ID="rtl.hr" tvg-name="CRO: RTL HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: RTL HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2480.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: RTL" tvg-logo="" group-title="Live: Hrvatska",CRO: RTL
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/52368.m3u8
+#EXTINF:-1 tvg-ID="rtl2.hr" tvg-name="CRO: RTL 2" tvg-logo="" group-title="Live: Hrvatska",CRO: RTL 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2479.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: RTL ADRIA" tvg-logo="" group-title="Live: Hrvatska",CRO: RTL ADRIA
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/42965.m3u8
+#EXTINF:-1 tvg-ID="rtlcrime.hr" tvg-name="CRO: RTL CRIME" tvg-logo="[" group-title="Live: Hrvatska",CRO: RTL CRIME
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2478.m3u8
+#EXTINF:-1 tvg-ID="rtlliving.hr" tvg-name="CRO: RTL LIVING" tvg-logo="[" group-title="Live: Hrvatska",CRO: RTL LIVING
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2477.m3u8
+#EXTINF:-1 tvg-ID="rtlpassion.hr" tvg-name="CRO: RTL PASSION" tvg-logo="[" group-title="Live: Hrvatska",CRO: RTL PASSION
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/13596.m3u8
+#EXTINF:-1 tvg-ID="babytv.rs" tvg-name="CRO: Baby TV" tvg-logo="[" group-title="Live: Hrvatska",CRO: Baby TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23672.m3u8
+#EXTINF:-1 tvg-ID="nickelodeon.hr" tvg-name="CRO: Nickelodeon" tvg-logo="[" group-title="Live: Hrvatska",CRO: Nickelodeon
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23673.m3u8
+#EXTINF:-1 tvg-ID="nationalgeographic.hr" tvg-name="CRO: National Geographic" tvg-logo="[" group-title="Live: Hrvatska",CRO: National Geographic
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23658.m3u8
+#EXTINF:-1 tvg-ID="nickjr.hr" tvg-name="CRO: Nick Jr" tvg-logo="[" group-title="Live: Hrvatska",CRO: Nick Jr
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23674.m3u8
+#EXTINF:-1 tvg-ID="minitv.hr" tvg-name="CRO: Mini TV" tvg-logo="[" group-title="Live: Hrvatska",CRO: Mini TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23671.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: M1 Film" tvg-logo="" group-title="Live: Hrvatska",CRO: M1 Film
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23693.m3u8
+#EXTINF:-1 tvg-ID="cbsreality.hr" tvg-name="CRO: CBS Reality" tvg-logo="[" group-title="Live: Hrvatska",CRO: CBS Reality
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23662.m3u8
+#EXTINF:-1 tvg-ID="cinemax.hr" tvg-name="CRO: CINEMAX" tvg-logo="[" group-title="Live: Hrvatska",CRO: CINEMAX
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2490.m3u8
+#EXTINF:-1 tvg-ID="cinemax2.hr" tvg-name="CRO: CINEMAX 2" tvg-logo="" group-title="Live: Hrvatska",CRO: CINEMAX 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2489.m3u8
+#EXTINF:-1 tvg-ID="cinestarpremiere1.hr" tvg-name="CRO: CINESTAR PREMIERE 1" tvg-logo="[" group-title="Live: Hrvatska",CRO: CINESTAR PREMIERE 1
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2488.m3u8
+#EXTINF:-1 tvg-ID="cinestarpremiere2.hr" tvg-name="CRO: CINESTAR PREMIERE 2" tvg-logo="[" group-title="Live: Hrvatska",CRO: CINESTAR PREMIERE 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2487.m3u8
+#EXTINF:-1 tvg-ID="cinestartv.hr" tvg-name="CRO: CINESTAR TV" tvg-logo="[" group-title="Live: Hrvatska",CRO: CINESTAR TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2486.m3u8
+#EXTINF:-1 tvg-ID="cinestaractionandthriller.hr" tvg-name="CRO: CINESTAR TV ACTION" tvg-logo="[" group-title="Live: Hrvatska",CRO: CINESTAR TV ACTION
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2485.m3u8
+#EXTINF:-1 tvg-ID="cinestarfantasy.rs" tvg-name="CRO: CINESTAR TV Fantasy HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: CINESTAR TV Fantasy HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23677.m3u8
+#EXTINF:-1 tvg-ID="filmboxextrahd.hr" tvg-name="CRO: FILMBOX EXTRA" tvg-logo="[" group-title="Live: Hrvatska",CRO: FILMBOX EXTRA
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/13598.m3u8
+#EXTINF:-1 tvg-ID="filmboxplus.hr" tvg-name="CRO: FILMBOX PLUS" tvg-logo="" group-title="Live: Hrvatska",CRO: FILMBOX PLUS
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/13599.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: Filmovi 1" tvg-logo="" group-title="Live: Hrvatska",CRO: Filmovi 1
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23689.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: Filmovi 2" tvg-logo="" group-title="Live: Hrvatska",CRO: Filmovi 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23688.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: Prigorska TV" tvg-logo="" group-title="Live: Hrvatska",CRO: Prigorska TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23687.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: Filmovi 4" tvg-logo="" group-title="Live: Hrvatska",CRO: Filmovi 4
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23686.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: CINESTAR TV 2" tvg-logo="" group-title="Live: Hrvatska",CRO: CINESTAR TV 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23676.m3u8
+#EXTINF:-1 tvg-ID="croatianmusicchannel.hr" tvg-name="CRO: CMC" tvg-logo="" group-title="Live: Hrvatska",CRO: CMC
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2484.m3u8
+#EXTINF:-1 tvg-ID="comedycentralextra.hr" tvg-name="CRO: Comedy Central Extra" tvg-logo="" group-title="Live: Hrvatska",CRO: Comedy Central Extra
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23675.m3u8
+#EXTINF:-1 tvg-ID="crimeandinvestigation.rs" tvg-name="CRO: Crime & Investigation" tvg-logo="[" group-title="Live: Hrvatska",CRO: Crime & Investigation
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23663.m3u8
+#EXTINF:-1 tvg-ID="discovery.hr" tvg-name="CRO: Discovery Channel" tvg-logo="" group-title="Live: Hrvatska",CRO: Discovery Channel
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23667.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: Discovery ID" tvg-logo="[""]" group-title="Live: Hrvatska",CRO: Discovery ID
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23666.m3u8
+#EXTINF:-1 tvg-ID="discoveryidxtra.rs" tvg-name="CRO: Discovery ID Xtra HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: Discovery ID Xtra HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23664.m3u8
+#EXTINF:-1 tvg-ID="discoveryscience.hr" tvg-name="CRO: Discovery Science HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: Discovery Science HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23665.m3u8
+#EXTINF:-1 tvg-ID="diva.hr" tvg-name="CRO: Diva" tvg-logo="[" group-title="Live: Hrvatska",CRO: Diva
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/13594.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: DocuBox" tvg-logo="" group-title="Live: Hrvatska",CRO: DocuBox
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23690.m3u8
+#EXTINF:-1 tvg-ID="domatv.hr" tvg-name="CRO: Doma TV" tvg-logo="" group-title="Live: Hrvatska",CRO: Doma TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/13595.m3u8
+#EXTINF:-1 tvg-ID="E!" tvg-name="CRO: E!" tvg-logo="[" group-title="Live: Hrvatska",CRO: E!
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23670.m3u8
+#EXTINF:-1 tvg-ID="fox.hr" tvg-name="CRO: FOX" tvg-logo="[" group-title="Live: Hrvatska",CRO: FOX
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2496.m3u8
+#EXTINF:-1 tvg-ID="foxcrime.hr" tvg-name="CRO: Fox Crime" tvg-logo="[" group-title="Live: Hrvatska",CRO: Fox Crime
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23681.m3u8
+#EXTINF:-1 tvg-ID="foxlife.hr" tvg-name="CRO: Fox Life" tvg-logo="[" group-title="Live: Hrvatska",CRO: Fox Life
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23680.m3u8
+#EXTINF:-1 tvg-ID="filmboxextrahd.hr" tvg-name="CRO: FOX MOVIES" tvg-logo="[" group-title="Live: Hrvatska",CRO: FOX MOVIES
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2483.m3u8
+#EXTINF:-1 tvg-ID="hbo.hr" tvg-name="CRO: HBO ADRIA HD" tvg-logo="" group-title="Live: Hrvatska",CRO: HBO ADRIA HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2491.m3u8
+#EXTINF:-1 tvg-ID="hbo2.hr" tvg-name="CRO: HBO 2 FHD" tvg-logo="" group-title="Live: Hrvatska",CRO: HBO 2 FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23679.m3u8
+#EXTINF:-1 tvg-ID="hbo3.hr" tvg-name="CRO: HBO 3 FHD" tvg-logo="" group-title="Live: Hrvatska",CRO: HBO 3 FHD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23678.m3u8
+#EXTINF:-1 tvg-ID="scifich.hr" tvg-name="CRO: SciFi" tvg-logo="[" group-title="Live: Hrvatska",CRO: SciFi
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23685.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: KINO HD" tvg-logo="" group-title="Live: Hrvatska",CRO: KINO HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23683.m3u8
+#EXTINF:-1 tvg-ID="historychannelhd.hr" tvg-name="CRO: History 2" tvg-logo="[" group-title="Live: Hrvatska",CRO: History 2
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23659.m3u8
+#EXTINF:-1 tvg-ID="historychannel.hr" tvg-name="CRO: History Channel" tvg-logo="[" group-title="Live: Hrvatska",CRO: History Channel
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23660.m3u8
+#EXTINF:-1 tvg-ID="hntv.hr" tvg-name="CRO: HNTV" tvg-logo="[" group-title="Live: Hrvatska",CRO: HNTV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23651.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: Jabuka TV" tvg-logo="" group-title="Live: Hrvatska",CRO: Jabuka TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23697.m3u8
+#EXTINF:-1 tvg-ID="jugoton.hr" tvg-name="CRO: Jugoton TV" tvg-logo="" group-title="Live: Hrvatska",CRO: Jugoton TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23699.m3u8
+#EXTINF:-1 tvg-ID="kanalri.hr" tvg-name="CRO: Kanal Ri" tvg-logo="" group-title="Live: Hrvatska",CRO: Kanal Ri
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23702.m3u8
+#EXTINF:-1 tvg-ID="klasiktv.hr" tvg-name="CRO: Klasik TV" tvg-logo="" group-title="Live: Hrvatska",CRO: Klasik TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/13600.m3u8
+#EXTINF:-1 tvg-ID="kreatortv.hr" tvg-name="CRO: Kreator TV" tvg-logo="[" group-title="Live: Hrvatska",CRO: Kreator TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23652.m3u8
+#EXTINF:-1 tvg-ID="laudatotv.hr" tvg-name="CRO: Laudato TV" tvg-logo="" group-title="Live: Hrvatska",CRO: Laudato TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23704.m3u8
+#EXTINF:-1 tvg-ID="loviribolov.rs" tvg-name="CRO: Lov I Ribolov" tvg-logo="[" group-title="Live: Hrvatska",CRO: Lov I Ribolov
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23661.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 1 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: MAXCRO SELECT 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23649.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 2 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: MAXCRO SELECT 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23646.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 3 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: MAXCRO SELECT 3 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23645.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 4 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: MAXCRO SELECT 4 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23644.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 5 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: MAXCRO SELECT 5 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23643.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 6 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: MAXCRO SELECT 6 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23642.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 7 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: MAXCRO SELECT 7 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23641.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 8 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: MAXCRO SELECT 8 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23640.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 9 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: MAXCRO SELECT 9 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23639.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 10 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: MAXCRO SELECT 10 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23648.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT 11 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: MAXCRO SELECT 11 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23647.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: MAXCRO SELECT Action HD" tvg-logo="" group-title="Live: Hrvatska",CRO: MAXCRO SELECT Action HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23637.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: Mreza Split" tvg-logo="" group-title="Live: Hrvatska",CRO: Mreza Split
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23638.m3u8
+#EXTINF:-1 tvg-ID="mtvadria.cr" tvg-name="CRO: MTV Adria" tvg-logo="" group-title="Live: Hrvatska",CRO: MTV Adria
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23703.m3u8
+#EXTINF:-1 tvg-ID="n1.hr" tvg-name="CRO: N1 Hrvatska" tvg-logo="[" group-title="Live: Hrvatska",CRO: N1 Hrvatska
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23711.m3u8
+#EXTINF:-1 tvg-ID="narodnatv.hr" tvg-name="CRO: Narodna TV" tvg-logo="[" group-title="Live: Hrvatska",CRO: Narodna TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23695.m3u8
+#EXTINF:-1 tvg-ID="natgeowild.hr" tvg-name="CRO: Nat Geo Wild" tvg-logo="[" group-title="Live: Hrvatska",CRO: Nat Geo Wild
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23657.m3u8
+#EXTINF:-1 tvg-ID="osjeckatv.hr" tvg-name="CRO: Osjecka" tvg-logo="[" group-title="Live: Hrvatska",CRO: Osjecka
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23707.m3u8
+#EXTINF:-1 tvg-ID="sbtv.hr" tvg-name="CRO: SB TV" tvg-logo="" group-title="Live: Hrvatska",CRO: SB TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23696.m3u8
+#EXTINF:-1 tvg-ID="arenasport1.hr" tvg-name="CRO: Arena Sport 1 HD" tvg-logo="" group-title="Live: Hrvatska",CRO: Arena Sport 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2505.m3u8
+#EXTINF:-1 tvg-ID="arenasport2.hr" tvg-name="CRO: Arena Sport 2 HD" tvg-logo="" group-title="Live: Hrvatska",CRO: Arena Sport 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2503.m3u8
+#EXTINF:-1 tvg-ID="arenasport3.hr" tvg-name="CRO: Arena Sport 3 HD" tvg-logo="" group-title="Live: Hrvatska",CRO: Arena Sport 3 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2501.m3u8
+#EXTINF:-1 tvg-ID="arenasport4.hr" tvg-name="CRO: Arena Sport 4 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: Arena Sport 4 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2499.m3u8
+#EXTINF:-1 tvg-ID="arenasport5.hr" tvg-name="CRO: Arena Sport 5 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: Arena Sport 5 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2497.m3u8
+#EXTINF:-1 tvg-ID="arenasport6.hr" tvg-name="CRO: Arena Sport 6 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: Arena Sport 6 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/13586.m3u8
+#EXTINF:-1 tvg-ID="sportklub1.hr" tvg-name="CRO: SPORT KLUB 1 HD" tvg-logo="" group-title="Live: Hrvatska",CRO: SPORT KLUB 1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2494.m3u8
+#EXTINF:-1 tvg-ID="sportklub2.hr" tvg-name="CRO: SPORT KLUB 2 HD" tvg-logo="" group-title="Live: Hrvatska",CRO: SPORT KLUB 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2493.m3u8
+#EXTINF:-1 tvg-ID="sportklub3.hr" tvg-name="CRO: SPORT KLUB 3 HD" tvg-logo="" group-title="Live: Hrvatska",CRO: SPORT KLUB 3 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2492.m3u8
+#EXTINF:-1 tvg-ID="sportklub4.hr" tvg-name="CRO: SPORT KLUB 4 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: SPORT KLUB 4 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5345.m3u8
+#EXTINF:-1 tvg-ID="sportklub5.hr" tvg-name="CRO: SPORT KLUB 5 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: SPORT KLUB 5 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5344.m3u8
+#EXTINF:-1 tvg-ID="sportklub6.hr" tvg-name="CRO: SPORT KLUB 6 HD" tvg-logo="[" group-title="Live: Hrvatska",CRO: SPORT KLUB 6 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5343.m3u8
+#EXTINF:-1 tvg-ID="tlc.rs" tvg-name="CRO: TLC" tvg-logo="" group-title="Live: Hrvatska",CRO: TLC
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23694.m3u8
+#EXTINF:-1 tvg-ID="travelchannel.hr" tvg-name="CRO: Travel Channel" tvg-logo="[" group-title="Live: Hrvatska",CRO: Travel Channel
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23656.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CRO: Trend TV Karlovac" tvg-logo="" group-title="Live: Hrvatska",CRO: Trend TV Karlovac
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23706.m3u8
+#EXTINF:-1 tvg-ID="tv1000.hr" tvg-name="CRO: TV 1000" tvg-logo="" group-title="Live: Hrvatska",CRO: TV 1000
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/13597.m3u8
+#EXTINF:-1 tvg-ID="viasatexplore.hr" tvg-name="CRO: Viasat Explorer" tvg-logo="[" group-title="Live: Hrvatska",CRO: Viasat Explorer
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23655.m3u8
+#EXTINF:-1 tvg-ID="viasathistory.hr" tvg-name="CRO: Viasat History" tvg-logo="[" group-title="Live: Hrvatska",CRO: Viasat History
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23654.m3u8
+#EXTINF:-1 tvg-ID="viasatnature.hr" tvg-name="CRO: Viasat Nature" tvg-logo="[" group-title="Live: Hrvatska",CRO: Viasat Nature
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23653.m3u8
+#EXTINF:-1 tvg-ID="vinkovackatv.hr" tvg-name="CRO: Vinkovacka TV" tvg-logo="[" group-title="Live: Hrvatska",CRO: Vinkovacka TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23701.m3u8
+#EXTINF:-1 tvg-ID="amc.hr" tvg-name="CRO: AMC" tvg-logo="[" group-title="Live: Hrvatska",CRO: AMC
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23684.m3u8
+#EXTINF:-1 tvg-ID="animalplanet.hr" tvg-name="CRO: Animal Planet" tvg-logo="[" group-title="Live: Hrvatska",CRO: Animal Planet
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23668.m3u8
+#EXTINF:-1 tvg-ID="axn.rs" tvg-name="CRO: AXN Adria" tvg-logo="[" group-title="Live: Hrvatska",CRO: AXN Adria
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23692.m3u8
+#EXTINF:-1 tvg-ID="tvjadran.hr" tvg-name="CRO: Jadran TV" tvg-logo="" group-title="Live: Hrvatska",CRO: Jadran TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23698.m3u8
+#EXTINF:-1 tvg-ID="axnspin.rs" tvg-name="CRO: AXN Spin" tvg-logo="[" group-title="Live: Hrvatska",CRO: AXN Spin
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23691.m3u8
+#EXTINF:-1 tvg-ID="slavonskatv.hr" tvg-name="CRO: Slavonska TV" tvg-logo="[" group-title="Live: Hrvatska",CRO: Slavonska TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23708.m3u8
+#EXTINF:-1 tvg-ID="tvistra.hr" tvg-name="CRO: Doku TV" tvg-logo="" group-title="Live: Hrvatska",CRO: Doku TV
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23709.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CRO: TV Banovina" tvg-logo="[" group-title="Live: Hrvatska",CRO: TV Banovina
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23710.m3u8
+#EXTINF:-1 tvg-ID="varazdinskatelevizija.hr" tvg-name="CRO: VTV Varazdin" tvg-logo="" group-title="Live: Hrvatska",CRO: VTV Varazdin
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23705.m3u8
+#EXTINF:-1 tvg-ID="24kitchen.rs" tvg-name="CRO: 24 Kitchen" tvg-logo="[" group-title="Live: Hrvatska",CRO: 24 Kitchen
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/23669.m3u8
+#EXTINF:-1 tvg-ID="z1.hr" tvg-name="CRO: Z1 HD" tvg-logo="" group-title="Live: Hrvatska",CRO: Z1 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/20607.m3u8
